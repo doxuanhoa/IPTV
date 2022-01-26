@@ -19,7 +19,7 @@ https://vips-livecdn.fptplay.net/hda2/vtv5hd_vhls.smil/chunklist_b5000000.m3u8
 https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
 
 
-#EXTINF:-1 tvg-id="antvhd" group-title="ANTV - TRUYỀN HÌNH CÔNG AN NHÂN DÂN" tvg-logo="https://i.postimg.cc/6Qk7dZgH/ANTV.png",AN NINH TV
+#EXTINF:-1 tvg-id="antvhd" group-title="ANTV - TRUYỀN HÌNH CÔNG AN NHÂN DÂN" tvg-logo="https://i.postimg.cc/YSgRhYmN/ANTV.png",AN NINH TV
 https://vips-livecdn.fptplay.net/hda2/anninhtv_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="qpvnhd"  tvg-logo="https://i.postimg.cc/43mM8s5d/QPVN-N.png" group-title="QPVN - TRUYỀN HÌNH QUỐC PHÒNG VIỆT NAM ",QUỐC PHÒNG VIỆT NAM
 https://vips-livecdn.fptplay.net/hda1/quocphongvnhd_vhls.smil/chunklist_b5000000.m3u8

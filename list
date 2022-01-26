@@ -54,6 +54,8 @@ https://vtsstr4.tv24.vn/live/SCTV_HD_PhimChauA_new.smil/chunklist.m3u8?uid=s2c52
 #EXTINF:-1 tvg-id="sctv14hd" group-title="SCTV 14 - KÊNH PHIM TRUYỆN VIỆT NAM" tvg-logo="https://i.postimg.cc/3R8GtzTZ/SCTV-14.png",SCTV14 - PHIM VIỆT
 https://vtsstr7.tv24.vn/live/SCTV_HD_PhimViet_sctv.smil/chunklist.m3u8?uid=s2c526m574z5s4l5h4
 
+#EXTINF:-1 tvg-id="pv" group-title="KÊNH PHIM TRUYỆN VIỆT NAM" tvg-logo="https://i.postimg.cc/RCp8H1DK/phimviet.png",PHIM VIỆT
+https://d1icgg07fblj2l.cloudfront.net/v1/master/ba90b90a0ee2a56a8918633d147a0d5ef56d5d56/1d1b5613-b5ee-4d7c-bf96-136e7b7babbe/1d1b5613-b5ee-4d7c-bf96-136e7b7babbe/amlst:1d1b5613-b5ee-4d7c-bf96-136e7b7babbe_PreRoll/playlist.m3u8
 #EXTINF:-1 tvg-id="vtv4hd" group-title="VTV4" tvg-logo="https://i.postimg.cc/y6w00g7m/VTV4.png" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv4_2000.stream/chunks_dvr_range-${start}-10800.m3u8",VTV4
 https://vips-livecdn.fptplay.net/hda1/vtv4_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtv7hd" group-title="VTV7" tvg-logo="https://i.postimg.cc/wBTN9Dkp/VTV7.png" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv7hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTV7

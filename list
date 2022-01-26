@@ -117,8 +117,6 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-CANHAC-HD-1080p/chunks.m3u8
 
 
 
-
-
 #EXTINF:-1 tvg-id="nhan_dan_tv"  tvg-logo="https://i.postimg.cc/FK8ZGZzW/NHAN-DAN.png" group-title="TRUYỀN HÌNH NHÂN DÂN",NHÂN DÂN
 https://livecdn.fptplay.net/sdc/truyenhinhnhandan_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="quochoi" tvg-logo="https://i.postimg.cc/tJ7LY5Pg/QUOC-HOI.png" group-title="TRUYỀN HÌNH QUỐC HỘI VIỆT NAM",QUỐC HỘI
@@ -357,7 +355,7 @@ https://livecdn.fptplay.net/sda/gialai_2000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.postimg.cc/ncXk9L0k/DRT.png" ,ĐẮK LẮK
 https://livecdn.fptplay.net/sdc/daklak_2000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.postimg.cc/1tvxrJ4r/dak-nong.png" ,ĐẮK NÔNG
-http://vthanh.me/vieon.m3u8?pass=vienthi&type=tivi&kenh=dak-nong
+#http://vthanh.me/vieon.m3u8?pass=vienthi&type=tivi&kenh=dak-nong
 #EXTINF:-1 group-title="TRUYỀN HÌNH LÂM ĐỒNG" tvg-logo="https://i.postimg.cc/jSZVRjRF/Lam-Dong-TV.png", LÂM ĐỒNG
 #http://203.171.21.216:1935/live/smil:LTV.smil/chunklist.m3u8
 https://livecdn.fptplay.net/sdc/lamdong_2000.stream/chunklist.m3u8

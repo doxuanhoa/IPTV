@@ -221,7 +221,7 @@ https://vtsstr7.tv24.vn/live/VTVcab1.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="vtvcab2hd" group-title="VTVcab 2 - KÊNH PHIM TRUYỆN VIỆT NAM" tvg-logo="https://i.postimg.cc/mgSM34SN/vtvcab2.png",VTVcab 2 - ON PHIM VIỆT
 http://s2live.tv1asia.com:21585/vtvcab2/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab4hd" group-title="VTVcab" tvg-logo="https://i.postimg.cc/sfHrWmvT/VTVCAB4.png",VTVcab 4
-
+http://dung1202.duckdns.org:12381/udp/232.84.2.190:10924
 #EXTINF:-1 tvg-id="vtvcab5hd" group-title="VTVcab" tvg-logo="https://i.postimg.cc/0yDRLqZ4/VTVCAB5.png",VTVcab5 - E CHANNEL
 
 #EXTINF:-1 tvg-id="vtvcab6hd" group-title="VTVcab" tvg-logo="https://i.postimg.cc/pXFYQTd4/VTV-CAB-6.png",VTVcab6

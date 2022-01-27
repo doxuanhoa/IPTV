@@ -29,7 +29,9 @@ https://vips-livecdn.fptplay.net/hda1/quocphongvnhd_vhls.smil/chunklist_b5000000
 http://103.90.220.236/thhnlive/tv1live.m3u8
 #https://livecdn.fptplay.net/sda/hanam_2000.stream/chunklist.m3u8
 
-
+#EXTINF:-1 tvg-id="htvthethaohd" group-title="HTV THỂ THAO"  tvg-logo="https://upload.wikimedia.org/wikipedia/vi/3/3f/HTV_THETHAO_2014.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcthethao_1000.stream/playlist_dvr_range-${start}-${offset}.m3u8",HTV THỂ THAO
+https://vips-livecdn.fptplay.net/hda3/htvcthethao_vhls.smil/chunklist.m3u8
+#https://livecdn.fptplay.net/sdb/htvcthethao_hls.smil/chunklist_b2500000.m3u8
 
 
 #EXTINF:-1 tvg-id="vtc1hd" group-title="VTC1 - KÊNH THỜI SỰ CHÍNH TRỊ TỔNG HỢP" tvg-logo="https://i.postimg.cc/s2RKtcgh/VTC1.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc1_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTC1
@@ -640,9 +642,7 @@ https://livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
 #https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
 
 
-#EXTINF:-1 tvg-id="htvthethaohd" group-title="HTV THỂ THAO"  tvg-logo="https://upload.wikimedia.org/wikipedia/vi/3/3f/HTV_THETHAO_2014.png",HTV THỂ THAO
-https://vips-livecdn.fptplay.net/hda3/htvcthethao_vhls.smil/chunklist.m3u8
-#https://livecdn.fptplay.net/sdb/htvcthethao_hls.smil/chunklist_b2500000.m3u8
+
 #EXTINF:-1 tvg-id="vtvcab16hd" group-title="ON FOOTBALL- KÊNH THỂ THAO"  tvg-logo="https://i.postimg.cc/GmY0sbVb/ONF.png", ON FOOTBALL
 https://vtsstr7.tv24.vn/live/VTVcab16HD_temp_new.smil/chunklist.m3u8?uid=s2c526m574z5s4l5h4
 

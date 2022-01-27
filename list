@@ -94,9 +94,9 @@ https://livecdn.fptplay.net/hda2/vinhlong3_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vinhlong4hd" group-title="TRUYỀN HÌNH VĨNH LONG 4" tvg-logo="https://i.postimg.cc/50gMKnJg/thvl4.png" ,VĨNH LONG 4
 https://livecdn.fptplay.net/hda3/vinhlong4hd_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="vtc3hd" group-title="VTC3" tvg-logo="https://static.wikia.nocookie.net/vtc/images/f/f5/VTC3_logo.png/revision/latest?cb=20200730061237&path-prefix=vi" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc3_1000.stream/chunks_dvr_range-${start}-10800.m3u8",VTC3
+#EXTINF:-1 tvg-id="vtc3hd" group-title="VTC3" tvg-logo="https://static.wikia.nocookie.net/vtc/images/f/f5/VTC3_logo.png/revision/latest?cb=20200730061237&path-prefix=vi" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc3_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTC3
 https://vips-livecdn.fptplay.net/hda1/vtc3hd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="vtc13hd" group-title="VTC13" tvg-logo="https://i.postimg.cc/Jz6r6f71/VTC13.png" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc13_1000.stream/chunks_dvr_range-${start}-10800.m3u8",VTC13
+#EXTINF:-1 tvg-id="vtc13hd" group-title="VTC13" tvg-logo="https://i.postimg.cc/Jz6r6f71/VTC13.png" ,VTC13
 https://vips-livecdn.fptplay.net/hda1/vtc13_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="htvcthuanviethd" group-title="HTVC THUẦN VIỆT HD" tvg-logo="https://i.postimg.cc/C1r1m6d0/oie-pkz-OSfa-I90-YX.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcthuanviethd_1000.stream/playlist_dvr_range-${start}-${offset}.m3u8",THUẦN VIỆT HD

@@ -474,7 +474,7 @@ https://vtsstr7.tv24.vn/live/Woman.smil/chunklist.m3u8?uid=s2c526m574z5s4l5h4
 https://vtsstr7.tv24.vn/live/Planet_Earth.smil/chunklist.m3u8?uid=s2c526m574z5s4l5h4
 
 
-#EXTINF:-1 tvg-id="tlchd" group-title="Quốc tế" tvg-logo="https://i.postimg.cc/FzGNK1JF/TLC.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/warnertv_1000.stream/playlist_dvr_range-${start}-${offset}.m3u8", TLC
+#EXTINF:-1 tvg-id="tlchd" group-title="Quốc tế" tvg-logo="https://i.postimg.cc/FzGNK1JF/TLC.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/travelliving_1000.stream/playlist_dvr_range-${start}-${offset}.m3u8", TLC
 https://livecdn.fptplay.net/hda2/travelliving_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF: tvg-id="afnhd" group-title="Quốc tế" tvg-logo="https://i.postimg.cc/L8Z8YTrY/afn.png", ASIAN FOOD NETWORK
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AFC-HD-1080p/playlist.m3u8

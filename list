@@ -615,9 +615,9 @@ https://livecdn.fptplay.net/hda3/cbeebies_vhls.smil/chunklist_b5000000.m3u8
 https://livecdn.fptplay.net/hda3/dreamworks_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="animaxhd" group-title="ANIMAX - KÊNH PHIM THIẾU NHI NHẬT BẢN" tvg-logo="https://i.postimg.cc/bv4qypKm/animax.png",ANIMAX
 https://livecdn.fptplay.net/hda3/animaxport_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="BOOMERANG - KÊNH THIẾU NHI" tvg-logo="https://i.postimg.cc/jSHTtTG2/BOOMERANG.png",BOOMERANG
+#EXTINF:-1 group-title="BOOMERANG - KÊNH THIẾU NHI" tvg-logo="https://i.postimg.cc/jSHTtTG2/BOOMERANG.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/boomerang_1000.stream/playlist_dvr_range-${start}-${offset}.m3u8",BOOMERANG
 https://livecdn.fptplay.net/hda3/boomerang_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="cartoonhd" group-title="CARTOON NETWORK - KÊNH THIẾU NHI" tvg-logo="https://i.postimg.cc/k4vhcfLg/CARTOON-NETWORK.png",CARTOON NETWORK
+#EXTINF:-1 tvg-id="cartoonhd" group-title="CARTOON NETWORK - KÊNH THIẾU NHI" tvg-logo="https://i.postimg.cc/k4vhcfLg/CARTOON-NETWORK.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/cartoonnetworkhd_1000.stream/playlist_dvr_range-${start}-${offset}.m3u8",CARTOON NETWORK
 https://livecdn.fptplay.net/hda3/cartoonnetworkhd_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="kplus1hd" group-title=" K+1 - TRUYỀN HÌNH VỆ TINH K+" tvg-logo="https://i.postimg.cc/6p4JWbx0/K-1.png",K+1
@@ -629,10 +629,10 @@ https://livecdn.fptplay.net/hda3/cartoonnetworkhd_vhls.smil/chunklist_b5000000.m
 https://livecdn.fptplay.net/hda2/cinemawork_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="warnertvhd" tvg-logo="https://i.postimg.cc/kM0VczXr/WBTV.png" group-title="WARNER TV -  KÊNH GIẢI TRÍ", WARNER TV
 http://livecdn.fptplay.net/hda3/warnertv_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="cinemaxhd"  tvg-logo="https://i.postimg.cc/VLWvtQyD/cinemax.png" group-title="CINEMAX - KÊNH PHIM TRUYỆN ĐẶC SẮC",CINEMAX
+#EXTINF:-1 tvg-id="cinemaxhd"  tvg-logo="https://i.postimg.cc/VLWvtQyD/cinemax.png" group-title="CINEMAX - KÊNH PHIM TRUYỆN ĐẶC SẮC" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/cinemax_1500.stream/playlist_dvr_range-${start}-${offset}.m3u8",CINEMAX
 https://livecdn.fptplay.net/hda1/cinemax_vhls.smil/chunklist_b5000000.m3u8
 #https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
-#EXTINF:-1 group-title="HBO - KÊNH PHIM TRUYỆN ĐẶC SẮC" tvg-id="hbohd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/HBO_New_Logo.png", HBO
+#EXTINF:-1 group-title="HBO - KÊNH PHIM TRUYỆN ĐẶC SẮC" tvg-id="hbohd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/HBO_New_Logo.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/hbo_1500.stream/playlist_dvr_range-${start}-${offset}.m3u8", HBO
 https://livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
 #https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
 

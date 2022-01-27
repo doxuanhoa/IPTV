@@ -87,21 +87,21 @@ https://vips-livecdn.fptplay.net/hda1/vinhlong1_vhls.smil/chunklist_b5000000.m3u
 #EXTINF:-1 tvg-id="vinhlong2hd" group-title="TRUYỀN HÌNH VĨNH LONG 2" tvg-logo="https://i.postimg.cc/BtfZsnhp/thvl2.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vinhlong2_1000.stream/playlist_dvr_range-${start}-${offset}.m3u8",VĨNH LONG 2
 #http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/THVL2-HD-1080p/chunks.m3u8?
 https://vips-livecdn.fptplay.net/hda2/vinhlong2_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="vinhlong3hd" group-title="TRUYỀN HÌNH VĨNH LONG 3" tvg-logo="https://i.postimg.cc/HkNGyqLQ/THVL3.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vinhlong3_1000.stream/playlist_dvr_range-${start}-${offset}.m3u8",VĨNH LONG 3
+#EXTINF:-1 tvg-id="vinhlong3hd" group-title="TRUYỀN HÌNH VĨNH LONG 3" tvg-logo="https://i.postimg.cc/HkNGyqLQ/THVL3.png" ,VĨNH LONG 3
 https://livecdn.fptplay.net/hda2/vinhlong3_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="vinhlong4hd" group-title="TRUYỀN HÌNH VĨNH LONG 4" tvg-logo="https://i.postimg.cc/50gMKnJg/thvl4.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vinhlong4_1000.stream/playlist_dvr_range-${start}-${offset}.m3u8",VĨNH LONG 4
+#EXTINF:-1 tvg-id="vinhlong4hd" group-title="TRUYỀN HÌNH VĨNH LONG 4" tvg-logo="https://i.postimg.cc/50gMKnJg/thvl4.png" ,VĨNH LONG 4
 https://livecdn.fptplay.net/hda3/vinhlong4hd_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="vtc3hd" group-title="VTC3 - KÊNH THỂ THAO" tvg-logo="https://static.wikia.nocookie.net/vtc/images/f/f5/VTC3_logo.png/revision/latest?cb=20200730061237&path-prefix=vi" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc3_1000.stream/chunks_dvr_range-${start}-10800.m3u8",VTC3
+#EXTINF:-1 tvg-id="vtc3hd" group-title="VTC3" tvg-logo="https://static.wikia.nocookie.net/vtc/images/f/f5/VTC3_logo.png/revision/latest?cb=20200730061237&path-prefix=vi" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc3_1000.stream/chunks_dvr_range-${start}-10800.m3u8",VTC3
 https://vips-livecdn.fptplay.net/hda1/vtc3hd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="vtc13hd" group-title="VTC13 - KÊNH ÂM NHẠC" tvg-logo="https://i.postimg.cc/Jz6r6f71/VTC13.png" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc13_1000.stream/chunks_dvr_range-${start}-10800.m3u8",VTC13
+#EXTINF:-1 tvg-id="vtc13hd" group-title="VTC13" tvg-logo="https://i.postimg.cc/Jz6r6f71/VTC13.png" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc13_1000.stream/chunks_dvr_range-${start}-10800.m3u8",VTC13
 https://vips-livecdn.fptplay.net/hda1/vtc13_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-id="htvcthuanviethd" group-title="HTVC THUẦN VIỆT HD" tvg-logo="https://i.postimg.cc/C1r1m6d0/oie-pkz-OSfa-I90-YX.png",THUẦN VIỆT HD
+#EXTINF:-1 tvg-id="htvcthuanviethd" group-title="HTVC THUẦN VIỆT HD" tvg-logo="https://i.postimg.cc/C1r1m6d0/oie-pkz-OSfa-I90-YX.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcthuanviethd_1000.stream/playlist_dvr_range-${start}-${offset}.m3u8",THUẦN VIỆT HD
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-THUANVIETHD-HD-1080p/playlist.m3u8?
-#EXTINF:-1 tvg-id="htvcthuanviet" group-title="HTVC THUẦN VIỆT" tvg-logo="https://i.postimg.cc/zXFMh70j/thuan-viet-htvc.png" ,THUẦN VIỆT
+#EXTINF:-1 tvg-id="htvcthuanviet" group-title="HTVC THUẦN VIỆT" tvg-logo="https://i.postimg.cc/zXFMh70j/thuan-viet-htvc.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcthuanviet_1000.stream/playlist_dvr_range-${start}-${offset}.m3u8",THUẦN VIỆT
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-THUANVIET-HD-1080p/chunks.m3u8?
-#EXTINF:-1 tvg-id="htvcphimhd" group-title="HTVC PHIM - KÊNH PHIM TRUYỆN TỔNG HỢP" tvg-logo="http://htvc.vn/uploads/editor/images/LOGO%20KENH%20PHIM-01(1).png",HTVC PHIM
+#EXTINF:-1 tvg-id="htvcphimhd" group-title="HTVC PHIM - KÊNH PHIM TRUYỆN TỔNG HỢP" tvg-logo="http://htvc.vn/uploads/editor/images/LOGO%20KENH%20PHIM-01(1).png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcmovieshd_1000.stream/playlist_dvr_range-${start}-${offset}.m3u8",HTVC PHIM
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PHIM-HD-1080p/playlist.m3u8
 #https://vips-livecdn.fptplay.net/hda2/htvcmoviehd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="htvcgiadinhhd" group-title="HTVC GIA ĐÌNH" tvg-logo="http://htvc.vn/uploads/editor/images/LOGO%20HTVC%20GIA%20DINH%20MOI(1).png",GIA ĐÌNH

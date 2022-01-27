@@ -550,9 +550,7 @@ https://vips-livecdn.fptplay.net/hda3/kbs_4000.stream/chunklist.m3u8
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8
 #EXTINF:-1 group-title="Quốc tế" tvg-id="ngchd" tvg-logo="https://assets.cdn.watchdisneyfe.com/delta/assets/natgeo/national-geographic.png", NATIONAL GEOGRAPHIC
 https://livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="Quốc tế" tvg-id="discoveryhd" tvg-logo="https://i.postimg.cc/90YWnv37/Discovery.png", DISCOVERY CHANNEL
-#https://livecdn.fptplay.net/qnetlive/discovery_2000.stream/chunklist.m3u8
-https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DISCOVERY-HD-1080p/playlist.m3u8
+
 
 
 #EXTINF:-1 group-title="Quốc tế" tvg-id="blueantent" tvg-logo="https://i.postimg.cc/FR73rDVx/BLUE-ANT.png", BLUE ANT ENTERTAINMENT
@@ -595,15 +593,11 @@ http://catchup.nethubtv.vn/live/box-hits/chunklist_2.m3u8
 #EXTINF:-1 tvg-id="vtv6hd" group-title="VTV6" tvg-logo="https://i.postimg.cc/rwTWYB0z/VTV6.png", VTV6 VNPT
 
 
-#EXTINF:-1 tvg-id="discoveryasiahd" group-title="KÊNH PHÁM PHÁ CHÂU Á" tvg-logo="https://i.postimg.cc/QtVffdJF/DISCOVERY-ASIA.png",DISCOVERY ASIA
-https://livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="bbc_earth" group-title="Quốc tế" tvg-logo="https://i.postimg.cc/qqx2gGLM/oie-Nd9dlcrft-Y6m.png",BBC EARTH
-https://livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist_b5000000.m3u8
+
 #EXTINF:-1 group-title="NATIONAL GEOGRAPHIC WILD - KÊNH ĐỘNG VẬT HOANG DÃ & TỰ NHIÊN" tvg-id="ngwhd" tvg-logo="https://i.postimg.cc/d3mQNnrs/WILD.png",  NATIONAL GEOGRAPHIC WILD
 #https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/NATGEOWILD-HD-1080p/chunks.m3u8
 https://livecdn.fptplay.net/hda3/natgeowild_vhls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="animalhd" group-title="ANIMAL PLANET - KÊNH ĐỘNG VẬT HOANG DÃ VÀ THÚ NUÔI" tvg-logo="https://i.postimg.cc/bY4MVMsv/ANIMAL-PLANET.png",HÀNH TINH ĐỘNG VẬT
-https://livecdn.fptplay.net/hda2/animalplanet_vhls.smil/chunklist_b5000000.m3u8
+
 
 
 #EXTINF:-1 tvg-id="disney_channel" tvg-logo="https://i.postimg.cc/mZhZDXRH/disney.png" group-title="DISNEY CHANNEL",DISNEY CHANNEL
@@ -624,6 +618,15 @@ https://livecdn.fptplay.net/hda3/cartoonnetworkhd_vhls.smil/chunklist_b5000000.m
 #EXTINF:-1 tvg-id="kpluspchd" group-title="TRUYỀN HÌNH K+" tvg-logo="https://i.postimg.cc/KvcYJbSH/K-PC.png", K+PC
 #EXTINF:-1 tvg-id="kplusnshd" group-title="TRUYỀN HÌNH K+" tvg-logo="https://i.postimg.cc/L6bFMKw5/K-NS.png",K+NS
 
+#EXTINF:-1 group-title="DISCOVERY - KÊNH KHOA HỌC" tvg-id="discoveryhd" tvg-logo="https://i.postimg.cc/90YWnv37/Discovery.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/discovery_1000.stream/playlist_dvr_range-${start}-${offset}.m3u8", DISCOVERY
+#https://livecdn.fptplay.net/qnetlive/discovery_2000.stream/chunklist.m3u8
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DISCOVERY-HD-1080p/playlist.m3u8
+#EXTINF:-1 tvg-id="animalhd" group-title="ANIMAL PLANET - KÊNH ĐỘNG VẬT HOANG DÃ VÀ THÚ NUÔI" tvg-logo="https://i.postimg.cc/bY4MVMsv/ANIMAL-PLANET.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/animalplanet_1000.stream/playlist_dvr_range-${start}-${offset}.m3u8",ANIMAL PLANET
+https://livecdn.fptplay.net/hda2/animalplanet_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="discoveryasiahd" group-title="KÊNH PHÁM PHÁ CHÂU Á" tvg-logo="https://i.postimg.cc/QtVffdJF/DISCOVERY-ASIA.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/discoveryasia_1000.stream/playlist_dvr_range-${start}-${offset}.m3u8",DISCOVERY ASIA
+https://livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="bbc_earth" group-title="Quốc tế" tvg-logo="https://i.postimg.cc/qqx2gGLM/oie-Nd9dlcrft-Y6m.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/bbcearth_1000.stream/playlist_dvr_range-${start}-${offset}.m3u8",BBC EARTH
+https://livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="cinemaworldhd" group-title="CINEMA WORLD - KÊNH PHIM TRUYỆN ĐẶC SẮC"  tvg-logo="https://i.postimg.cc/Y9bwbf8q/CINEMA-WORLD.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/cinemawork_1000.stream/playlist_dvr_range-${start}-${offset}.m3u8",CINEMA WORLD
 https://livecdn.fptplay.net/hda2/cinemawork_vhls.smil/chunklist_b5000000.m3u8

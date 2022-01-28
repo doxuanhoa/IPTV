@@ -363,7 +363,7 @@ https://livecdn.fptplay.net/sdc/daklak_2000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.postimg.cc/1tvxrJ4r/dak-nong.png" ,ĐẮK NÔNG
 #http://vthanh.me/vieon.m3u8?pass=vienthi&type=tivi&kenh=dak-nong
 http://139.99.30.49:9981/stream/mux/4fbc29841601db0b10e83487c30c1173?ticket=BABAF020041C5F328D69A547A70A2ECBA96C87EB
-#EXTINF:-1 group-title="TRUYỀN HÌNH LÂM ĐỒNG" tvg-logo="https://i.postimg.cc/jSZVRjRF/Lam-Dong-TV.png", LÂM ĐỒNG
+#EXTINF:-1 group-title="TRUYỀN HÌNH LÂM ĐỒNG" tvg-logo="https://i.postimg.cc/65rDsfKS/LTV.png", LÂM ĐỒNG
 #http://203.171.21.216:1935/live/smil:LTV.smil/chunklist.m3u8
 https://livecdn.fptplay.net/sdc/lamdong_2000.stream/chunklist.m3u8
 

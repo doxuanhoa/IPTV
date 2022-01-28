@@ -438,8 +438,7 @@ https://livecdn.fptplay.net/sda/btv6_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="PHIM_HAY" group-title="HTV/HTVC" tvg-logo="https://i.postimg.cc/WbqBpr94/PHIM-HAY.png", PHIM HAY
 #EXTINF:-1 tvg-id=""  group-title="KÊNH THIẾT YẾU" tvg-logo="http://xspace.talaweb.com/suamaytinhbang115/home/share/KhanhChi1202.hsvn/logo-antg.png", AN NINH THẾ GIỚI
 #EXTINF:-1 tvg-id="mov" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.postimg.cc/x1NC8rTh/MOV.png",Hanoicab4 - MOV
-#EXTINF:-1 group-title="THIẾU NHI" tvg-logo="https://i.postimg.cc/R06YKbPR/bptv3.png" ,ANT - BÌNH PHƯỚC 3
-https://mziyw7t0yhliv.vcdn.cloud/live/binhphuoc3/chunklist_1.m3u8
+
 
 #EXTINF:-1 tvg-id="bbcworldnews"  tvg-logo="https://i.postimg.cc/6348Q5B0/BBCWORLDNEW.png" group-title="Quốc tế",BBC WORLD NEWS
 https://livecdn.fptplay.net/sdb/bbcnew_2000.stream/chunklist.m3u8
@@ -607,7 +606,9 @@ https://livecdn.fptplay.net/hda3/natgeowild_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="cbeebies" group-title="BBC CBEEBIES - KÊNH THIẾU NHI" tvg-logo="https://i.postimg.cc/XqgV669g/BBC-C.png",BBC CBEEBIES
 https://livecdn.fptplay.net/hda3/cbeebies_vhls.smil/chunklist_b5000000.m3u8
 
-
+#EXTINF:-1 group-title="THIẾU NHI" tvg-logo="https://i.postimg.cc/R06YKbPR/bptv3.png" ,ANT - BÌNH PHƯỚC 3
+#https://mziyw7t0yhliv.vcdn.cloud/live/binhphuoc3/chunklist_1.m3u8
+https://livecdn.fptplay.net/sda/ant_2000.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="dreamworks" group-title="KÊNH THIẾU NHI" tvg-logo="https://i.postimg.cc/kGq6T1S8/DrW.png",DREAM WORKS
 https://livecdn.fptplay.net/hda3/dreamworks_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="animaxhd" group-title="ANIMAX - KÊNH PHIM THIẾU NHI NHẬT BẢN" tvg-logo="https://i.postimg.cc/bv4qypKm/animax.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/animaxport_1000.stream/playlist_dvr_range-${start}-${offset}.m3u8",ANIMAX

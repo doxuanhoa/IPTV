@@ -248,7 +248,8 @@ https://vtsstr7.tv24.vn/live/VTVcab9.smil/chunklist.m3u8
 #EXTINF:-1 group-title="TRUYỀN HÌNH ĐIỆN BIÊN" tvg-logo="https://i.postimg.cc/brbR00SJ/TV.png" ,ĐIỆN BIÊN
 https://livecdn.fptplay.net/sdc/dienbien_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="TRUYỀN HÌNH LAI CHÂU" tvg-logo="https://i.postimg.cc/RVgH2vhw/LaiChau.png" ,LAI CHÂU
-https://livecdn.fptplay.net/sdc/laichau_hls.smil/chunklist_b2500000.m3u8
+#https://livecdn.fptplay.net/sdc/laichau_hls.smil/chunklist_b2500000.m3u8
+https://livecdn.fptplay.net/sdc/laichau_2000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="TRUYỀN HÌNH LÀO CAI" tvg-logo="https://i.postimg.cc/ydgqCmF0/THLC.png" ,LÀO CAI
 http://cdn.3ssoft.vn/livetv/laocaitv/laocaitv/index.m3u8
 #EXTINF:-1 group-title="TRUYỀN HÌNH YÊN BÁI" tvg-logo="https://i.postimg.cc/SNhktL57/yen-bai.png",YÊN BÁI

@@ -650,20 +650,20 @@ https://vtsstr7.tv24.vn/live/VTVcab16HD_temp_new.smil/chunklist.m3u8?uid=s2c526m
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/V669QzBb/Pladio-FPT.png" group-title="Pladio FPT Play",PLADIO
 https://vips-livecdn.fptplay.net/hda3/pladio_4000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ydwwk87S/radio.png" group-title="Radio",HÀ NAM 📻
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ydwwk87S/radio.png" group-title="Radio",📻 HÀ NAM
 http://103.90.220.236/thhnlive/radio.m3u8
-#EXTINF:-1 group-title="Radio" tvg-logo="https://bizweb.dktcdn.net/thumb/large/100/011/094/products/radiovietnam-radiovietnam-icon.png?v=1503482217710", XONE FM 📻
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/tCYCrBs5/vov1.png" group-title="VOV1 - ĐÀI TIẾNG NÓI VIỆT NAM",VOV1 📻
+#EXTINF:-1 group-title="Radio" tvg-logo="https://bizweb.dktcdn.net/thumb/large/100/011/094/products/radiovietnam-radiovietnam-icon.png?v=1503482217710",📻 XONE FM
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tCYCrBs5/vov1.png" group-title="VOV1 - ĐÀI TIẾNG NÓI VIỆT NAM",📻 VOV1
 http://media.kythuatvov.vn:7001/;stream/
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8P9kxLWV/vov2.png" group-title="VOV2 - ĐÀI TIẾNG NÓI VIỆT NAM",VOV2 📻
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8P9kxLWV/vov2.png" group-title="VOV2 - ĐÀI TIẾNG NÓI VIỆT NAM",📻 VOV2
 http://media.kythuatvov.vn:7003/;stream/
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/RZtCmqQJ/vov3.png" group-title="VOV3 - ĐÀI TIẾNG NÓI VIỆT NAM",VOV3 📻
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RZtCmqQJ/vov3.png" group-title="VOV3 - ĐÀI TIẾNG NÓI VIỆT NAM",📻 VOV3
 http://media.kythuatvov.vn:10005/;stream/
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Dztkg3LH/vov5.png" group-title="VOV5 - ĐÀI TIẾNG NÓI VIỆT NAM",VOV5 📻
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Dztkg3LH/vov5.png" group-title="VOV5 - ĐÀI TIẾNG NÓI VIỆT NAM",📻 VOV5
 #http://media.kythuatvov.vn:7007/;stream/
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/tgHq4y2S/vovgt.png" group-title="KÊNH RADIO TIN TỨC GIAO THÔNG",VOV GIAO THÔNG 📻
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tgHq4y2S/vovgt.png" group-title="KÊNH RADIO TIN TỨC GIAO THÔNG",📻 VOV GIAO THÔNG
 http://stream2.mobiradio.vn/vovradio/vovgthn.stream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/zf7BCws9/logo-vov.png" group-title="Radio",VOV SỨC KHỎE 📻
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zf7BCws9/logo-vov.png" group-title="Radio",📻 VOV SỨC KHỎE
 http://media.kythuatvov.vn:7021/;stream/
-#EXTINF:-1 tvg-logo="https://media.hanoitv.vn/thumb_x350x200/upload/logo_joy.png" group-title="KỂNH RADIO CHUYÊN BIỆT VỀ SỨC KHỎE",ZOY FM - SỨC KHỎE 📻
+#EXTINF:-1 tvg-logo="https://media.hanoitv.vn/thumb_x350x200/upload/logo_joy.png" group-title="KỂNH RADIO CHUYÊN BIỆT VỀ SỨC KHỎE",📻 ZOY FM - SỨC KHỎE
 https://livept.hanoitv.vn/hntvRadio/joyfm.stream_aac/chunklist_w1217393091.m3u8       

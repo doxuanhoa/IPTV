@@ -473,8 +473,7 @@ https://vtsstr7.tv24.vn/live/Woman.smil/chunklist.m3u8?uid=s2c526m574z5s4l5h4
 https://vtsstr7.tv24.vn/live/Planet_Earth.smil/chunklist.m3u8?uid=s2c526m574z5s4l5h4
 
 
-#EXTINF:-1 tvg-id="tlchd" group-title="Quốc tế" tvg-logo="https://i.postimg.cc/FzGNK1JF/TLC.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/travelliving_1000.stream/playlist_dvr_range-${start}-${offset}.m3u8", TLC
-https://livecdn.fptplay.net/hda2/travelliving_vhls.smil/chunklist_b5000000.m3u8
+
 #EXTINF: tvg-id="afnhd" group-title="Quốc tế" tvg-logo="https://i.postimg.cc/L8Z8YTrY/afn.png", ASIAN FOOD NETWORK
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AFC-HD-1080p/playlist.m3u8
 
@@ -537,8 +536,10 @@ http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/.m3u8
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DAVINCY-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="outdoorhd" tvg-logo="https://i.postimg.cc/cJ3SNtp0/outdoor.png" group-title="Quốc tế",OUTDOOR CHANNEL
 https://livecdn.fptplay.net/hda1/outdoorfhd_vhls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="bbclifestyle" tvg-logo="https://i.postimg.cc/7Y8QwJL7/BBC.png" group-title="Quốc tế" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/bbclifestyle_2000.stream/playlist_dvr_range-${start}-${offset}.m3u8",BBC LIFESTYLE
+#EXTINF:-1 tvg-id="bbclifestyle" tvg-logo="https://i.postimg.cc/7Y8QwJL7/BBC.png" group-title="Quốc tế" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/bbclifestyle_2000.stream/playlist_dvr_range-${start}-${offset}.m3u8",BBC LIFESTYLE 🕓
 https://livecdn.fptplay.net/sdb/bbclifestyle_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="tlchd" group-title="Quốc tế" tvg-logo="https://i.postimg.cc/FzGNK1JF/TLC.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/travelliving_1000.stream/playlist_dvr_range-${start}-${offset}.m3u8", TLC 🕓
+https://livecdn.fptplay.net/hda2/travelliving_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="nhk_world" tvg-logo="https://i.postimg.cc/yYMtMnNd/NHK-WORLD.png" group-title="TRUYỀN HÌNH QUỐC GIA NHẬT BẢN NHK",NHK WORLD
 https://vips-livecdn.fptplay.net/hda2/nhkworld_vhls.smil/chunklist_b5000000.m3u8
@@ -560,10 +561,7 @@ https://livecdn.fptplay.net/hda1/blueantent_vhls.smil/chunklist_b5000000.m3u8
 https://livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist_b5000000.m3u8
 
 
-#EXTINF:-1 tvg-id="kix_hd" tvg-logo="https://i.postimg.cc/BQQJV5dj/KIX.png" group-title="Quốc tế",KIX HD
-https://livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="Quốc tế" tvg-id="axnhd" tvg-logo="https://i.postimg.cc/MTSFVhPL/AXN.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/axnhd_1000.stream/playlist_dvr_range-${start}-${offset}.m3u8", AXN
-http://livecdn.fptplay.net/hda3/axnhd_vhls.smil/chunklist_b5000000.m3u8
+
 
 
 
@@ -602,6 +600,8 @@ https://livecdn.fptplay.net/hda3/natgeowild_vhls.smil/chunklist.m3u8
 
 
 #EXTINF:-1 tvg-id="disney_channel" tvg-logo="https://i.postimg.cc/mZhZDXRH/disney.png" group-title="DISNEY CHANNEL",DISNEY CHANNEL
+
+
 #EXTINF:-1 tvg-id="cbeebies" group-title="BBC CBEEBIES - KÊNH THIẾU NHI" tvg-logo="https://i.postimg.cc/XqgV669g/BBC-C.png",BBC CBEEBIES
 https://livecdn.fptplay.net/hda3/cbeebies_vhls.smil/chunklist_b5000000.m3u8
 
@@ -622,7 +622,10 @@ https://livecdn.fptplay.net/hda3/cartoonnetworkhd_vhls.smil/chunklist_b5000000.m
 #EXTINF:-1 tvg-id="kplus1hd" group-title=" K+1 - TRUYỀN HÌNH VỆ TINH K+" tvg-logo="https://i.postimg.cc/6p4JWbx0/K-1.png",K+1
 #EXTINF:-1 tvg-id="kpluspchd" group-title="TRUYỀN HÌNH K+" tvg-logo="https://i.postimg.cc/KvcYJbSH/K-PC.png", K+PC
 #EXTINF:-1 tvg-id="kplusnshd" group-title="TRUYỀN HÌNH K+" tvg-logo="https://i.postimg.cc/L6bFMKw5/K-NS.png",K+NS
-
+#EXTINF:-1 tvg-id="kix_hd" tvg-logo="https://i.postimg.cc/BQQJV5dj/KIX.png" group-title="Quốc tế" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/kixhd_1000.stream/playlist_dvr_range-${start}-${offset}.m3u8",KIX HD 🕓
+https://livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="Quốc tế" tvg-id="axnhd" tvg-logo="https://i.postimg.cc/MTSFVhPL/AXN.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/axnhd_1000.stream/playlist_dvr_range-${start}-${offset}.m3u8", AXN 🕓
+http://livecdn.fptplay.net/hda3/axnhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="DISCOVERY - KÊNH KHOA HỌC" tvg-id="discoveryhd" tvg-logo="https://i.postimg.cc/90YWnv37/Discovery.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/discovery_1000.stream/playlist_dvr_range-${start}-${offset}.m3u8", DISCOVERY 🕓
 #https://livecdn.fptplay.net/qnetlive/discovery_2000.stream/chunklist.m3u8
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DISCOVERY-HD-1080p/playlist.m3u8

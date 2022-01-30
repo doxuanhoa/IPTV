@@ -659,6 +659,9 @@ http://139.99.30.49/VTV6fpt/mpegts
 http://139.99.30.49/VTV6mytv/mpegts
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV1 " tvg-logo="https://i.postimg.cc/mk3tGrJq/VTV1.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8" ,🕓 VTV1 HD
 http://139.99.30.49:9981/stream/mux/cb0cf7144a5139738c930b1f991a1efe?ticket=0B728F5ACF0E114E403A1E997E7ACCED0F788D51
+
+#EXTINF:-1 tvg-id="vtv3hd" group-title="VTV3" tvg-logo="https://i.postimg.cc/3JDt2Qpq/VTV3.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv3hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",🕓 VTV3 HD
+http://139.99.30.49:9981/stream/mux/1e13ac5852c90f4299ce90f0e9d8daa2?ticket=EA437553060C964E5C26733569CF2502E6B49D3C
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/V669QzBb/Pladio-FPT.png" group-title="Pladio FPT Play",PLADIO
 https://vips-livecdn.fptplay.net/hda3/pladio_4000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ydwwk87S/radio.png" group-title="Radio",📻 HÀ NAM

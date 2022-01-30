@@ -589,9 +589,7 @@ http://catchup.nethubtv.vn/live/box-hits/chunklist_2.m3u8
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV1 - ĐỘ NÉT CAO" tvg-logo="https://i.postimg.cc/mk3tGrJq/VTV1.png", VTV1 ĐỘ NÉT CAO
 #EXTINF:-1 tvg-id="vtv3hd" group-title="VTV3 - ĐỘ NÉT CAO" tvg-logo="https://i.postimg.cc/3JDt2Qpq/VTV3.png", VTV3 ĐỘ NÉT CAO
 #EXTINF:-1 tvg-id="vtv6hd" group-title="VTV6 - ĐỘ NÉT CAO" tvg-logo="https://i.postimg.cc/rwTWYB0z/VTV6.png", VTV6 VIETTEL
-#EXTINF:-1 tvg-id="vtv6hd" group-title="VTV6" tvg-logo="https://i.postimg.cc/rwTWYB0z/VTV6.png", VTV6
-#EXTINF:-1 tvg-id="vtv6hd" group-title="VTV6" tvg-logo="https://i.postimg.cc/rwTWYB0z/VTV6.png", VTV6 FPT
-#EXTINF:-1 tvg-id="vtv6hd" group-title="VTV6" tvg-logo="https://i.postimg.cc/rwTWYB0z/VTV6.png", VTV6 VNPT
+
 
 
 
@@ -650,6 +648,15 @@ https://livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="vtvcab16hd" group-title="ON FOOTBALL- KÊNH THỂ THAO"  tvg-logo="https://i.postimg.cc/GmY0sbVb/ONF.png", ON FOOTBALL
 https://vtsstr7.tv24.vn/live/VTVcab16HD_temp_new.smil/chunklist.m3u8?uid=s2c526m574z5s4l5h4
+
+#EXTINF:-1 tvg-id="vtv6hd" group-title="VTV6" tvg-logo="https://i.postimg.cc/rwTWYB0z/VTV6.png", VTv6 HD
+http://bongdavtv3.duckdns.org:56765/stream/channelid/596970684?ticket=9184E0FE1069C4DD272BE7776900F48701C58F88&profile=pass
+#EXTINF:-1 tvg-id="vtv6hd" group-title="VTV6" tvg-logo="https://i.postimg.cc/rwTWYB0z/VTV6.png", VTv6 VIETTEL
+http://139.99.30.49/VTV6/mpegts
+#EXTINF:-1 tvg-id="vtv6hd" group-title="VTV6" tvg-logo="https://i.postimg.cc/rwTWYB0z/VTV6.png", VTV6 FPT
+http://139.99.30.49/VTV6fpt/mpegts
+#EXTINF:-1 tvg-id="vtv6hd" group-title="VTV6" tvg-logo="https://i.postimg.cc/rwTWYB0z/VTV6.png", VTV6 VNPT
+http://139.99.30.49/VTV6mytv/mpegts
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/V669QzBb/Pladio-FPT.png" group-title="Pladio FPT Play",PLADIO
 https://vips-livecdn.fptplay.net/hda3/pladio_4000.stream/chunklist.m3u8

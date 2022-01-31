@@ -658,6 +658,9 @@ https://vtsstr7.tv24.vn/live/VTVcab16HD_temp_new.smil/chunklist.m3u8?uid=s2c526m
 #EXTINF:-1 tvg-id="vtvcab16hd" group-title="ON FOOTBALL- KÊNH THỂ THAO"  tvg-logo="https://i.postimg.cc/GmY0sbVb/ONF.png", ON FOOTBALL HD
 http://139.99.30.49:9981/stream/mux/d6328cb48667824dde6c8a45d887bfcf?ticket=48AD940BB26372A565A805F3B80A3E6AA996FC7A
 
+
+#EXTINF:-1 tvg-id="vtv6hd" group-title="VTV6 - TRUYỀN HÌNH VIỆT NAM" tvg-logo="https://i.postimg.cc/rwTWYB0z/VTV6.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv6hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",🕓 VTV6 FULL HD
+http://dung1202.duckdns.org:12381/udp/232.84.1.119:10266
 #EXTINF:-1 tvg-id="vtv6hd" group-title="VTV6 - TRUYỀN HÌNH VIỆT NAM" tvg-logo="https://i.postimg.cc/rwTWYB0z/VTV6.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv6hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",🕓 VTV6 FPT
 http://139.99.30.49/VTV6fpt/mpegts
 #EXTINF:-1 tvg-id="vtv6hd" group-title="VTV6 - TRUYỀN HÌNH VIỆT NAM" tvg-logo="https://i.postimg.cc/rwTWYB0z/VTV6.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv6hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",🕓 VTV6 VNPT

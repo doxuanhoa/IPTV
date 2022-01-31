@@ -2,13 +2,15 @@
 
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV1 " tvg-logo="https://i.postimg.cc/mk3tGrJq/VTV1.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8" ,🕓 VTV1
 #https://vips-livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
-http://139.99.30.49:9981/stream/mux/cb0cf7144a5139738c930b1f991a1efe?ticket=0B728F5ACF0E114E403A1E997E7ACCED0F788D51
+#http://139.99.30.49:9981/stream/mux/cb0cf7144a5139738c930b1f991a1efe?ticket=0B728F5ACF0E114E403A1E997E7ACCED0F788D51
+http://dung1202.duckdns.org:12381/udp/232.84.1.117:10254
 #EXTINF:-1 tvg-id="vtv2hd" group-title="VTV2 - KÊNH KHOA HỌC GIÁO DỤC" tvg-logo="https://i.postimg.cc/8kYyFzFW/VTV2.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv2_2000.stream/chunks_dvr_range-${start}-${offset}.m3u8" ,🕓 VTV2
 https://vips-livecdn.fptplay.net/hda1/vtv2_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="vtv3hd" group-title="VTV3" tvg-logo="https://i.postimg.cc/3JDt2Qpq/VTV3.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv3hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",🕓 VTV3
 #https://vips-livecdn.fptplay.net/hda1/vtv3hd_vhls.smil/chunklist_b5000000.m3u8
-http://139.99.30.49:9981/stream/mux/1e13ac5852c90f4299ce90f0e9d8daa2?ticket=EA437553060C964E5C26733569CF2502E6B49D3C
+#http://139.99.30.49:9981/stream/mux/1e13ac5852c90f4299ce90f0e9d8daa2?ticket=EA437553060C964E5C26733569CF2502E6B49D3C
+http://dung1202.duckdns.org:12381/udp/232.84.1.118:10260
 
 #EXTINF:-1 tvg-id="ttxvnhd" tvg-logo="https://i.postimg.cc/sDccqLdF/vnew.webp" group-title="TRUYỀN HÌNH THÔNG TẤN - KÊNH TIN TỨC THỜI SỰ",TH THÔNG TẤN
 https://vips-livecdn.fptplay.net/hda2/ttxvn_vhls.smil/chunklist_b5000000.m3u8
@@ -69,7 +71,8 @@ https://vips-livecdn.fptplay.net/hda2/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
 https://vips-livecdn.fptplay.net/hda2/vtv9_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="hanoi1" group-title="KÊNH 1 TRUYỀN HÌNH HÀ NỘI" tvg-logo="https://i.postimg.cc/fRZC02sn/H1.png",HÀ NỘI 1
-https://livecdn.fptplay.net/sdc/hanoitv1_2000.stream/chunklist.m3u8
+#https://livecdn.fptplay.net/sdc/hanoitv1_2000.stream/chunklist.m3u8
+http://dung1202.duckdns.org:12381/udp/232.84.3.143:10738
 #http://cdn.hntv.mediatech.vn/hntvlive/tv1live.m3u8?vhost=__defaultVhost__
 #EXTINF:-1 tvg-id="hanoi2" group-title="KÊNH 2 TRUYỀN HÌNH HÀ NỘI" tvg-logo="https://i.postimg.cc/B6bLprVw/HA-NOI-2.png",HÀ NỘI 2
 https://livecdn.fptplay.net/sdc/hanoitv2_2000.stream/playlist.m3u8
@@ -139,7 +142,8 @@ https://yenbaitv.org.vn/hls/livestream.m3u8
 #https://livecdn.fptplay.net/sdc/sonla_hls.smil/chunklist_b2500000.m3u8
 http://118.107.85.5:1935/live/smil:STV.smil/chunklist_w1596357488_b1384000.m3u8
 #EXTINF:-1 group-title="TRUYỀN HÌNH HÒA BÌNH" tvg-logo="https://i.postimg.cc/Rq5DBwXb/HoaBinh.png" ,HÒA BÌNH
-https://livecdn.fptplay.net/sda/hoabinh_2000.stream/chunklist.m3u8
+#https://livecdn.fptplay.net/sda/hoabinh_2000.stream/chunklist.m3u8
+http://dung1202.duckdns.org:12381/udp/232.84.3.213:11200
 
 
 
@@ -195,7 +199,8 @@ https://nbtv.vncdn.vn/nbtvlive/tv1live.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XJJtH2qR/thanhhoa.png" group-title="TRUYỀN HÌNH THANH HÓA",THANH HÓA
-https://livecdn.fptplay.net/sda/thanhhoa_2000.stream/chunklist.m3u8
+#https://livecdn.fptplay.net/sda/thanhhoa_2000.stream/chunklist.m3u8
+http://dung1202.duckdns.org:12381/udp/232.84.3.198:11110
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1RVwFJVG/nghe-an.png" group-title="TRUYỀN HÌNH NGHỆ AN",NGHỆ AN
 #https://livecdn.fptplay.net/sda/nghean_2000.stream/chunklist.m3u8
 https://live.truyenhinhnghean.vn/hls/na1/index.m3u8
@@ -419,6 +424,7 @@ https://vtsstr7.tv24.vn/live/VTVcab1.smil/chunklist.m3u8
 http://s2live.tv1asia.com:21585/vtvcab2/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab4hd" group-title="VTVcab" tvg-logo="https://i.postimg.cc/sfHrWmvT/VTVCAB4.png",VTVcab 4
 http://dung1202.duckdns.org:12381/udp/232.84.2.190:10924
+
 #EXTINF:-1 tvg-id="vtvcab5hd" group-title="VTVcab" tvg-logo="https://i.postimg.cc/0yDRLqZ4/VTVCAB5.png",VTVcab5 - E CHANNEL
 
 #EXTINF:-1 tvg-id="vtvcab6hd" group-title="VTVcab" tvg-logo="https://i.postimg.cc/pXFYQTd4/VTV-CAB-6.png",VTVcab6

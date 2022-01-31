@@ -8,6 +8,7 @@ https://vips-livecdn.fptplay.net/hda1/vtv2_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="vtv3hd" group-title="VTV3" tvg-logo="https://i.postimg.cc/3JDt2Qpq/VTV3.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv3hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",🕓 VTV3
 https://vips-livecdn.fptplay.net/hda1/vtv3hd_vhls.smil/chunklist_b5000000.m3u8
+#http://139.99.30.49:9981/stream/mux/1e13ac5852c90f4299ce90f0e9d8daa2?ticket=EA437553060C964E5C26733569CF2502E6B49D3C
 
 #EXTINF:-1 tvg-id="ttxvnhd" tvg-logo="https://i.postimg.cc/sDccqLdF/vnew.webp" group-title="TRUYỀN HÌNH THÔNG TẤN - KÊNH TIN TỨC THỜI SỰ",TH THÔNG TẤN
 https://vips-livecdn.fptplay.net/hda2/ttxvn_vhls.smil/chunklist_b5000000.m3u8
@@ -16,8 +17,8 @@ https://vips-livecdn.fptplay.net/hda2/ttxvn_vhls.smil/chunklist_b5000000.m3u8
 https://vips-livecdn.fptplay.net/hda2/vtv5hd_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="vtv6hd" group-title="VTV6 - TRUYỀN HÌNH VIỆT NAM" tvg-logo="https://i.postimg.cc/rwTWYB0z/VTV6.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv6hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",🕓 VTV6
-https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
-
+#https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
+http://139.99.30.49/VTV6fpt/mpegts
 
 #EXTINF:-1 tvg-id="antvhd" group-title="ANTV - TRUYỀN HÌNH CÔNG AN NHÂN DÂN" tvg-logo="https://i.postimg.cc/YSgRhYmN/ANTV.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/anninhtv_1000.stream/playlist_dvr_range-${start}-${offset}.m3u8",🕓 AN NINH TV
 https://vips-livecdn.fptplay.net/hda2/anninhtv_vhls.smil/chunklist_b5000000.m3u8
@@ -649,19 +650,23 @@ https://livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtvcab16hd" group-title="ON FOOTBALL- KÊNH THỂ THAO"  tvg-logo="https://i.postimg.cc/GmY0sbVb/ONF.png", ON FOOTBALL
 https://vtsstr7.tv24.vn/live/VTVcab16HD_temp_new.smil/chunklist.m3u8?uid=s2c526m574z5s4l5h4
 
-#EXTINF:-1 tvg-id="vtv6hd" group-title="VTV6" tvg-logo="https://i.postimg.cc/rwTWYB0z/VTV6.png", VTv6 HD
-http://bongdavtv3.duckdns.org:56765/stream/channelid/596970684?ticket=9184E0FE1069C4DD272BE7776900F48701C58F88&profile=pass
-#EXTINF:-1 tvg-id="vtv6hd" group-title="VTV6" tvg-logo="https://i.postimg.cc/rwTWYB0z/VTV6.png", VTv6 VIETTEL
-http://139.99.30.49/VTV6/mpegts
+
 #EXTINF:-1 tvg-id="vtv6hd" group-title="VTV6" tvg-logo="https://i.postimg.cc/rwTWYB0z/VTV6.png", VTV6 FPT
 http://139.99.30.49/VTV6fpt/mpegts
 #EXTINF:-1 tvg-id="vtv6hd" group-title="VTV6" tvg-logo="https://i.postimg.cc/rwTWYB0z/VTV6.png", VTV6 VNPT
 http://139.99.30.49/VTV6mytv/mpegts
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV1 " tvg-logo="https://i.postimg.cc/mk3tGrJq/VTV1.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8" ,🕓 VTV1 HD
 http://139.99.30.49:9981/stream/mux/cb0cf7144a5139738c930b1f991a1efe?ticket=0B728F5ACF0E114E403A1E997E7ACCED0F788D51
-
-#EXTINF:-1 tvg-id="vtv3hd" group-title="VTV3" tvg-logo="https://i.postimg.cc/3JDt2Qpq/VTV3.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv3hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",🕓 VTV3 HD
+#EXTINF:-1 tvg-id="vtv1hd" group-title="VTV1 " tvg-logo="https://i.postimg.cc/mk3tGrJq/VTV1.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8" ,🕓 VTV1 VIETTEL
+http://139.99.30.49:9981/stream/mux/9cd2257422d37e3a806cf2ff3a43f025?ticket=83CC69A7D1CB0A162EB2D647B582658C4A6EB453
+#EXTINF:-1 tvg-id="vtv3hd" group-title="VTV3" tvg-logo="https://i.postimg.cc/3JDt2Qpq/VTV3.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv3hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",🕓 VTV3 VIETTEL
 http://139.99.30.49:9981/stream/mux/1e13ac5852c90f4299ce90f0e9d8daa2?ticket=EA437553060C964E5C26733569CF2502E6B49D3C
+#EXTINF:-1 tvg-id="vtv3hd" group-title="VTV3" tvg-logo="https://i.postimg.cc/3JDt2Qpq/VTV3.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv3hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",🕓 VTV3 HD
+http://139.99.30.49:9981/stream/mux/0d026aed860c8ad891636eca495d795a?ticket=98EA6FB8D4D8CA31EAC84963353105D658CD7B9B
+#EXTINF:-1 tvg-id="vtv6hd" group-title="VTV6" tvg-logo="https://i.postimg.cc/rwTWYB0z/VTV6.png", VTV6 HD
+http://bongdavtv3.duckdns.org:56765/stream/channelid/596970684?ticket=9184E0FE1069C4DD272BE7776900F48701C58F88&profile=pass
+#EXTINF:-1 tvg-id="vtv6hd" group-title="VTV6" tvg-logo="https://i.postimg.cc/rwTWYB0z/VTV6.png", VTV6 VIETTEL
+http://139.99.30.49/VTV6/mpegts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/V669QzBb/Pladio-FPT.png" group-title="Pladio FPT Play",PLADIO
 https://vips-livecdn.fptplay.net/hda3/pladio_4000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ydwwk87S/radio.png" group-title="Radio",📻 HÀ NAM

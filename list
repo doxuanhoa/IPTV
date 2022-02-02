@@ -483,7 +483,8 @@ http://catchup.nethubtv.vn/live/man-tv/chunklist_2.m3u8
 https://vtsstr7.tv24.vn/live/Woman.smil/chunklist.m3u8?uid=s2c526m574z5s4l5h4
 #EXTINF:-1 tvg-id="planetearthhd" group-title="QUỐC TẾ" tvg-logo="https://i.postimg.cc/65g9scvg/P-E.png",PLANET EARTH
 https://vtsstr7.tv24.vn/live/Planet_Earth.smil/chunklist.m3u8?uid=s2c526m574z5s4l5h4
-
+#EXTINF:-1 tvg-id="dmax" group-title="QUỐC TẾ" tvg-logo="https://i.postimg.cc/KjcvxpF7/DMAX.jpg",DMAX
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXSPORT2-SD-720p/playlist.m3u8
 
 
 #EXTINF: tvg-id="afnhd" group-title="Quốc tế" tvg-logo="https://i.postimg.cc/L8Z8YTrY/afn.png", ASIAN FOOD NETWORK

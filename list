@@ -46,7 +46,7 @@ https://mziyw7t0yhliv.vcdn.cloud/live/vtc7/chunklist_2.m3u8
 https://vips-livecdn.fptplay.net/hda1/vtc14_vhls.smil/chunklist_b5000000.m3u8
 
 
-#EXTINF:-1 tvg-id="vtc16hd" group-title="VTC16 - KÊNH TRUYỀN HÌNH NÔNG NGHIỆP NÔNG THÔN" tvg-logo="https://i.postimg.cc/mkhFH78Q/vtc16.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc16_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",🕓 VTC16
+#EXTINF:-1 tvg-id="vtc16" group-title="VTC16 - KÊNH TRUYỀN HÌNH NÔNG NGHIỆP NÔNG THÔN" tvg-logo="https://i.postimg.cc/mkhFH78Q/vtc16.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc16_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",🕓 VTC16
 https://livecdn.fptplay.net/sdb/vtc16_hls.smil/chunklist_b2500000.m3u8
 
 

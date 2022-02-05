@@ -79,7 +79,7 @@ https://livecdn.fptplay.net/sdc/hanoitv1_2000.stream/chunklist.m3u8
 https://livecdn.fptplay.net/sdc/hanoitv2_2000.stream/playlist.m3u8
 #http://cdn.hntv.mediatech.vn/hntvlive/tv2live.m3u8
 
-#EXTINF:-1  tvg-id="htv2hd" group-title="HTV2 - VIE CHANNEL" tvg-logo="https://i.postimg.cc/XqWZwtDv/HTV2.png" catchup="append" catchup-days="6" catchup-source="https://htvc271120.cdn.vnns.io/d07f92263776c05ea7ee8e07bd91296e1644452206/htv2.cat.720p.tms/chunks_dvr_range-${start}-${offset}.m3u8" ,HTV2
+#EXTINF:-1  tvg-id="htv2hd" group-title="HTV2 - VIE CHANNEL" tvg-logo="https://i.postimg.cc/XqWZwtDv/HTV2.png" catchup="append" catchup-days="6" catchup-source="https://htvc271120.cdn.vnns.io/d07f92263776c05ea7ee8e07bd91296e1644452206/htv2.cat.720p.tms/chunks_dvr_range-${start}-${offset}.m3u8" ,🕓 HTV2
 https://vips-livecdn.fptplay.net/hda1/htv2hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="htv7hd"group-title="HTV7 - TRUYỀN HÌNH THÀNH PHỐ HỒ CHÍ MINH" tvg-logo="https://i.postimg.cc/R0jJ0W7K/HTV7.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htv7hd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",🕓 HTV7
 https://vips-livecdn.fptplay.net/hda1/htv7hd_vhls.smil/chunklist_b5000000.m3u8
@@ -395,7 +395,7 @@ https://livecdn.fptplay.net/sdc/vtc4_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="vtc5hd" group-title="VTC"  tvg-logo="https://i.postimg.cc/0y4gJm0f/VTC5-W-1.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc5_1000.stream/playlist_dvr_range-${start}-${offset}.m3u8",🕓 VTC5
 #https://vtc130121.cdn.vnns.io/VTC5/chunks.m3u8
 https://livecdn.fptplay.net/sdb/vtc5_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="vtc6hd" group-title="VTC"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/VTC6_logo_2018.svg/800px-VTC6_logo_2018.svg.png" ,VTC6
+#EXTINF:-1 tvg-id="vtc6hd" group-title="VTC"  tvg-logo="https://i.postimg.cc/KjBpx1hv/vtc6.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc6_1000.stream/chunks_dvr_range-${start}-10800.m3u8",🕓 VTC6
 https://livecdn.fptplay.net/sdb/vtc6_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="vtc8hd" group-title="VTC"  tvg-logo="https://i.imgur.com/FVM7co8.jpg",VTC8
 https://livecdn.fptplay.net/sdb/vtc8_hls.smil/chunklist_b2500000.m3u8

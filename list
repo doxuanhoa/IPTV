@@ -432,8 +432,7 @@ https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab2/index.m3u8|Referer=http://sctv
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab4/sd2/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="vtvcab5hd" group-title="VTVcab" tvg-logo="https://i.postimg.cc/0yDRLqZ4/VTVCAB5.png",VTVcab5 - E CHANNEL
 https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab5/index.m3u8?md5=FI0vSweK0ZjVtshOO-v3LA&expires=2556118740|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="vtvcab6hd" group-title="VTVcab" tvg-logo="https://i.postimg.cc/LXp4fWvv/vtvcab6.png",VTVcab6 - ON SPORT+
-https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab6/index.m3u8?md5=UWqnKPkk8xH9hqll1u3iFg&expires=2556118740|Referer=http://sctvonline.vn/
+
 #EXTINF:-1  tvg-id="vtvcab9hd" group-title="VTVcab" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/Info_TV_%25_282015-present%25_29.png", VTVcab 9 - Info TV
 #https://vtsstr7.tv24.vn/live/VTVcab9.smil/chunklist.m3u8
 https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab9/index.m3u8?md5=H-CZgExdlhVls0-cEfpa4Q&expires=2556118740|Referer=http://sctvonline.vn/
@@ -625,9 +624,7 @@ https://livecdn.fptplay.net/hda3/boomerang_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="cartoonhd" group-title="CARTOON NETWORK - KÊNH THIẾU NHI" tvg-logo="https://i.postimg.cc/0yrP1crG/cn.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/cartoonnetworkhd_1000.stream/playlist_dvr_range-${start}-${offset}.m3u8",🕓 CARTOON NETWORK
 https://livecdn.fptplay.net/hda3/cartoonnetworkhd_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-id="kplus1hd" group-title=" K+1 - TRUYỀN HÌNH VỆ TINH K+" tvg-logo="https://i.postimg.cc/6p4JWbx0/K-1.png",K+1
-#EXTINF:-1 tvg-id="kpluspchd" group-title="TRUYỀN HÌNH K+" tvg-logo="https://i.postimg.cc/KvcYJbSH/K-PC.png", K+PC
-#EXTINF:-1 tvg-id="kplusnshd" group-title="TRUYỀN HÌNH K+" tvg-logo="https://i.postimg.cc/L6bFMKw5/K-NS.png",K+NS
+
 #EXTINF:-1 tvg-id="kix_hd" tvg-logo="https://i.postimg.cc/BQQJV5dj/KIX.png" group-title="Quốc tế" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/kixhd_1000.stream/playlist_dvr_range-${start}-${offset}.m3u8",🕓 KIX HD
 https://livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="Quốc tế" tvg-id="axnhd" tvg-logo="https://i.postimg.cc/MTSFVhPL/AXN.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/axnhd_1000.stream/playlist_dvr_range-${start}-${offset}.m3u8",🕓 AXN
@@ -656,6 +653,8 @@ https://livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:0 tvg-id="vtvcab3hd" group-title="VTV CAB 3 - ONSPORT" tvg-logo="https://i.postimg.cc/yxb7Q2Qc/vtvcab3.png",VTVcab3 - ON SPORT
 https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab3/index.m3u8?md5=ytdJ0cly8LCK3zdy10OuxQ&expires=2556118740|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="vtvcab6hd" group-title="VTVcab" tvg-logo="https://i.postimg.cc/LXp4fWvv/vtvcab6.png",VTVcab6 - ON SPORT+
+https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab6/index.m3u8?md5=UWqnKPkk8xH9hqll1u3iFg&expires=2556118740|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="vtvcab16hd" group-title="ON FOOTBALL- KÊNH THỂ THAO"  tvg-logo="https://i.postimg.cc/GmY0sbVb/ONF.png", ON FOOTBALL
 https://vtsstr7.tv24.vn/live/VTVcab16HD_temp_new.smil/chunklist.m3u8?uid=s2c526m574z5s4l5h4
 #EXTINF:-1 tvg-id="vtvcab16hd" group-title="ON FOOTBALL- KÊNH THỂ THAO"  tvg-logo="https://i.postimg.cc/GmY0sbVb/ONF.png", ON FOOTBALL HD
@@ -684,6 +683,25 @@ http://bongdavtv3.duckdns.org:56765/stream/channelid/596970684?ticket=9184E0FE10
 #EXTINF:-1 tvg-id="vtv6hd" group-title="VTV6 - TRUYỀN HÌNH VIỆT NAM" tvg-logo="https://i.postimg.cc/rwTWYB0z/VTV6.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv6hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",🕓 VTV6 VIETTEL
 http://139.99.30.49/VTV6/mpegts
 
+#EXTINF:-1 tvg-id="kcinehd" group-title="K+ CINE - KÊNH PHIM" tvg-logo="https://img.kplus.vn/media/channels/sg/channelicons/KCINE.png", K+ CINE
+#https://livecdn.fptplay.net/hdevent/27082021k1_2000.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="kcinehd" group-title="K+ CINE - KÊNH PHIM" tvg-logo="https://img.kplus.vn/media/channels/sg/channelicons/KCINE.png", K+ CINE
+https://livecdn.fptplay.net/hdevent/27082021k1_4000.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="klifehd" group-title="K+ LIFE" tvg-logo="https://img.kplus.vn/media/channels/sg/channelicons/KLIFE.png", K+ LIFE
+#https://livecdn.fptplay.net/hdevent/27082021k1ns_2000.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="klifehd" group-title="K+ LIFE" tvg-logo="https://img.kplus.vn/media/channels/sg/channelicons/KLIFE.png", K+ LIFE
+https://livecdn.fptplay.net/hdevent/27082021k1ns_4000.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ksport1hd" group-title="K+ SPORT 1" tvg-logo="https://img.kplus.vn/media/channels/sg/channelicons/KSPORT1.png", K+ SPORT 1
+#https://livecdn.fptplay.net/hdevent/27082021k1pm_2000.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="ksport1hd" group-title="K+ SPORT 1" tvg-logo="https://img.kplus.vn/media/channels/sg/channelicons/KSPORT1.png", K+ SPORT 1
+https://livecdn.fptplay.net/hdevent/27082021k1pm_4000.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ksport2hd" group-title="K+ SPORT 2" tvg-logo="https://img.kplus.vn/media/channels/sg/channelicons/KSPORT2.png", K+ SPORT 2
+#https://livecdn.fptplay.net/hdevent/27082021k1pc_2000.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="ksport2hd" group-title="K+ SPORT 2" tvg-logo="https://img.kplus.vn/media/channels/sg/channelicons/KSPORT2.png", K+ SPORT 2
+https://livecdn.fptplay.net/hdevent/27082021k1pc_4000.stream/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/V669QzBb/Pladio-FPT.png" group-title="Pladio FPT Play",PLADIO

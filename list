@@ -345,7 +345,7 @@ https://live2cdn.todayplus.com.vn/sdb/smil:hitv.smil/chunklist_b1596000.m3u8
 https://d1icgg07fblj2l.cloudfront.net/v1/master/ba90b90a0ee2a56a8918633d147a0d5ef56d5d56/1d1b5613-b5ee-4d7c-bf96-136e7b7babbe/1d1b5613-b5ee-4d7c-bf96-136e7b7babbe/amlst:1d1b5613-b5ee-4d7c-bf96-136e7b7babbe_PreRoll/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="sctv1hd" group-title="SCTV1 - KÊNH PHIM HÀI" tvg-logo="https://i.postimg.cc/bvQ58fkf/SCTV-1.png",SCTV1 - KÊNH HÀI
+#EXTINF:-1 tvg-id="sctv1hd" group-title="SCTV1 - KÊNH PHIM HÀI" tvg-logo="https://i.postimg.cc/bvQ58fkf/SCTV-1.png",SCTV1
 http://203.162.123.178:21585/sctv1/index.m3u8
 #EXTINF:-1 tvg-id="sctv2hd" group-title="SCTV" tvg-logo="https://i.postimg.cc/PxyWhT4c/SCTV-2.png",SCTV2
 https://vtsstr6.tv24.vn/live/sctv2_HD_new.smil/playlist.m3u8

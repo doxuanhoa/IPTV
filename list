@@ -423,28 +423,31 @@ https://mutixx5hq1liv.akamaized.net/vtv5tn/vtv5tn@720p.m3u8
 #EXTINF:-1 tvg-id="vtvcab1hd" group-title="VTVcab" tvg-logo="https://i.postimg.cc/9QhP9SmS/vtvcab1.png",VTVcab1 - Vie GIẢI TRÍ
 http://gg.gg/cccab1|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="vtvcab2hd" group-title="VTVcab 2 - KÊNH PHIM TRUYỆN VIỆT NAM" tvg-logo="https://i.postimg.cc/mgSM34SN/vtvcab2.png",VTVcab 2 - ON PHIM VIỆT
-http://s2live.tv1asia.com:21585/vtvcab2/index.m3u8
+#http://s2live.tv1asia.com:21585/vtvcab2/index.m3u8
+https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab2/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="vtvcab4hd" group-title="VTVcab" tvg-logo="https://i.postimg.cc/sfHrWmvT/VTVCAB4.png",VTVcab 4
-http://dung1202.duckdns.org:12381/udp/232.84.2.190:10924
-
+#http://dung1202.duckdns.org:12381/udp/232.84.2.190:10924
+https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab4/sd2/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="vtvcab5hd" group-title="VTVcab" tvg-logo="https://i.postimg.cc/0yDRLqZ4/VTVCAB5.png",VTVcab5 - E CHANNEL
-
+https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab5/index.m3u8?md5=FI0vSweK0ZjVtshOO-v3LA&expires=2556118740|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="vtvcab6hd" group-title="VTVcab" tvg-logo="https://i.postimg.cc/pXFYQTd4/VTV-CAB-6.png",VTVcab6
-
+https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab6/index.m3u8?md5=UWqnKPkk8xH9hqll1u3iFg&expires=2556118740|Referer=http://sctvonline.vn/
 #EXTINF:-1  tvg-id="vtvcab9hd" group-title="VTVcab" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/Info_TV_%25_282015-present%25_29.png", VTVcab 9 - Info TV
-https://vtsstr7.tv24.vn/live/VTVcab9.smil/chunklist.m3u8
+#https://vtsstr7.tv24.vn/live/VTVcab9.smil/chunklist.m3u8
+https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab9/index.m3u8?md5=H-CZgExdlhVls0-cEfpa4Q&expires=2556118740|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="vtvcab19_kenh_phim" group-title="VTVcab" tvg-logo="https://i.postimg.cc/yx6RjK4h/VTVCAB10.png",VTVcab10
-
-#EXTINF:-1 tvg-id="vtvcab7_vie_dramas group-title="VTVcab" tvg-logo="https://i.postimg.cc/mgyYywhr/vtvcab10.png",VTVcab19 - Vie Dramas
+https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab10/index.m3u8?md5=0hgEfHHQDkf2-k5aGSCR8Q&expires=2556118740|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 tvg-id="vtvcab12hd" group-title="VTVcab" tvg-logo="https://i.postimg.cc/HkGF0hH9/VVCAB12.png",VTVcab12 - STYLE TV
-
+https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab12/index.m3u8?md5=16_sk-wKZo227CghUseBkQ&expires=2556118740|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-ID="vtvcab15hd" group-title="VTVcab" tvg-logo="https://i.postimg.cc/rs33Ph4c/VTVCAB15.png",VTVcab15
-
+https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab15/index.m3u8?md5=3JMqSO-g51A9uFwoqY3nUg&expires=2556118740|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="vtvcab17hd" group-title="VTVcab" tvg-logo="https://i.postimg.cc/W1MC5w1L/VTVCAV17.png",VTVcab17 - Yeah1!TV
-
+https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab17/index.m3u8?md5=8sqdkkWw2j1jqPiPOHIhew&expires=2556118740|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="vtvcab7_vie_dramas group-title="VTVcab" tvg-logo="https://i.postimg.cc/mgyYywhr/vtvcab10.png",VTVcab19 - Vie Dramas
+https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab19/index.m3u8?md5=1AYGbWlzHNKrvsQUMUP82Q&expires=2556118740|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="vtvcab20hd" group-title="VTVcab" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/1b/VFamily_logo.png/revision/latest/top-crop/width/220/height/220?cb=20191127035302",VTVcab20 - V Family
-
+https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab20/index.m3u8?md5=-sx6Mn0Nya1J6PIsvSKbWQ&expires=2556118740|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 tvg-id="PHIM_HAY" group-title="HTV/HTVC" tvg-logo="https://i.postimg.cc/WbqBpr94/PHIM-HAY.png", PHIM HAY
 #EXTINF:-1 tvg-id=""  group-title="KÊNH THIẾT YẾU" tvg-logo="http://xspace.talaweb.com/suamaytinhbang115/home/share/KhanhChi1202.hsvn/logo-antg.png", AN NINH THẾ GIỚI

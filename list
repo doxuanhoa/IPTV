@@ -511,7 +511,7 @@ https://livecdn.fptplay.net/hda3/babytvhd_vhls.smil/chunklist_b5000000.m3u8?toke
 #EXTINF:-1 tvg-id="fashionhd" group-title="Quốc tế" tvg-logo="https://i.postimg.cc/sDRCzQ7z/fashiontv.png", FASHION TV
 https://livecdn.fptplay.net/hda2/fashiontvhd_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-id="fashionhd" group-title="Quốc tế" tvg-logo="https://i.postimg.cc/sDRCzQ7z/fashiontv.png", FASHION TV FHD
+#EXTINF:-1 tvg-id="fashionhd" group-title="Quốc tế" tvg-logo="https://i.postimg.cc/sDRCzQ7z/fashiontv.png", FASHION TV GLOBAL
 #https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/playlist.m3u8
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 

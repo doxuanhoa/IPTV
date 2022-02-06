@@ -547,6 +547,15 @@ http://39.134.3.73:6610/000000001666/100000000100111091/1.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FRZj6zFL/CCTV-16.png" ,CCTV 16 4K
 http://223.110.235.24/wh7f454c46tw1342009899_-2008531284/ott.js.chinamobile.com/PLTV/3/224/3221228127/index.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ncjT5bPL/ES.png" ,EURO SPORT 1 4K
+http://donglao.duckdns.org:9981/stream/channelid/106641513
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ncjT5bPL/ES.png" ,EURO SPORT 1
+http://donglao.duckdns.org:9981/stream/channelid/517440156
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ncjT5bPL/ES.png" ,EURO SPORT 2
+
+
 #EXTINF:-1 tvg-id="channelvhd" group-title="Quốc tế" tvg-logo="https://i.postimg.cc/0jW0QxrF/channel-v.png",CHANNEL V
 #https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CHANNELV-HD-1080p/playlist.m3u8

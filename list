@@ -467,7 +467,7 @@ https://livecdn.fptplay.net/sdb/bbcnew_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="cnbc" tvg-logo="https://i.postimg.cc/pTFMQhC7/CNBC.png" group-title="Quốc tế",CNBC
 https://livecdn.fptplay.net/sdb/cnbc_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 group-title="Quốc tế" tvg-logo="https://i.postimg.cc/ZnWLx2VV/tv5.png",TV5 MONDE ASIE
+#EXTINF:-1 group-title="Quốc tế" tvg-logo="https://i.postimg.cc/BZygDtZx/tv5.png",TV5 MONDE ASIE
 https://livecdn.fptplay.net/sdb/tv5_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="abcaustralia" tvg-logo="https://i.postimg.cc/d1mptn8K/abcaustralia.png" group-title="Quốc tế",ABC AUSTRALIA
 https://livecdn.fptplay.net/sdb/australiaplus_2000.stream/chunklist.m3u8
@@ -633,7 +633,7 @@ https://livecdn.fptplay.net/hda3/cbeebies_vhls.smil/chunklist_b5000000.m3u8
 https://livecdn.fptplay.net/sda/ant_2000.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="vtvcab8hd" group-title="THIẾU NHI" tvg-logo="https://i.postimg.cc/Kv3dM2XY/VVCAB8.png",VTVcab8 - BIBI
 http://s2live.tv1asia.com:21585/vtvcab8/index.m3u8
-#EXTINF:-1 tvg-id="dreamworks" group-title="KÊNH THIẾU NHI" tvg-logo="https://i.postimg.cc/j2rn11Xs/dream.png",DREAM WORKS
+#EXTINF:-1 tvg-id="dreamworks" group-title="KÊNH THIẾU NHI" tvg-logo="https://i.postimg.cc/C526n1ZK/drw.png",DREAM WORKS
 https://livecdn.fptplay.net/hda3/dreamworks_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="animaxhd" group-title="ANIMAX - KÊNH PHIM THIẾU NHI NHẬT BẢN" tvg-logo="https://i.postimg.cc/bv4qypKm/animax.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/animaxport_1000.stream/playlist_dvr_range-${start}-${offset}.m3u8",🕓 ANIMAX
 https://livecdn.fptplay.net/hda3/animaxport_vhls.smil/chunklist_b5000000.m3u8

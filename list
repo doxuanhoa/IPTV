@@ -541,7 +541,7 @@ http://39.134.71.75/ott.js.chinamobile.com/PLTV/3/224/3221228242/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMpdFCGP/NOW.png" ,NOW SPORT EPL 1
 http://139.99.30.49/nbcsn/mpegts
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/jSQj21Py/now.png" ,NOW SPORT 4K
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mk0J6wY4/now4k.png" ,NOW SPORT 4K
 http://donglao.duckdns.org:9981/stream/channelid/1600039075
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FRZj6zFL/CCTV-16.png" ,CCTV 16

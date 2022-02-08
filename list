@@ -468,7 +468,7 @@ https://livecdn.fptplay.net/sdb/bbcnew_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="cnbc" tvg-logo="https://i.postimg.cc/pTFMQhC7/CNBC.png" group-title="Quốc tế",CNBC
 https://livecdn.fptplay.net/sdb/cnbc_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 group-title="Quốc tế" tvg-logo="https://i.postimg.cc/BZygDtZx/tv5.png",TV5 MONDE ASIE
+#EXTINF:-1 tvg-id="tv5monde" group-title="Quốc tế" tvg-logo="https://i.postimg.cc/BZygDtZx/tv5.png",TV5 MONDE ASIE
 https://livecdn.fptplay.net/sdb/tv5_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="abcaustralia" tvg-logo="https://i.postimg.cc/d1mptn8K/abcaustralia.png" group-title="Quốc tế",ABC AUSTRALIA
 https://livecdn.fptplay.net/sdb/australiaplus_2000.stream/chunklist.m3u8
@@ -584,9 +584,9 @@ https://livecdn.fptplay.net/sdb/bbclifestyle_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="tlchd" group-title="Quốc tế" tvg-logo="https://i.postimg.cc/FzGNK1JF/TLC.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/travelliving_1000.stream/playlist_dvr_range-${start}-${offset}.m3u8",🕓 TLC
 https://livecdn.fptplay.net/hda2/travelliving_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-id="nhk_world" tvg-logo="https://i.postimg.cc/yYMtMnNd/NHK-WORLD.png" group-title="TRUYỀN HÌNH QUỐC GIA NHẬT BẢN NHK",NHK WORLD
+#EXTINF:-1 tvg-id="nhk_world" tvg-logo="https://i.postimg.cc/yYMtMnNd/NHK-WORLD.png" group-title="NHK WORLD NHẬT BẢN",NHK WORLD
 https://vips-livecdn.fptplay.net/hda2/nhkworld_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="kbsworld" group-title="KBS HÀN QUỐC" tvg-logo="https://i.postimg.cc/7hXnYH3X/KBSW-ORLD.jpg",KBS WORLD 
+#EXTINF:-1 tvg-id="kbsworld" group-title="KBS WORLD HÀN QUỐC" tvg-logo="https://i.postimg.cc/7hXnYH3X/KBSW-ORLD.jpg",KBS WORLD 
 #https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
 https://vips-livecdn.fptplay.net/hda3/kbs_4000.stream/chunklist.m3u8
 

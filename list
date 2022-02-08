@@ -397,7 +397,7 @@ https://livecdn.fptplay.net/sdb/htv3_2000.stream/chunklist.m3u8
 https://livecdn.fptplay.net/sdb/htv4_hls.smil/chunklist_b2500000.m3u8
 
 
-#EXTINF:-1 group-title="VTC" tvg-id="vtc2" tvg-logo="https://i.postimg.cc/tCZrG9sV/vtc2.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc2_1000.stream/playlist_dvr_range-${start}-${offset}.m3u8",🕓 VTC2
+#EXTINF:-1  tvg-id="vtc2" group-title="VTC" tvg-logo="https://i.postimg.cc/tCZrG9sV/vtc2.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc2_1000.stream/playlist_dvr_range-${start}-${offset}.m3u8",🕓 VTC2
 https://livecdn.fptplay.net/sdb/vtc2_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="vtc5hd" group-title="VTC"  tvg-logo="https://i.postimg.cc/0y4gJm0f/VTC5-W-1.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc5_1000.stream/playlist_dvr_range-${start}-${offset}.m3u8",🕓 VTC5
@@ -405,11 +405,11 @@ https://livecdn.fptplay.net/sdb/vtc2_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/sdb/vtc5_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="vtc6hd" group-title="VTC"  tvg-logo="https://i.postimg.cc/KjBpx1hv/vtc6.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc6_1000.stream/chunks_dvr_range-${start}-10800.m3u8",🕓 VTC6
 https://livecdn.fptplay.net/sdb/vtc6_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="vtc8hd" group-title="VTC"  tvg-logo="https://i.imgur.com/FVM7co8.jpg",VTC8
+#EXTINF:-1 tvg-id="vtc8" group-title="VTC"  tvg-logo="https://i.imgur.com/FVM7co8.jpg",VTC8
 https://livecdn.fptplay.net/sdb/vtc8_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="vtc9hd" group-title="VTC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/VTC9_logo_2018.svg/800px-VTC9_logo_2018.svg.png",VTC9
 https://livecdn.fptplay.net/sdb/vtc9_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="vtc10hd" group-title="VTC"  tvg-logo="https://i.postimg.cc/28xczDgh/vtc10.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc10_1000.stream/playlist_dvr_range-${start}-${offset}.m3u8",🕓 VTC10
+#EXTINF:-1 tvg-id="vtc10" group-title="VTC"  tvg-logo="https://i.postimg.cc/28xczDgh/vtc10.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc10_1000.stream/playlist_dvr_range-${start}-${offset}.m3u8",🕓 VTC10
 https://livecdn.fptplay.net/sdb/vtc10_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="vtc11" group-title="VTC"  tvg-logo="https://i.postimg.cc/t43Pstb0/VTC11.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc11_1000.stream/playlist_dvr_range-${start}-${offset}.m3u8",🕓 VTC11
 https://livecdn.fptplay.net/sdb/vtc11_hls.smil/chunklist_b2500000.m3u8
@@ -597,7 +597,7 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8
 https://livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist.m3u8
 
 
-#EXTINF:-1 group-title="Quốc tế" tvg-id="blueantent" tvg-logo="https://i.postimg.cc/FR73rDVx/BLUE-ANT.png", BLUE ANT ENTERTAINMENT
+#EXTINF:-1 group-title="Quốc tế" tvg-id="blueantent" tvg-logo="https://i.postimg.cc/jjwdzTNL/rock.png", ROCK ENTERTAINMENT
 https://livecdn.fptplay.net/hda1/blueantent_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="Quốc tế" tvg-id="blueantext" tvg-logo="https://i.postimg.cc/Bvh2fdH6/blue-ant-e-X.png", BLUE ANT EXTREME
 https://livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist_b5000000.m3u8

@@ -539,6 +539,8 @@ http://129.226.106.4/zycfcdn.gdwlcloud.com/TVOD/88888888/224/3221225494/index.m3
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d3zWMt0x/CCTV4K.png" ,CCTV 4K
 http://39.134.71.75/ott.js.chinamobile.com/PLTV/3/224/3221228242/index.m3u8
 
+#EXTINF:-1 group-title="CCTV" tvg-logo="https://i.postimg.cc/bN7MNgBn/cctv8k.jpg" ,CCTV 8K
+http://down.btvcloud.com/8k2021zhibo/zhibo8K2021.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMpdFCGP/NOW.png" ,NOW SPORT EPL 1
 http://139.99.30.49/nbcsn/mpegts
 

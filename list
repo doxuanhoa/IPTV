@@ -606,7 +606,7 @@ https://livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist_b5000000.m3u8
 
 
 
-#EXTINF:-1 tvg-id="boxmusic" group-title="KÊNH ÂM NHẠC" tvg-logo="https://i.postimg.cc/vHK1nTMF/BoxMusic.png", BOX MUSIC
+#EXTINF:-1 tvg-id="musicbox" group-title="KÊNH ÂM NHẠC" tvg-logo="https://i.postimg.cc/vHK1nTMF/BoxMusic.png",MUSIC BOX
 https://livecdn.fptplay.net/hda3/music_4000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="HOLLYWOOD CLASSIC - KÊNH PHIM TRUYỆN" tvg-id="hollywoodclassics" tvg-logo="https://i.postimg.cc/rwyd7Z5w/Hollywood.png", HOLLYWOOD CLASSIC
 https://vtsstr7.tv24.vn/live/Hollywood.smil/chunklist.m3u8?uid=s2c526m574z5s4l5h4

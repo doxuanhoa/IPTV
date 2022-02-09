@@ -132,10 +132,6 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PHUNU-HD-1080p/chunks.m3u8
 #EXTINF:-1 tvg-id="htvcplushd" " group-title="HTVC PLUS" tvg-logo="http://htvc.vn/uploads/cache/thumbnail/2019-05-22/6833055-9051942-plus.png",HTVC C+
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PLUS-HD-1080p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="vinhlong3hd" group-title="TRUYỀN HÌNH VĨNH LONG 3" tvg-logo="https://i.postimg.cc/HkNGyqLQ/THVL3.png" ,VĨNH LONG 3
-https://livecdn.fptplay.net/hda2/vinhlong3_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="vinhlong4hd" group-title="TRUYỀN HÌNH VĨNH LONG 4" tvg-logo="https://i.postimg.cc/50gMKnJg/thvl4.png" ,VĨNH LONG 4
-https://livecdn.fptplay.net/hda3/vinhlong4hd_hls.smil/chunklist_b2500000.m3u8
 
 
 #EXTINF:-1 tvg-id="vovtvhd" tvg-logo="https://i.postimg.cc/RZL1gC6K/VOV-TV.png" group-title="VOV TV",VOV TV
@@ -144,6 +140,12 @@ https://mediatech.vncdn.vn/vovlive/tv1live.m3u8
 #EXTINF:-1 tvg-id="anvienhd" group-title="BTV9  AN VIÊN - KÊNH PHẬT GIÁO" tvg-logo="https://i.postimg.cc/BZgLmxHn/BTV9.png",BTV9 - AN VIÊN
 https://livecdn.fptplay.net/sdc/btv9_hls.smil/chunklist_b2500000.m3u8
 
+
+
+#EXTINF:-1 tvg-id="vinhlong3hd" group-title="TRUYỀN HÌNH VĨNH LONG 3" tvg-logo="https://i.postimg.cc/HkNGyqLQ/THVL3.png" ,VĨNH LONG 3
+https://livecdn.fptplay.net/hda2/vinhlong3_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="vinhlong4hd" group-title="TRUYỀN HÌNH VĨNH LONG 4" tvg-logo="https://i.postimg.cc/50gMKnJg/thvl4.png" ,VĨNH LONG 4
+https://livecdn.fptplay.net/hda3/vinhlong4hd_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 group-title="TRUYỀN HÌNH ĐIỆN BIÊN" tvg-logo="https://i.postimg.cc/brbR00SJ/TV.png" ,ĐIỆN BIÊN
 https://livecdn.fptplay.net/sdc/dienbien_hls.smil/chunklist_b2500000.m3u8

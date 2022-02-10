@@ -62,7 +62,7 @@ https://vtsstr7.tv24.vn/live/SCTV_HD_PhimViet_sctv.smil/chunklist.m3u8?uid=s2c52
 
 
 
-#EXTINF:-1  tvg-id="htv2hd" group-title="HTV2 - VIE CHANNEL" tvg-logo="https://i.postimg.cc/XqWZwtDv/HTV2.png" catchup="append" catchup-days="6" catchup-source="https://htvc271120.cdn.vnns.io/d07f92263776c05ea7ee8e07bd91296e1644452206/htv2.cat.720p.tms/chunks_dvr_range-${start}-${offset}.m3u8" ,🕓 HTV2
+#EXTINF:-1  tvg-id="htv2hd" group-title="HTV2 - VIE CHANNEL" tvg-logo="https://i.postimg.cc/XqWZwtDv/HTV2.png" ,HTV2
 https://vips-livecdn.fptplay.net/hda1/htv2hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="htv7hd"group-title="HTV7 - TRUYỀN HÌNH THÀNH PHỐ HỒ CHÍ MINH" tvg-logo="https://i.postimg.cc/R0jJ0W7K/HTV7.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htv7hd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",🕓 HTV7
 https://vips-livecdn.fptplay.net/hda1/htv7hd_vhls.smil/chunklist_b5000000.m3u8
@@ -277,7 +277,7 @@ https://livecdn.fptplay.net/sdc/lamdong_2000.stream/chunklist.m3u8
 https://livecdn.fptplay.net/sdc/bariavungtau_2000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="BÌNH DƯƠNG 1 - TRUYỀN HÌNH BÌNH DƯƠNG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/BTV1.png" ,BÌNH DƯƠNG 1
 https://livecdn.fptplay.net/hda3/btv1_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="BÌNH DƯƠNG 2 - TRUYỀN HÌNH BÌNH DƯƠNG" tvg-logo="https://i.postimg.cc/QdDS2Rfk/Binh-Duong2.png" ,BÌNH DƯƠNG 2
+#EXTINF:-1 group-title="BÌNH DƯƠNG 2 - TRUYỀN HÌNH BÌNH DƯƠNG" tvg-logo="https://i.postimg.cc/mkvSYDBF/btv2.png" ,BÌNH DƯƠNG 2
 https://livecdn.fptplay.net/hda3/btv2_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="BÌNH DƯƠNG 3 - TRUYỀN HÌNH BÌNH DƯƠNG" tvg-logo="https://i.postimg.cc/YSz4DW0g/btv3.png" ,BÌNH DƯƠNG 3
 https://livecdn.fptplay.net/sdb/binhduong3_hls.smil/chunklist.m3u8
@@ -553,10 +553,10 @@ http://39.134.71.75/ott.js.chinamobile.com/PLTV/3/224/3221228242/index.m3u8
 #EXTINF:-1 group-title="CCTV" tvg-logo="https://i.postimg.cc/bN7MNgBn/cctv8k.jpg" ,CCTV 8K
 http://down.btvcloud.com/8k2021zhibo/zhibo8K2021.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMpdFCGP/NOW.png" ,NOW SPORT EPL 1
-http://139.99.30.49/nbcsn/mpegts
+#http://139.99.30.49/nbcsn/mpegts
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mk0J6wY4/now4k.png" ,NOW SPORT 4K
-http://donglao.duckdns.org:9981/stream/channelid/1600039075
+#http://donglao.duckdns.org:9981/stream/channelid/1600039075
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FRZj6zFL/CCTV-16.png" ,CCTV 16
 http://39.134.3.73:6610/000000001666/100000000100111091/1.m3u8
@@ -578,7 +578,8 @@ https://family4you.fun/LaoHac2022/genblock.php?id=10867
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CHANNELV-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="mtvhd" group-title="KÊNH ÂM NHẠC" tvg-logo="https://i.postimg.cc/QdJzHcmZ/MTV-HD.png", MTV
 https://livecdn.fptplay.net/sdb/mtv_hls.smil/chunklist_b2500000.m3u8
-
+#EXTINF:-1 tvg-id="musicbox" group-title="KÊNH ÂM NHẠC" tvg-logo="https://i.postimg.cc/vHK1nTMF/BoxMusic.png",MUSIC BOX
+https://livecdn.fptplay.net/hda3/music_4000.stream/chunklist.m3u8
 
 
 #EXTINF:-1 tvg-id="cna_channel_news_asia" tvg-logo="https://i.postimg.cc/MZBbRX4v/channelnewsasia.png" group-title="Quốc tế",CHANNEL  NEWS ASIA
@@ -619,8 +620,7 @@ https://livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist_b5000000.m3u8
 
 
 
-#EXTINF:-1 tvg-id="musicbox" group-title="KÊNH ÂM NHẠC" tvg-logo="https://i.postimg.cc/vHK1nTMF/BoxMusic.png",MUSIC BOX
-https://livecdn.fptplay.net/hda3/music_4000.stream/chunklist.m3u8
+
 #EXTINF:-1 group-title="HOLLYWOOD CLASSIC - KÊNH PHIM TRUYỆN" tvg-id="hollywoodclassics" tvg-logo="https://i.postimg.cc/rwyd7Z5w/Hollywood.png", HOLLYWOOD CLASSIC
 https://vtsstr7.tv24.vn/live/Hollywood.smil/chunklist.m3u8?uid=s2c526m574z5s4l5h4
 #EXTINF:-1 tvg-id="inthebox" group-title="IN THE BOX - KÊNH PHIM TRUYỆN" tvg-logo="https://i.postimg.cc/9fMwHN6G/ITB.png", IN THE BOX
@@ -720,7 +720,7 @@ http://139.99.30.49/VTV6fpt/mpegts
 #https://livecdn.fptplay.net/hdevent/27082021k1_2000.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="kcinehd" group-title="K+ CINE - KÊNH PHIM" tvg-logo="https://img.kplus.vn/media/channels/sg/channelicons/KCINE.png", K+ CINE
 #https://livecdn.fptplay.net/hdevent/27082021k1_4000.stream/playlist.m3u8
-https://livecdn.fptplay.net/hdevent%20/27082021k1_4000.stream/chunklist.m3u8
+#https://livecdn.fptplay.net/hdevent%20/27082021k1_4000.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="klifehd" group-title="K+ LIFE" tvg-logo="https://img.kplus.vn/media/channels/sg/channelicons/KLIFE.png", K+ LIFE
 #https://livecdn.fptplay.net/hdevent/27082021k1ns_2000.stream/playlist.m3u8

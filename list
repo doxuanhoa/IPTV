@@ -71,7 +71,8 @@ https://vips-livecdn.fptplay.net/hda1/htv9hd_vhls.smil/chunklist_b5000000.m3u8
 #http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV9-HD-1080p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="hanoi1" group-title="KÊNH 1 TRUYỀN HÌNH HÀ NỘI" tvg-logo="https://i.postimg.cc/fRZC02sn/H1.png",HÀ NỘI 1
-https://livecdn.fptplay.net/sdc/hanoitv1_2000.stream/chunklist.m3u8
+#https://livecdn.fptplay.net/sdc/hanoitv1_2000.stream/chunklist.m3u8
+https://live.hanoitv.vn/hntvlive/tv1live480.m3u8?vhost=__defaultVhost__
 #http://dung1202.duckdns.org:12381/udp/232.84.3.143:10738
 #http://cdn.hntv.mediatech.vn/hntvlive/tv1live.m3u8?vhost=__defaultVhost__
 #EXTINF:-1 tvg-id="hanoi2" group-title="KÊNH 2 TRUYỀN HÌNH HÀ NỘI" tvg-logo="https://i.postimg.cc/B6bLprVw/HA-NOI-2.png",HÀ NỘI 2
@@ -350,8 +351,6 @@ https://livecdn.fptplay.net/sdb/mtv_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/hda3/music_4000.stream/chunklist.m3u8
 
 
-#EXTINF:-1 tvg-id="htvcdulichhd" group-title="HTVC DU LỊCH & CUỘC SỐNG" tvg-logo="https://i.postimg.cc/CL8ck40s/DU-LICH-CUOC-SONG.png",DU LỊCH & CUỘC SỐNG
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-DULICH-HD-1080p/chunks.m3u8
 
 
 
@@ -405,10 +404,12 @@ https://e1.endpoint.cdn.sctvonline.vn/hls/sctv21/sd2/index.m3u8|Referer=http://s
 
 #EXTINF:-1 tvg-id="htv1" group-title="HTV/HTVC" tvg-logo="https://i.postimg.cc/gjKx44fH/HTV1.png",HTV1
 https://livecdn.fptplay.net/sdb/htv1_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="htv3" group-title="THIẾU NHI" tvg-logo="https://i.postimg.cc/HxXc8TzK/HTV3.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htv3_1000.stream/playlist_dvr_range-${start}-${offset}.m3u8",🕓 HTV3
-https://livecdn.fptplay.net/sdb/htv3_2000.stream/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="htvkey" group-title="HTV/HTVC"  tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/08/14/359584-htv-key-web.png", HTV Key
 https://livecdn.fptplay.net/sdb/htv4_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="htvcdulichhd" group-title="HTVC DU LỊCH & CUỘC SỐNG" tvg-logo="https://i.postimg.cc/CL8ck40s/DU-LICH-CUOC-SONG.png",DU LỊCH & CUỘC SỐNG
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-DULICH-HD-1080p/chunks.m3u8
+
 
 
 #EXTINF:-1  tvg-id="vtc2" group-title="VTC" tvg-logo="https://i.postimg.cc/tCZrG9sV/vtc2.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc2_1000.stream/playlist_dvr_range-${start}-${offset}.m3u8",🕓 VTC2
@@ -645,6 +646,8 @@ https://livecdn.fptplay.net/hda3/cbeebies_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="THIẾU NHI" tvg-logo="https://i.postimg.cc/R06YKbPR/bptv3.png" ,ANT - BÌNH PHƯỚC 3
 #https://mziyw7t0yhliv.vcdn.cloud/live/binhphuoc3/chunklist_1.m3u8
 https://livecdn.fptplay.net/sda/ant_2000.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="htv3" group-title="THIẾU NHI" tvg-logo="https://i.postimg.cc/HxXc8TzK/HTV3.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htv3_1000.stream/playlist_dvr_range-${start}-${offset}.m3u8",🕓 HTV3
+https://livecdn.fptplay.net/sdb/htv3_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="vtvcab8hd" group-title="THIẾU NHI" tvg-logo="https://i.postimg.cc/Kv3dM2XY/VVCAB8.png",VTVcab8 - BIBI
 http://s2live.tv1asia.com:21585/vtvcab8/index.m3u8
 #EXTINF:-1 tvg-id="dreamworks" group-title="KÊNH THIẾU NHI" tvg-logo="https://i.postimg.cc/C526n1ZK/drw.png",DREAM WORKS

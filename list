@@ -107,6 +107,11 @@ https://vips-livecdn.fptplay.net/hda2/vtv9_vhls.smil/chunklist_b5000000.m3u8
 https://livecdn.fptplay.net/sdc/truyenhinhnhandan_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="quochoi" tvg-logo="https://i.postimg.cc/tJ7LY5Pg/QUOC-HOI.png" group-title="TRUYỀN HÌNH QUỐC HỘI VIỆT NAM",QUỐC HỘI
 https://vips-livecdn.fptplay.net/hda1/quochoivn_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="vovtvhd" tvg-logo="https://i.postimg.cc/RZL1gC6K/VOV-TV.png" group-title="VOV TV",VOV TV
+https://mediatech.vncdn.vn/vovlive/tv1live.m3u8
+#https://livecdn.fptplay.net/sdc/vovtvsd_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="anvienhd" group-title="BTV9  AN VIÊN - KÊNH PHẬT GIÁO" tvg-logo="https://i.postimg.cc/BZgLmxHn/BTV9.png",BTV9 - AN VIÊN
+https://livecdn.fptplay.net/sdc/btv9_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="vtc3hd" group-title="VTC3" tvg-logo="https://i.postimg.cc/YSw-gsGCH/vtc3.png" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc3_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",🕓 VTC3
 https://vips-livecdn.fptplay.net/hda1/vtc3hd_vhls.smil/chunklist_b5000000.m3u8
@@ -135,11 +140,7 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PLUS-HD-1080p/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="vovtvhd" tvg-logo="https://i.postimg.cc/RZL1gC6K/VOV-TV.png" group-title="VOV TV",VOV TV
-https://mediatech.vncdn.vn/vovlive/tv1live.m3u8
-#https://livecdn.fptplay.net/sdc/vovtvsd_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="anvienhd" group-title="BTV9  AN VIÊN - KÊNH PHẬT GIÁO" tvg-logo="https://i.postimg.cc/BZgLmxHn/BTV9.png",BTV9 - AN VIÊN
-https://livecdn.fptplay.net/sdc/btv9_hls.smil/chunklist_b2500000.m3u8
+
 
 
 

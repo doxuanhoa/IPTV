@@ -111,8 +111,8 @@ https://vips-livecdn.fptplay.net/hda1/quochoivn_vhls.smil/chunklist_b5000000.m3u
 https://vips-livecdn.fptplay.net/hda1/vtc3hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtc4hd" group-title="VTC"  tvg-logo="https://i.postimg.cc/XYqSJxdq/VTC4-W.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc4_1000.stream/playlist_dvr_range-${start}-${offset}.m3u8",🕓 VTC4
 https://vips-livecdn.fptplay.net/hda2/vtc4_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="vtc13hd" group-title="VTC13" tvg-logo="https://i.postimg.cc/Jz6r6f71/VTC13.png" ,VTC13
-https://vips-livecdn.fptplay.net/hda1/vtc13_vhls.smil/chunklist_b5000000.m3u8
+
+
 #EXTINF:-1 tvg-id="vtc16" group-title="VTC16 - KÊNH TRUYỀN HÌNH NÔNG NGHIỆP NÔNG THÔN" tvg-logo="https://i.postimg.cc/mkhFH78Q/vtc16.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc16_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",🕓 VTC16
 https://livecdn.fptplay.net/sdb/vtc16_hls.smil/chunklist_b2500000.m3u8
 
@@ -283,6 +283,8 @@ https://livecdn.fptplay.net/hda3/btv2_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/sdb/binhduong3_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="btv4" group-title="BÌNH DƯƠNG 4 - TRUYỀN HÌNH BÌNH DƯƠNG" tvg-logo="https://i.postimg.cc/fRtVzGB9/BTV4.png",BÌNH DƯƠNG 4
 https://vips-livecdn.fptplay.net/hda2/btv4hd_4000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="BTV6 - TRUYỀN HÌNH BÌNH DƯƠNG" tvg-logo="https://i.postimg.cc/dtsnTR4y/BTV6.png" ,BÌNH DƯƠNG 6
+https://livecdn.fptplay.net/sda/btv6_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="TRUYỀN HÌNH BÌNH PHƯỚC 1" tvg-logo="https://i.postimg.cc/CMnrB9Nt/BPTV1.png" ,BÌNH PHƯỚC 1
 https://live.baobinhphuoc.com.vn/bptvlive/tv1live.m3u8
 #EXTINF:-1 group-title="TRUYỀN HÌNH BÌNH PHƯỚC 2" tvg-logo="https://i.postimg.cc/FzSTMJzm/BPTV2.png" ,BÌNH PHƯỚC 2
@@ -335,15 +337,22 @@ https://livecdn.fptplay.net/sdc/camau_2000.stream/chunklist.m3u8
 #http://tv.ctvcamau.vn/live/tv/tv.m3u8
 
 
-#EXTINF:-1 group-title="BTV6 - TRUYỀN HÌNH BÌNH DƯƠNG" tvg-logo="https://i.postimg.cc/dtsnTR4y/BTV6.png" ,BÌNH DƯƠNG 6
-https://livecdn.fptplay.net/sda/btv6_hls.smil/chunklist_b2500000.m3u8
 
+
+
+#EXTINF:-1 tvg-id="vtc13hd" group-title="VTC13" tvg-logo="https://i.postimg.cc/Jz6r6f71/VTC13.png" ,VTC13
+https://vips-livecdn.fptplay.net/hda1/vtc13_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="htvccanhachd" group-title="HTVC CA NHẠC" tvg-logo="https://i.postimg.cc/Y9XJ12qv/HTVC-CA-NHAC.png",HTVC CA NHẠC
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-CANHAC-HD-1080p/chunks.m3u8
+#EXTINF:-1 tvg-id="mtvhd" group-title="KÊNH ÂM NHẠC" tvg-logo="https://i.postimg.cc/QdJzHcmZ/MTV-HD.png", MTV
+https://livecdn.fptplay.net/sdb/mtv_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="musicbox" group-title="KÊNH ÂM NHẠC" tvg-logo="https://i.postimg.cc/vHK1nTMF/BoxMusic.png",MUSIC BOX
+https://livecdn.fptplay.net/hda3/music_4000.stream/chunklist.m3u8
 
 
 #EXTINF:-1 tvg-id="htvcdulichhd" group-title="HTVC DU LỊCH & CUỘC SỐNG" tvg-logo="https://i.postimg.cc/CL8ck40s/DU-LICH-CUOC-SONG.png",DU LỊCH & CUỘC SỐNG
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-DULICH-HD-1080p/chunks.m3u8
-#EXTINF:-1 tvg-id="htvccanhachd" group-title="HTVC CA NHẠC" tvg-logo="https://i.postimg.cc/Y9XJ12qv/HTVC-CA-NHAC.png",HTVC CA NHẠC
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-CANHAC-HD-1080p/chunks.m3u8
+
 
 
 
@@ -380,12 +389,10 @@ https://vtsstr6.tv24.vn/live/SCTV12_HD_new.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="sctv13hd" group-title="SCTV" tvg-logo="https://i.postimg.cc/7hQSG9jn/SCTV-13.png", SCTV13
 https://vtsstr7.tv24.vn/live/SCTVHDPhunuGiadinh_new.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="sctv15hd" group-title="SCTV15 - KÊNH THỂ THAO" tvg-logo="https://i.postimg.cc/C1SnRNj9/sctv15.png", SCTV15 - THỂ THAO
-https://vtsstr4.tv24.vn/live/SCTV_HD_TheThao_new.smil/chunklist.m3u8?uid=s2c526m574z5s4l5h4
+
 #EXTINF:-1 tvg-id="sctv16hd" group-title="SCTV16  - KÊNH PHIM NƯỚC NGOÀI ĐẶC SẮC" tvg-logo="https://i.postimg.cc/xd6dBV5N/sctv16-new.png", SCTV16
 https://vtsstr4.tv24.vn/live/SCTV_HD_phimnuocngoaidacsac_new.smil/chunklist.m3u8?uid=s2c526m574z5s4l5h4
-#EXTINF:-1 tvg-id="sctv17hd" group-title="SCTV17 - KÊNH THỂ THAO" tvg-logo="https://i.postimg.cc/rmj0xrjs/sctv17.png", SCTV17 - THỂ THAO
-https://vtsstr4.tv24.vn/live/SCTV17_HD_new.smil/chunklist.m3u8?uid=s2c526m574z5s4l5h4
+
 #EXTINF:-1 tvg-id="sctv18hd" group-title="SCTV" tvg-logo="https://i.postimg.cc/Bby1Q61h/SCTV-18.png", SCTV18
 https://vtsstr6.tv24.vn/live/SCTV18_HD_new.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="sctv19hd" group-title="SCTV" tvg-logo="https://i.postimg.cc/Hx6yR3W1/SCTV-19.png", SCTV19
@@ -394,10 +401,6 @@ https://vtsstr4.tv24.vn/live/SCTV19_HD_new.smil/chunklist.m3u8?uid=s2c526m574z5s
 https://vtsstr4.tv24.vn/live/SCTV20_HD_new.smil/chunklist.m3u8?uid=s2c526m574z5s4l5h4
 #EXTINF:-1 tvg-id="sctv21hd" group-title="SCTV" tvg-logo="https://i.postimg.cc/Gm8nwnsm/SCTV21.png", SCTV21
 https://e1.endpoint.cdn.sctvonline.vn/hls/sctv21/sd2/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="sctv22hd" group-title="SCTV22 - KÊNH THỂ THAO" tvg-logo="https://i.postimg.cc/KjYKN8pN/sctv22.png", SCTV22 - THỂ THAO
-https://vtsstr4.tv24.vn/live/SCTV22_HD_new.smil/chunklist.m3u8?uid=s2c526m574z5s4l5h4
-#EXTINF:-1  tvg-id="btv5hd" group-title="SCTV" tvg-logo="https://i.postimg.cc/XqThnr68/BTV5.png" , BTV5 - THỂ THAO
-https://vtsstr4.tv24.vn/live/btv5_HD_new.smil/chunklist.m3u8?uid=s2c526m574z5s4l5h4
 
 
 #EXTINF:-1 tvg-id="htv1" group-title="HTV/HTVC" tvg-logo="https://i.postimg.cc/gjKx44fH/HTV1.png",HTV1
@@ -576,10 +579,7 @@ https://family4you.fun/LaoHac2022/genblock.php?id=10867
 #EXTINF:-1 tvg-id="channelvhd" group-title="Quốc tế" tvg-logo="https://i.postimg.cc/0jW0QxrF/channel-v.png",CHANNEL V
 #https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CHANNELV-HD-1080p/playlist.m3u8
-#EXTINF:-1 tvg-id="mtvhd" group-title="KÊNH ÂM NHẠC" tvg-logo="https://i.postimg.cc/QdJzHcmZ/MTV-HD.png", MTV
-https://livecdn.fptplay.net/sdb/mtv_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="musicbox" group-title="KÊNH ÂM NHẠC" tvg-logo="https://i.postimg.cc/vHK1nTMF/BoxMusic.png",MUSIC BOX
-https://livecdn.fptplay.net/hda3/music_4000.stream/chunklist.m3u8
+
 
 
 #EXTINF:-1 tvg-id="cna_channel_news_asia" tvg-logo="https://i.postimg.cc/MZBbRX4v/channelnewsasia.png" group-title="Quốc tế",CHANNEL  NEWS ASIA
@@ -694,6 +694,17 @@ http://139.99.30.49:9981/stream/mux/d6328cb48667824dde6c8a45d887bfcf?ticket=48AD
 #EXTINF:0 tvg-id="vtvcab18hd" group-title="🇻| VTVcab" tvg-logo="https://i.postimg.cc/FKPdXFKJ/vtvcab18.png",VTVcab18 - ON SPORT NEWS
 #http://gg.gg/cccab18|Referer=https://www.nonolive.com/
 
+#EXTINF:-1 tvg-id="sctv15hd" group-title="SCTV15 - KÊNH THỂ THAO" tvg-logo="https://i.postimg.cc/C1SnRNj9/sctv15.png", SCTV15 - THỂ THAO
+https://vtsstr4.tv24.vn/live/SCTV_HD_TheThao_new.smil/chunklist.m3u8?uid=s2c526m574z5s4l5h4
+#EXTINF:-1 tvg-id="sctv17hd" group-title="SCTV17 - KÊNH THỂ THAO" tvg-logo="https://i.postimg.cc/rmj0xrjs/sctv17.png", SCTV17 - THỂ THAO
+https://vtsstr4.tv24.vn/live/SCTV17_HD_new.smil/chunklist.m3u8?uid=s2c526m574z5s4l5h4
+#EXTINF:-1 tvg-id="sctv22hd" group-title="SCTV22 - KÊNH THỂ THAO" tvg-logo="https://i.postimg.cc/KjYKN8pN/sctv22.png", SCTV22 - THỂ THAO
+https://vtsstr4.tv24.vn/live/SCTV22_HD_new.smil/chunklist.m3u8?uid=s2c526m574z5s4l5h4
+#EXTINF:-1  tvg-id="btv5hd" group-title="SCTV" tvg-logo="https://i.postimg.cc/XqThnr68/BTV5.png" , BTV5 - THỂ THAO
+https://vtsstr4.tv24.vn/live/btv5_HD_new.smil/chunklist.m3u8?uid=s2c526m574z5s4l5h4
+#EXTINF:-1 tvg-id="htvthethaohd" group-title="HTV THỂ THAO"  tvg-logo="https://i.postimg.cc/NFhSSkS4/thethao.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcthethao_1000.stream/playlist_dvr_range-${start}-${offset}.m3u8",🕓 HTV THỂ THAO
+https://vips-livecdn.fptplay.net/hda3/htvcthethao_vhls.smil/chunklist.m3u8
+#https://livecdn.fptplay.net/sdb/htvcthethao_hls.smil/chunklist_b2500000.m3u8
 
 
 #EXTINF:-1 tvg-id="vtv6hd" group-title="VTV6 - TRUYỀN HÌNH VIỆT NAM" tvg-logo="https://i.postimg.cc/rwTWYB0z/VTV6.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv6hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",🕓 VTV6 FULL HD

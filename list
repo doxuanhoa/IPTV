@@ -617,7 +617,7 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8
 https://livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist.m3u8
 
 
-#EXTINF:-1 group-title="Quốc tế" tvg-id="blueantent" tvg-logo="https://i.postimg.cc/jjwdzTNL/rock.png", ROCK ENTERTAINMENT
+#EXTINF:-1 group-title="Quốc tế" tvg-id="blueantent" tvg-logo="https://i.postimg.cc/jjwdzTNL/rock.png", BLUE ANT ENTERTAINMENT
 https://livecdn.fptplay.net/hda1/blueantent_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="Quốc tế" tvg-id="blueantext" tvg-logo="https://i.postimg.cc/Bvh2fdH6/blue-ant-e-X.png", BLUE ANT EXTREME
 https://livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist_b5000000.m3u8

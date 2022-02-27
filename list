@@ -238,8 +238,6 @@ https://livecdn.fptplay.net/sdc/quangtri_2000.stream/chunklist.m3u8
 #https://livecdn.fptplay.net/sdc/quangtri_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="hue" group-title="TRUYỀN HÌNH THỪA THIÊN HUẾ" tvg-logo="https://i.postimg.cc/Y0jKNzSC/hue.png",THỪA THIÊN HUẾ
 https://livecdn.fptplay.net/sdc/hue_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="hue" group-title="TRUYỀN HÌNH THỪA THIÊN HUẾ" tvg-logo="https://i.postimg.cc/Y0jKNzSC/hue.png",THỪA THIÊN HUẾ 2
-https://live.trt.com.vn/TRT-Online/chunklist.m3u8
 #EXTINF:-1 tvg-id="TH DA NANG 1" group-title="TRUYỀN HÌNH ĐÀ NẴNG 1" tvg-logo="https://i.postimg.cc/9MrTJB8j/da-nang-1.png",ĐÀ NẴNG 1
 https://livecdn.fptplay.net/sdc/danang1_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="danang2" group-title="TRUYỀN HÌNH ĐÀ NẴNG 2" tvg-logo="https://i.postimg.cc/HLWb7mbn/da-nang-2.png" ,ĐÀ NẴNG 2

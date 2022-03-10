@@ -764,7 +764,7 @@ http://media.kythuatvov.vn:7001/;stream/
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8P9kxLWV/vov2.png" group-title="VOV2 - ĐÀI TIẾNG NÓI VIỆT NAM",📻 VOV2
 http://media.kythuatvov.vn:7003/;stream/
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RZtCmqQJ/vov3.png" group-title="VOV3 - ĐÀI TIẾNG NÓI VIỆT NAM",📻 VOV3
-http://media.kythuatvov.vn:10005/;stream/
+http://media.kythuatvov.vn:7005/;stream/
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Dztkg3LH/vov5.png" group-title="VOV5 - ĐÀI TIẾNG NÓI VIỆT NAM",📻 VOV5
 #http://media.kythuatvov.vn:7007/;stream/
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tgHq4y2S/vovgt.png" group-title="KÊNH RADIO TIN TỨC GIAO THÔNG",📻 VOV GIAO THÔNG

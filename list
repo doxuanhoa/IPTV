@@ -4,7 +4,8 @@ https://vips-livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
 #http://139.99.30.49:9981/stream/mux/cb0cf7144a5139738c930b1f991a1efe?ticket=0B728F5ACF0E114E403A1E997E7ACCED0F788D51
 #http://dung1202.duckdns.org:12381/udp/232.84.1.117:10254
 
-
+#EXTINF:-1 tvg-id="vtv2hd" group-title="VTV2 - KÊNH KHOA HỌC GIÁO DỤC" tvg-logo="https://i.postimg.cc/8kYyFzFW/VTV2.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv2_2000.stream/chunks_dvr_range-${start}-${offset}.m3u8" ,🕓 VTV2
+https://vips-livecdn.fptplay.net/hda1/vtv2_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtv3hd" group-title="VTV3" tvg-logo="https://i.postimg.cc/3JDt2Qpq/VTV3.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv3hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",🕓 VTV3
 https://vips-livecdn.fptplay.net/hda1/vtv3hd_vhls.smil/chunklist_b5000000.m3u8
 #http://139.99.30.49:9981/stream/mux/1e13ac5852c90f4299ce90f0e9d8daa2?ticket=EA437553060C964E5C26733569CF2502E6B49D3C
@@ -12,6 +13,8 @@ https://vips-livecdn.fptplay.net/hda1/vtv3hd_vhls.smil/chunklist_b5000000.m3u8
 #http://dung1202.duckdns.org:12381/udp/232.84.1.118:10260
 
 
+#EXTINF:-1 tvg-id="vtv4hd" group-title="VTV4" tvg-logo="https://i.postimg.cc/y6w00g7m/VTV4.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv4_2000.stream/chunks_dvr_range-${start}-${offset}.m3u8",🕓 VTV4
+https://vips-livecdn.fptplay.net/hda1/vtv4_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtv5hd" group-title="VTV5 - ĐÀI TRUYỀN HÌNH VIỆT NAM " tvg-logo="https://i.postimg.cc/MKVV56Gh/VTV5.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv5hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",🕓 VTV5
 https://vips-livecdn.fptplay.net/hda2/vtv5hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtv6hd" group-title="VTV6 - TRUYỀN HÌNH VIỆT NAM" tvg-logo="https://i.postimg.cc/rwTWYB0z/VTV6.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv6hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",🕓 VTV6
@@ -90,10 +93,8 @@ https://vips-livecdn.fptplay.net/hda1/vinhlong1_vhls.smil/chunklist_b5000000.m3u
 https://vips-livecdn.fptplay.net/hda2/vinhlong2_vhls.smil/chunklist_b5000000.m3u8
 
 
-#EXTINF:-1 tvg-id="vtv2hd" group-title="VTV2 - KÊNH KHOA HỌC GIÁO DỤC" tvg-logo="https://i.postimg.cc/8kYyFzFW/VTV2.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv2_2000.stream/chunks_dvr_range-${start}-${offset}.m3u8" ,🕓 VTV2
-https://vips-livecdn.fptplay.net/hda1/vtv2_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="vtv4hd" group-title="VTV4" tvg-logo="https://i.postimg.cc/y6w00g7m/VTV4.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv4_2000.stream/chunks_dvr_range-${start}-${offset}.m3u8",🕓 VTV4
-https://vips-livecdn.fptplay.net/hda1/vtv4_vhls.smil/chunklist_b5000000.m3u8
+
+
 
 #EXTINF:-1 tvg-id="vtv7hd" group-title="VTV7" tvg-logo="https://i.postimg.cc/wBTN9Dkp/VTV7.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv7hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",🕓 VTV7
 https://vips-livecdn.fptplay.net/hda3/vtv7hd_vhls.smil/chunklist_b5000000.m3u8
@@ -188,7 +189,6 @@ https://livecdn.fptplay.net/sdb/backan_hls.smil/chunklist_b2500000.m3u8
 #https://thainguyentv.vn/hls/livestream.m3u8
 https://livecdn.fptplay.net/sdc/thainguyen_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="thainguyen" tvg-logo="https://i.postimg.cc/MG9dCPBv/TN2.png" group-title="TRUYỀN HÌNH THÁI NGUYÊN 2", THÁI NGUYÊN 2
-https://8387e1fb5a.vws.vegacdn.vn/live/thainguyen2/chunklist_1.m3u8
 #EXTINF:-1 tvg-id="tuyenquangtvttv" group-title="TRUYỀN HÌNH TUYÊN QUANG" tvg-logo="https://i.postimg.cc/26b0zfmF/TTV.png", TUYÊN QUANG
 https://livecdn.fptplay.net/sda/tuyenquang_2000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="TRUYỀN HÌNH PHÚ THỌ" tvg-logo="https://i.postimg.cc/QtF80jbL/PhuTho.png", PHÚ THỌ
@@ -610,12 +610,12 @@ https://vips-livecdn.fptplay.net/hda3/kbs_4000.stream/chunklist.m3u8
 
 
 #EXTINF:-1 group-title="Quốc tế" tvg-id="historyhd" tvg-logo="https://i.postimg.cc/zXb581GG/History.png", HISTORY
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8
+#http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8
 #EXTINF:-1 group-title="Quốc tế" tvg-id="ngchd" tvg-logo="https://assets.cdn.watchdisneyfe.com/delta/assets/natgeo/national-geographic.png", NATIONAL GEOGRAPHIC
 https://livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist.m3u8
 
 
-#EXTINF:-1 group-title="Quốc tế" tvg-id="blueantent" tvg-logo="https://i.postimg.cc/jjwdzTNL/rock.png", BLUE ANT ENTERTAINMENT
+#EXTINF:-1 group-title="Quốc tế" tvg-id="blueantent" tvg-logo="https://i.postimg.cc/FR73rDVx/BLUE-ANT.png", BLUE ANT ENTERTAINMENT
 https://livecdn.fptplay.net/hda1/blueantent_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="Quốc tế" tvg-id="blueantext" tvg-logo="https://i.postimg.cc/Bvh2fdH6/blue-ant-e-X.png", BLUE ANT EXTREME
 https://livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist_b5000000.m3u8

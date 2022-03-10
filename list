@@ -631,8 +631,6 @@ https://vtsstr7.tv24.vn/live/Hollywood.smil/chunklist.m3u8?uid=s2c526m574z5s4l5h
 http://catchup.nethubtv.vn/live/box-channel/chunklist_2.m3u8
 #EXTINF:-1 tvg-id="boxmovie1" group-title="BOX MOVIE - KÊNH PHIM TRUYỆN" tvg-logo="https://i.postimg.cc/TYJL7vLs/BOX-Movie.png", BOX MOVIE
 https://vtsstr7.tv24.vn/live/BOX_MOVIE_HD.smil/chunklist.m3u8?uid=s2c526m574z5s4l5h4
-#EXTINF:-1 tvg-id="happykids" group-title="Quốc tế" tvg-logo="https://i.postimg.cc/d0S6nhX2/HP.png",HAPPY KIDS
-https://vtsstr7.tv24.vn/live/Happy_Kids.smil/chunklist.m3u8?uid=s2c526m574z5s4l5h4
 #EXTINF:-1 tvg-id="boxhits" group-title="BOX HITS - KÊNH PHIM TRUYỆN" tvg-logo="https://i.postimg.cc/qRz5Ps6Y/BoxHits.png", BOX HITS
 http://catchup.nethubtv.vn/live/box-hits/chunklist_2.m3u8
 
@@ -646,6 +644,9 @@ https://livecdn.fptplay.net/hda3/natgeowild_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="cbeebies" group-title="BBC CBEEBIES - KÊNH THIẾU NHI" tvg-logo="https://i.postimg.cc/XqgV669g/BBC-C.png",BBC CBEEBIES
 https://livecdn.fptplay.net/hda3/cbeebies_vhls.smil/chunklist_b5000000.m3u8
 
+
+#EXTINF:-1 tvg-id="animaxhd" group-title="ANIMAX - KÊNH PHIM THIẾU NHI NHẬT BẢN" tvg-logo="https://i.postimg.cc/bv4qypKm/animax.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/animaxport_1000.stream/playlist_dvr_range-${start}-${offset}.m3u8",🕓 ANIMAX
+https://livecdn.fptplay.net/hda3/animaxport_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="THIẾU NHI" tvg-logo="https://i.postimg.cc/R06YKbPR/bptv3.png" ,ANT - BÌNH PHƯỚC 3
 #https://mziyw7t0yhliv.vcdn.cloud/live/binhphuoc3/chunklist_1.m3u8
 https://livecdn.fptplay.net/sda/ant_2000.stream/playlist.m3u8
@@ -655,8 +656,8 @@ https://livecdn.fptplay.net/sdb/htv3_2000.stream/chunklist.m3u8
 http://s2live.tv1asia.com:21585/vtvcab8/index.m3u8
 #EXTINF:-1 tvg-id="dreamworks" group-title="KÊNH THIẾU NHI" tvg-logo="https://i.postimg.cc/C526n1ZK/drw.png",DREAM WORKS
 https://livecdn.fptplay.net/hda3/dreamworks_vhls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="animaxhd" group-title="ANIMAX - KÊNH PHIM THIẾU NHI NHẬT BẢN" tvg-logo="https://i.postimg.cc/bv4qypKm/animax.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/animaxport_1000.stream/playlist_dvr_range-${start}-${offset}.m3u8",🕓 ANIMAX
-https://livecdn.fptplay.net/hda3/animaxport_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="happykids" group-title="Quốc tế" tvg-logo="https://i.postimg.cc/d0S6nhX2/HP.png",HAPPY KIDS
+https://vtsstr7.tv24.vn/live/Happy_Kids.smil/chunklist.m3u8?uid=s2c526m574z5s4l5h4
 #EXTINF:-1  tvg-id="boomerang" group-title="BOOMERANG - KÊNH THIẾU NHI" tvg-logo="https://i.postimg.cc/jSHTtTG2/BOOMERANG.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/boomerang_1000.stream/playlist_dvr_range-${start}-${offset}.m3u8",🕓 BOOMERANG
 https://livecdn.fptplay.net/hda3/boomerang_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="cartoonhd" group-title="CARTOON NETWORK - KÊNH THIẾU NHI" tvg-logo="https://i.postimg.cc/0yrP1crG/cn.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/cartoonnetworkhd_1000.stream/playlist_dvr_range-${start}-${offset}.m3u8",🕓 CARTOON NETWORK

@@ -126,20 +126,19 @@ https://vips-livecdn.fptplay.net/hda2/vtc4_vhls.smil/chunklist_b5000000.m3u8
 https://livecdn.fptplay.net/sdb/vtc16_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="htvcthuanviethd" group-title="HTVC THUẦN VIỆT HD" tvg-logo="https://i.postimg.cc/WzHjdkHq/tv.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcthuanviethd_1000.stream/playlist_dvr_range-${start}-${offset}.m3u8",🕓 THUẦN VIỆT HD
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-THUANVIETHD-HD-1080p/playlist.m3u8?
+https://vips-livecdn.fptplay.net/hda1/htvcthuanviethd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="htvcthuanviet" group-title="HTVC THUẦN VIỆT" tvg-logo="https://i.postimg.cc/zXFMh70j/thuan-viet-htvc.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcthuanviet_1000.stream/playlist_dvr_range-${start}-${offset}.m3u8",🕓 THUẦN VIỆT
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-THUANVIET-HD-1080p/chunks.m3u8?
+https://vips-livecdn.fptplay.net/hda3/htvcthuanviet_4000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="htvcphimhd" group-title="HTVC PHIM - KÊNH PHIM TRUYỆN" tvg-logo="https://i.postimg.cc/sDNb7yDS/flim.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcmovieshd_1000.stream/playlist_dvr_range-${start}-${offset}.m3u8",🕓 HTVC PHIM
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PHIM-HD-1080p/playlist.m3u8
+
 #https://vips-livecdn.fptplay.net/hda2/htvcmoviehd_vhls.smil/chunklist_b5000000.m3u8
+https://livecdn.fptplay.net/sdb/htvcmovieshd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="htvcgiadinhhd" group-title="HTVC GIA ĐÌNH" tvg-logo="https://i.postimg.cc/8PJZ8vNJ/gd.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcgiadinh_1000.stream/playlist_dvr_range-${start}-${offset}.m3u8",🕓 GIA ĐÌNH
-#https://livecdn.fptplay.net/hda/htvcgiadinh_hls.smil/chunklist_b2500000.m3u8
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-GIADINH-HD-1080p/playlist.m3u8
+https://vips-livecdn.fptplay.net/hda3/htvcgiadinh_vhls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="htvcphunuhd"  group-title="HTVC PHỤ NỮ" tvg-logo="https://i.postimg.cc/4dh5d6V6/htvc-phu-nu.png",PHỤ NỮ
-#https://livecdn.fptplay.net/hda/htvcphunu_2000.stream/chunklist.m3u8
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PHUNU-HD-1080p/chunks.m3u8
+https://vips-livecdn.fptplay.net/hda3/htvcphunu_vhls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="htvcplushd" " group-title="HTVC PLUS" tvg-logo="http://htvc.vn/uploads/cache/thumbnail/2019-05-22/6833055-9051942-plus.png",HTVC C+
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PLUS-HD-1080p/playlist.m3u8
+https://vips-livecdn.fptplay.net/hda3/htvcplus_vhls.smil/chunklist_b2500000.m3u8
 
 
 
@@ -411,7 +410,7 @@ https://livecdn.fptplay.net/sdb/htv1_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="htvkey" group-title="HTV/HTVC"  tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/08/14/359584-htv-key-web.png", HTV Key
 https://livecdn.fptplay.net/sdb/htv4_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="htvcdulichhd" group-title="HTVC DU LỊCH & CUỘC SỐNG" tvg-logo="https://i.postimg.cc/CL8ck40s/DU-LICH-CUOC-SONG.png",DU LỊCH & CUỘC SỐNG
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-DULICH-HD-1080p/chunks.m3u8
+https://vips-livecdn.fptplay.net/hda3/htvcdulich_4000.stream/chunklist.m3u8
 
 
 

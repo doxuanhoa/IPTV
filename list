@@ -707,10 +707,11 @@ https://vtsstr7.tv24.vn/live/VTVcab16HD_temp_new.smil/chunklist.m3u8?uid=s2c526m
 #http://gg.gg/cccab18|Referer=https://www.nonolive.com/
 
 #EXTINF:-1 tvg-id="vtv6hd" group-title="VTV6 - TRUYỀN HÌNH VIỆT NAM" tvg-logo="https://i.postimg.cc/rwTWYB0z/VTV6.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv6hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",🕓 VTV6 Thử nghiệm
-https://cache05.fbox.fpt.vn/bpk-token/2aa@p4i11n44dnpxj5rlrx5alrwx1mth04otpg3x2jda/3912800_avc1_640028_1920x1080_25_1.m3u8
+
 
 #EXTINF:-1 tvg-id="vtv6hd" group-title="VTV6 - TRUYỀN HÌNH VIỆT NAM" tvg-logo="https://i.postimg.cc/rwTWYB0z/VTV6.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv6hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",🕓 VTV6 FPT
-http://139.99.30.49/VTV6fpt/mpegts
+http://139.99.30.49/VTV6mytv/mpegts
+#http://139.99.30.49/VTV6fpt/mpegts
 #EXTINF:-1 tvg-id="vtv6hd" group-title="VTV6 - TRUYỀN HÌNH VIỆT NAM" tvg-logo="https://i.postimg.cc/rwTWYB0z/VTV6.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv6hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",🕓 VTV6 VNPT
 #http://139.99.30.49/VTV6mytv/mpegts
 

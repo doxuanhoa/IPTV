@@ -108,7 +108,7 @@ https://vips-livecdn.fptplay.net/hda2/vtv9_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="nhan_dan_tv"  tvg-logo="https://i.postimg.cc/FK8ZGZzW/NHAN-DAN.png" group-title="TRUYỀN HÌNH NHÂN DÂN",NHÂN DÂN
 https://livecdn.fptplay.net/sdc/truyenhinhnhandan_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="quochoi" tvg-logo="https://i.postimg.cc/tJ7LY5Pg/QUOC-HOI.png" group-title="TRUYỀN HÌNH QUỐC HỘI VIỆT NAM",QUỐC HỘI
+#EXTINF:-1 tvg-id="quochoi" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f9/KenhQuocHoi_logo_2022.png/revision/latest?cb=20220608125743&path-prefix=vi" group-title="TRUYỀN HÌNH QUỐC HỘI VIỆT NAM",QUỐC HỘI
 https://vips-livecdn.fptplay.net/hda1/quochoivn_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vovtvhd" tvg-logo="https://i.postimg.cc/RZL1gC6K/VOV-TV.png" group-title="VOV TV",VOV TV
 https://mediatech.vncdn.vn/vovlive/tv1live.m3u8

@@ -751,6 +751,10 @@ https://vtsstr7.tv24.vn/live/VTVcab16HD_temp_new.smil/chunklist.m3u8?uid=s2c526m
 #EXTINF:-1 tvg-id="ksport2hd" group-title="K+ SPORT 2" tvg-logo="https://img.kplus.vn/media/channels/sg/channelicons/KSPORT2.png", K+ SPORT 2
 #https://livecdn.fptplay.net/hdevent/27082021k1pc_4000.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="vtv6hd" group-title="VTV6 - TRUYỀN HÌNH VIỆT NAM" tvg-logo="" ,Thử nghiệm
+https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/chunklist_b1290000_slpt.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/V669QzBb/Pladio-FPT.png" group-title="Pladio FPT Play",PLADIO
 https://vips-livecdn.fptplay.net/hda3/pladio_4000.stream/chunklist.m3u8

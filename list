@@ -774,6 +774,6 @@ http://stream2.mobiradio.vn/vovradio/vovgthn.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zf7BCws9/logo-vov.png" group-title="Radio",📻 VOV SỨC KHỎE
 http://media.kythuatvov.vn:7021/;stream/
 #EXTINF:-1 tvg-logo="https://media.hanoitv.vn/thumb_x350x200/upload/logo_joy.png" group-title="KỂNH RADIO CHUYÊN BIỆT VỀ SỨC KHỎE",📻 ZOY FM - SỨC KHỎE
-https://livept.hanoitv.vn/hntvRadio/joyfm.stream_aac/chunklist_w1217393091.m3u8
+#https://livept.hanoitv.vn/hntvRadio/joyfm.stream_aac/chunklist_w1217393091.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CxPW0nTQ/viettel.png" group-title="ĐA MÀN HÌNH", ĐA MÀN HÌNH
-http://139.99.30.49:9981/stream/mux/74de84e419b6fc7939745f30953d8a02?ticket=C5F5792703D69F47512D1D5254A0A08EF9079157       
+#http://139.99.30.49:9981/stream/mux/74de84e419b6fc7939745f30953d8a02?ticket=C5F5792703D69F47512D1D5254A0A08EF9079157       

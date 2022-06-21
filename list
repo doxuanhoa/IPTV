@@ -207,7 +207,8 @@ https://livecdn.fptplay.net/sdc/haiphong_2000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="TRUYỀN HÌNH HẢI PHÒNG +" tvg-logo="https://i.postimg.cc/jSmP8Mvn/HAI-PHONG.png, HẢI PHÒNG +
 https://live.thhp.vn/hls/thpplus/index.m3u8?1
 #EXTINF:-1 group-title="TRUYỀN HÌNH HẢI DƯƠNG" tvg-logo="https://i.postimg.cc/59KLbDnW/Hai-Duong-TV.png" ,HẢI DƯƠNG
-https://livecdn.fptplay.net/sdc/haiduong_hls.smil/chunklist_b2500000.m3u8
+https://api.vthanhtivii.xyz/v1/getlink/vtvgo/143
+#https://livecdn.fptplay.net/sdc/haiduong_hls.smil/chunklist_b2500000.m3u8
 #http://118.107.68.17:1935/VTC/smil:Bacninh.smil/playlist.m3u8
 #EXTINF:-1 group-title="TRUYỀN HÌNH VĨNH PHÚC" tvg-logo="https://i.postimg.cc/nhJmqkmW/vinhphuc.png" ,VĨNH PHÚC
 http://vinhphuctv.vn:8090/vinhphuclive/web.stream_720p/chunklist.m3u8
@@ -223,7 +224,8 @@ https://nbtv.vncdn.vn/nbtvlive/tv1live.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XJJtH2qR/thanhhoa.png" group-title="TRUYỀN HÌNH THANH HÓA",THANH HÓA
-https://livecdn.fptplay.net/sda/thanhhoa_2000.stream/chunklist.m3u8
+http://gg.gg/Thanh-Hoa-Tv-khichtv-mpegts
+#https://livecdn.fptplay.net/sda/thanhhoa_2000.stream/chunklist.m3u8
 #http://dung1202.duckdns.org:12381/udp/232.84.3.198:11110
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1RVwFJVG/nghe-an.png" group-title="TRUYỀN HÌNH NGHỆ AN",NGHỆ AN
 #https://livecdn.fptplay.net/sda/nghean_2000.stream/chunklist.m3u8

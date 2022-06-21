@@ -437,10 +437,11 @@ https://livecdn.fptplay.net/sdb/vtc12_hls.smil/chunklist_b2500000.m3u8
 
 
 #EXTINF:-1 tvg-id="vtv5hdtnb" group-title="VTV" tvg-logo="https://i.postimg.cc/fTkch3Q2/vtv5TNB.png",VTV5 TÂY NAM BỘ
-https://mutixx5hq1liv.akamaized.net/vtv5tnb/vtv5tnb@720p.m3u8
+#EXTVLCOPT: http-user-agent = KhichTivi
+https://tbientv.xyz/channel/vtvgo/?id=7
 #EXTINF:-1 tvg-id="vtv5hdtn" group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/Taynguyen-small.png",VTV5 TÂY NGUYÊN
-https://mutixx5hq1liv.akamaized.net/vtv5tn/vtv5tn@720p.m3u8
-
+#EXTVLCOPT:http-user-agent="khichTV"
+https://tbientv.xyz/channel/vtvgo/?id=163
 
 
 

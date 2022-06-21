@@ -373,7 +373,8 @@ https://d1icgg07fblj2l.cloudfront.net/v1/master/ba90b90a0ee2a56a8918633d147a0d5e
 
 
 #EXTINF:-1 tvg-id="sctv1hd" group-title="SCTV1 - KÊNH PHIM HÀI" tvg-logo="https://i.postimg.cc/bvQ58fkf/SCTV-1.png",SCTV1
-http://203.162.123.178:21585/sctv1/index.m3u8
+#EXTVLCOPT: http-user-agent = KhichTivi
+https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv1/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctv2hd" group-title="SCTV" tvg-logo="https://i.postimg.cc/PxyWhT4c/SCTV-2.png",SCTV2
 https://vtsstr6.tv24.vn/live/sctv2_HD_new.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="sctv3hd" group-title="SCTV" tvg-logo="https://i.postimg.cc/Rh0cZyp0/SCTV-3.png", SCTV3
@@ -420,6 +421,7 @@ https://vips-livecdn.fptplay.net/hda3/htvcdulich_4000.stream/chunklist.m3u8
 
 #EXTINF:-1  tvg-id="vtc2" group-title="VTC" tvg-logo="https://i.postimg.cc/tCZrG9sV/vtc2.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc2_1000.stream/playlist_dvr_range-${start}-${offset}.m3u8",🕓 VTC2
 https://livecdn.fptplay.net/sdb/vtc2_hls.smil/chunklist_b2500000.m3u8
+
 
 #EXTINF:-1 tvg-id="vtc5hd" group-title="VTC"  tvg-logo="https://i.postimg.cc/0y4gJm0f/VTC5-W-1.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc5_1000.stream/playlist_dvr_range-${start}-${offset}.m3u8",🕓 VTC5
 #https://vtc130121.cdn.vnns.io/VTC5/chunks.m3u8
@@ -756,7 +758,6 @@ https://vtsstr7.tv24.vn/live/VTVcab16HD_temp_new.smil/chunklist.m3u8?uid=s2c526m
 #https://livecdn.fptplay.net/hdevent/27082021k1pc_4000.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="vtv6hd" group-title="VTV6 - TRUYỀN HÌNH VIỆT NAM" tvg-logo="" ,Thử nghiệm
-https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/chunklist_b1290000_slpt.m3u8
 
 
 

@@ -271,8 +271,7 @@ https://livecdn.fptplay.net/sda/gialai_2000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="TRUYỀN HÌNH ĐẮK LẮK" tvg-logo="https://i.postimg.cc/ncXk9L0k/DRT.png" ,ĐẮK LẮK
 https://livecdn.fptplay.net/sdc/daklak_2000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="TRUYỀN HÌNH ĐẮK NÔNG" tvg-logo="https://i.postimg.cc/1tvxrJ4r/dak-nong.png" ,ĐẮK NÔNG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
-https://htv-drm-live-cdn.fptplay.net/htvonline/daknong.480p.nimble.tms/playlist.m3u8
+https://drm-livecdn.hplus.com.vn/htvonline/daknong.480p.nimble.tms/chunks.m3u8?cc
 #EXTINF:-1 group-title="TRUYỀN HÌNH LÂM ĐỒNG" tvg-logo="https://i.postimg.cc/65rDsfKS/LTV.png", LÂM ĐỒNG
 #http://203.171.21.216:1935/live/smil:LTV.smil/chunklist.m3u8
 https://livecdn.fptplay.net/sdc/lamdong_2000.stream/chunklist.m3u8
@@ -767,6 +766,9 @@ https://vtsstr7.tv24.vn/live/VTVcab16HD_temp_new.smil/chunklist.m3u8?uid=s2c526m
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/V669QzBb/Pladio-FPT.png" group-title="Pladio FPT Play",PLADIO
 https://vips-livecdn.fptplay.net/hda3/pladio_4000.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Radio",📻 NHẠC TRẺ
+https://vnno-zn-2-tf-multi-playlist-zmp3.zadn.vn/8t3wW77ohJw/zhls/playback-realtime/very-low/6eeb692c5569bc37e578/very-low.m3u8?cc
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ydwwk87S/radio.png" group-title="Radio",📻 HÀ NAM
 http://103.90.220.236/thhnlive/radio.m3u8
 #EXTINF:-1 group-title="Radio" tvg-logo="https://bizweb.dktcdn.net/thumb/large/100/011/094/products/radiovietnam-radiovietnam-icon.png?v=1503482217710",📻 XONE FM
@@ -782,7 +784,7 @@ http://media.kythuatvov.vn:7005/;stream/
 http://stream2.mobiradio.vn/vovradio/vovgthn.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zf7BCws9/logo-vov.png" group-title="Radio",📻 VOV SỨC KHỎE
 http://media.kythuatvov.vn:7021/;stream/
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/0/07/ON365_FM.png/revision/latest/scale-to-width-down/1000?cb=20220401143857&path-prefix=vi" group-title="KỂNH RADIO CHUYÊN BIỆT VỀ SỨC KHỎE",📻 ON 365 FM - SỨC KHỎE
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/0/07/ON365_FM.png/revision/latest/scale-to-width-down/1000?cb=20220401143857&path-prefix=vi" group-title="KỂNH RADIO CHUYÊN BIỆT VỀ SỨC KHỎE",📻 ON365-SỨC KHỎE
 https://onsportlive.vtvcab.vn/hls/ONRADIO_CL/04.m3u8?cc
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CxPW0nTQ/viettel.png" group-title="ĐA MÀN HÌNH", ĐA MÀN HÌNH
 #http://139.99.30.49:9981/stream/mux/74de84e419b6fc7939745f30953d8a02?ticket=C5F5792703D69F47512D1D5254A0A08EF9079157       

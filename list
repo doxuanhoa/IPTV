@@ -716,6 +716,11 @@ https://vtsstr7.tv24.vn/live/VTVcab16HD_temp_new.smil/chunklist.m3u8?uid=s2c526m
 #EXTINF:0 tvg-id="vtvcab18hd" group-title="🇻| VTVcab" tvg-logo="https://i.postimg.cc/FKPdXFKJ/vtvcab18.png",VTVcab18 - ON SPORT NEWS
 #http://gg.gg/cccab18|Referer=https://www.nonolive.com/
 
+#EXTINF:0 tvg-id="" group-title="" tvg-logo="",TRỰC TIẾP BÓNG RỔ
+https://vips-livecdn.fptplay.net/schedule/wbc02_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0 tvg-id="" group-title="" tvg-logo="",TRỰC TIẾP BÓNG RỔ
+https://vips-livecdn.fptplay.net/schedule/wbc01_vhls.smil/chunklist_b5000000.m3u8
+
 #EXTINF:-1 tvg-id="vtv6hd" group-title="VTV6 - TRUYỀN HÌNH VIỆT NAM" tvg-logo="https://i.postimg.cc/rwTWYB0z/VTV6.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv6hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",🕓 VTV6 Thử nghiệm
 
 

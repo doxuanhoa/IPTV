@@ -351,7 +351,7 @@ https://livecdn.fptplay.net/sdc/camau_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="vtc13hd" group-title="VTC13" tvg-logo="https://i.postimg.cc/Jz6r6f71/VTC13.png" ,VTC13
 https://vips-livecdn.fptplay.net/hda1/vtc13_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="htvccanhachd" group-title="HTVC CA NHẠC" tvg-logo="https://i.postimg.cc/Y9XJ12qv/HTVC-CA-NHAC.png",HTVC CA NHẠC
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-CANHAC-HD-1080p/chunks.m3u8
+https://vips-livecdn.fptplay.net/hda3/htvcmusic_4000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="mtvhd" group-title="KÊNH ÂM NHẠC" tvg-logo="https://i.postimg.cc/QdJzHcmZ/MTV-HD.png", MTV
 https://livecdn.fptplay.net/sdb/mtv_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="musicbox" group-title="KÊNH ÂM NHẠC" tvg-logo="https://i.postimg.cc/vHK1nTMF/BoxMusic.png",MUSIC BOX

@@ -315,15 +315,14 @@ https://livecdn.fptplay.net/sdc/travinh_1000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="TRUYỀN HÌNH TRÀ VINH" tvg-logo="https://i.postimg.cc/8P5LjsXn/THTV.png", TRÀ VINH 2
 https://618b88f69e53b.streamlock.net:443/THTV2/travinhtv2/chunklist.m3u8
 #EXTINF:-1 group-title="TRUYỀN HÌNH AN GIANG" tvg-logo="https://i.postimg.cc/wBhBvjY0/ATV.png" ,AN GIANG
-#http://221.133.9.35:1935/live/1.stream/playlist.m3u8
-https://livecdn.fptplay.net/sda/angiang_1000.stream/chunklist.m3u8
+https://livecdn.fptplay.net/sda/angiang_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="TRUYỀN HÌNH CẦN THƠ" tvg-logo="https://i.postimg.cc/d3Wd5K3B/THTPCT.png" ,CẦN THƠ
 #https://tv.canthotv.vn/live/tv/tv.m3u8
 https://livecdn.fptplay.net/sda/cantho_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SshWsrHW/HGTV.png" group-title="TRUYỀN HÌNH HẬU GIANG",HẬU GIANG
 https://livecdn.fptplay.net/sda/haugiang_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="soctrang" group-title="TRUYỀN HÌNH SÓC TRĂNG 1" tvg-logo="https://i.postimg.cc/HkF0GH2v/STV1.png" ,SÓC TRĂNG 1
-https://livecdn.fptplay.net/sda/soctrang_2000.stream/chunklist.m3u8
+https://livecdn.fptplay.net/sda/soctrang_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="TRUYỀN HÌNH SÓC TRĂNG 2" tvg-logo="https://i.postimg.cc/BbQQr2kS/SOC-TRANG-2.png" ,SÓC TRĂNG 2
 #EXTINF:-1 group-title="TRUYỀN HÌNH BẠC LIỆU" tvg-logo="https://i.postimg.cc/ydVHmrmb/BAC-LIEU.png", BẠC LIÊU
 https://livecdn.fptplay.net/sdc/baclieu_2000.stream/chunklist.m3u8
@@ -401,7 +400,7 @@ https://vtsstr4.tv24.vn/live/SCTV19_HD_new.smil/chunklist.m3u8?uid=s2c526m574z5s
 #EXTINF:-1 tvg-id="sctv20hd" group-title="SCTV" tvg-logo="https://i.postimg.cc/zvKWfW4V/SCTV20.png", SCTV20
 https://vtsstr4.tv24.vn/live/SCTV20_HD_new.smil/chunklist.m3u8?uid=s2c526m574z5s4l5h4
 #EXTINF:-1 tvg-id="sctv21hd" group-title="SCTV" tvg-logo="https://i.postimg.cc/Gm8nwnsm/SCTV21.png", SCTV21
-https://e1.endpoint.cdn.sctvonline.vn/hls/sctv21/sd2/index.m3u8|Referer=http://sctvonline.vn/
+https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv21
 
 
 #EXTINF:-1 tvg-id="htv1" group-title="HTV/HTVC" tvg-logo="https://i.postimg.cc/gjKx44fH/HTV1.png",HTV1
@@ -508,9 +507,9 @@ https://vips-livecdn.fptplay.net/hda2/dwenglish_vhls.smil/chunklist_b5000000.m3u
 
 
 #EXTINF:-1 tvg-id="drfithd" group-title="QUỐC TẾ" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Dr_Fit_logo.png",DR FIT
-http://catchup.nethubtv.vn/live/dr-fit/chunklist_2.m3u8
+https://code.television4you.xyz/getlink/nethubtv?id=9335&itb=1
 #EXTINF:-1 tvg-id="man" group-title="QUỐC TẾ" tvg-logo="https://i.postimg.cc/4dFQvcJY/MAN.png",MAN
-http://catchup.nethubtv.vn/live/man-tv/chunklist_2.m3u8
+https://code.television4you.xyz/getlink/nethubtv?id=9332&itb=1
 #EXTINF:-1 tvg-id="woman" group-title="QUỐC TẾ" tvg-logo="https://i.postimg.cc/SKFdyKbw/W-M.png",WOMAN
 https://vtsstr7.tv24.vn/live/Woman.smil/chunklist.m3u8?uid=s2c526m574z5s4l5h4
 #EXTINF:-1 tvg-id="planetearthhd" group-title="QUỐC TẾ" tvg-logo="https://i.postimg.cc/65g9scvg/P-E.png",PLANET EARTH

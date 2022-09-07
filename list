@@ -447,8 +447,7 @@ https://tbientv.xyz/channel/vtvgo/?id=163
 
 
 #EXTINF:-1 tvg-id="vtvcab1hd" group-title="VTVcab" tvg-logo="https://i.postimg.cc/9QhP9SmS/vtvcab1.png",VTVcab1 - Vie GIẢI TRÍ
-#https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab1/index.m3u8|Referer=http://sctvonline.vn
-http://gg.gg/cccab1
+https://api.vthanhtivi.pw/v1/getlink/vieon/vie-giai-tri-hd
 #EXTINF:-1 tvg-id="vtvcab2hd" group-title="VTVcab 2 - KÊNH PHIM TRUYỆN VIỆT NAM" tvg-logo="https://i.postimg.cc/mgSM34SN/vtvcab2.png",VTVcab 2 - ON PHIM VIỆT
 #http://s2live.tv1asia.com:21585/vtvcab2/index.m3u8
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab2/index.m3u8|Referer=http://sctvonline.vn/
@@ -484,7 +483,7 @@ https://api.vthanhtivi.pw/v1/getlink/tv360/21/0
 
 
 #EXTINF:-1 tvg-id="bbcworldnews"  tvg-logo="https://i.postimg.cc/6348Q5B0/BBCWORLDNEW.png" group-title="Quốc tế",BBC WORLD NEWS
-https://livecdn.fptplay.net/sdb/bbcnew_2000.stream/chunklist.m3u8
+https://vips-livecdn.fptplay.net/hda3/bbcnews_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="cnbc" tvg-logo="https://i.postimg.cc/pTFMQhC7/CNBC.png" group-title="Quốc tế",CNBC
 https://livecdn.fptplay.net/sdb/cnbc_hls.smil/chunklist_b2500000.m3u8
@@ -492,9 +491,9 @@ https://livecdn.fptplay.net/sdb/cnbc_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="tv5monde" group-title="Quốc tế" tvg-logo="https://i.postimg.cc/BZygDtZx/tv5.png",TV5 MONDE ASIE
 https://livecdn.fptplay.net/sdb/tv5_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="abcaustralia" tvg-logo="https://i.postimg.cc/d1mptn8K/abcaustralia.png" group-title="Quốc tế",ABC AUSTRALIA
-https://livecdn.fptplay.net/sdb/australiaplus_2000.stream/chunklist.m3u8
+https://vips-livecdn.fptplay.net/hda3/australiaplus_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="cnn" tvg-logo="https://i.postimg.cc/L8FFMzWk/cnn.png" group-title="Quốc tế",CNN
-https://livecdn.fptplay.net/sdb/cnn_2000.stream/chunklist.m3u8
+https://vips-livecdn.fptplay.net/hda3/cnn_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4xBBdrFz/bloomberg.png" group-title="Quốc tế",BLOOMBERG
 https://livecdn.fptplay.net/sdb/bloomberg_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="france24eng"  tvg-logo="https://i.postimg.cc/9FcMpSJR/FRANCE-24.png" group-title="Quốc tế",FRANCE 24
@@ -584,12 +583,12 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/.m3u8
 #https://livecdn.fptplay.net/world/arirang_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="davinci" tvg-logo="https://i.postimg.cc/1t0wVd2J/davinci-kids.png"  group-title="Quốc tế",DA VINCI
-#https://livecdn.fptplay.net/world/davincihd_hls.smil/chunklist_b2500000.m3u8
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DAVINCY-HD-1080p/playlist.m3u8
+https://livecdn.fptplay.net/hda2/davincihd_vhls.smil/chunklist_b5000000.m3u8
+
 #EXTINF:-1 tvg-id="outdoorhd" tvg-logo="https://i.postimg.cc/cJ3SNtp0/outdoor.png" group-title="Quốc tế",OUTDOOR CHANNEL
 https://livecdn.fptplay.net/hda1/outdoorfhd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="bbclifestyle" tvg-logo="https://i.postimg.cc/7Y8QwJL7/BBC.png" group-title="Quốc tế" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/bbclifestyle_2000.stream/playlist_dvr_range-${start}-${offset}.m3u8",🕓 BBC LIFESTYLE
-https://livecdn.fptplay.net/sdb/bbclifestyle_2000.stream/chunklist.m3u8
+https://vips-livecdn.fptplay.net/hda3/bbclifestyle_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="tlchd" group-title="Quốc tế" tvg-logo="https://i.postimg.cc/FzGNK1JF/TLC.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/travelliving_1000.stream/playlist_dvr_range-${start}-${offset}.m3u8",🕓 TLC
 https://livecdn.fptplay.net/hda2/travelliving_vhls.smil/chunklist_b5000000.m3u8
 

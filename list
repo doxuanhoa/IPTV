@@ -707,7 +707,7 @@ https://api.vthanhtivi.pw/v1/getlink/vieon2/7e6b8c87-e49f-4c5c-b15a-01ae21856286
 http://live.television4you.xyz:8080/vtvcab3
 
 #EXTINF:-1 tvg-id="" group-title="ON VFF- LĐBĐ VIỆT NAM"  tvg-logo="https://static.wikia.nocookie.net/logos/images/6/63/ON_VFF.png/revision/latest/scale-to-width-down/1000?cb=20220601125848&path-prefix=vi", ON VFF
-https://onsportlive.vtvcab.vn/hls/ONVFFTV_CL/04.m3u8
+https://api.vthanhtivi.pw/v1/getlink/vieon2/93fa8edc-c081-43a5-8aad-dd5d4527ccd6
 #EXTINF:-1 tvg-id="vtvcab16hd" group-title="ON FOOTBALL- KÊNH THỂ THAO"  tvg-logo="https://i.postimg.cc/brYMf63S/OF.webp", ON FOOTBALL
 https://vtsstr7.tv24.vn/live/VTVcab16HD_temp_new.smil/chunklist.m3u8?uid=s2c526m574z5s4l5h4
 #EXTINF:-1 tvg-id="vtvcab16hd" group-title="ON FOOTBALL- KÊNH THỂ THAO"  tvg-logo="https://i.postimg.cc/brYMf63S/OF.webp", ON FOOTBALL HD

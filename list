@@ -208,7 +208,7 @@ https://live.hungyentv.vn/hytvlive/tv1live.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZYVpRM71/TBTV.png" group-title="TRUYỀN HÌNH THÁI BÌNH",THÁI BÌNH
 http://cdn.tbtv.mediatech.vn/tbtvlive/tv1live.m3u8
 #EXTINF:-1 group-title="TRUYỀN HÌNH NAM ĐỊNH" tvg-logo="https://i.postimg.cc/8zq539SQ/ND.webp",NAM ĐỊNH
-https://livecdn.fptplay.net/sdc/namdinh_2000.stream/chunklist.m3u8
+https://livecdn.fptplay.net/sdc/namdinh_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="TRUYỀN HÌNH NINH BÌNH" tvg-logo="https://i.postimg.cc/287rpbNp/ninh-binh-tv.png",NINH BÌNH
 https://nbtv.vncdn.vn/nbtvlive/tv1live.m3u8
 
@@ -241,14 +241,14 @@ http://113.161.6.157:8081/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
 #EXTINF:-1 group-title="TRUYỀN HÌNH QUẢNG NGÃI" tvg-logo="https://i.postimg.cc/rpqt0Gzy/QUANG-NGAI-TV.png" ,QUẢNG NGÃI
 https://livecdn.fptplay.net/sda/quangngai_2000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="TRUYỀN HÌNH BÌNH ĐỊNH" tvg-logo="https://i.postimg.cc/7L0YQSXL/BDTV.png" ,BÌNH ĐỊNH
-http://truyenhinhbinhdinhonline.dynns.com:8086/live.m3u8
+https://livecdn.fptplay.net/sda/binhdinh_hls.smil/chunklist_b2500000.m3u8
 #https://livecdn.fptplay.net/sda/binhdinh_2000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="TRUYỀN HÌNH PHÚ YÊN" tvg-logo="https://i.postimg.cc/hPmVDvcT/ptp.png" ,PHÚ YÊN
 https://livecdn.fptplay.net/sda/phuyen_2000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="TRUYỀN HÌNH KHÁNH HÒA" tvg-logo="https://i.postimg.cc/Twp7csXK/KTV.png", KHÁNH HÒA
 https://livecdn.fptplay.net/sda/khanhhoa_2000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="TRUYỀN HÌNH NINH THUẬN" tvg-logo="https://i.postimg.cc/qM8KbqLg/ninh-thuan.png",NINH THUẬN
-https://ninhthuantv.vn/api/httpsline/aHR0cDovLzIwMi40My4xMDkuMTQyOjE5MzUvTlRWL250dnR2&chunklist_w406113007.m3u8
+https://60acee235f4d5.streamlock.net/live/mystream/chunklist.m3u8
 #https://livecdn.fptplay.net/sda/ninhthuan_2000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="TRUYỀN HÌNH BÌNH THUẬN" tvg-logo="https://i.postimg.cc/tgX0kpB1/Binh-Thuan.png" ,BÌNH THUẬN
 #https://livecdn.fptplay.net/sdc/binhthuan_hls.smil/chunklist_b2500000.m3u8
@@ -790,7 +790,7 @@ http://media.kythuatvov.vn:7005/;stream/
 http://stream2.mobiradio.vn/vovradio/vovgthn.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zf7BCws9/logo-vov.png" group-title="Radio",📻 VOV SỨC KHỎE
 http://media.kythuatvov.vn:7021/;stream/
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/0/07/ON365_FM.png/revision/latest/scale-to-width-down/1000?cb=20220401143857&path-prefix=vi" group-title="KỂNH RADIO CHUYÊN BIỆT VỀ SỨC KHỎE",📻 ON365-SỨC KHỎE
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/0/07/ON365_FM.png/revision/latest/scale-to-width-down/1000?cb=20220401143857&path-prefix=vi" group-title="",📻 ON 365 FM
 https://onsportlive.vtvcab.vn/hls/ONRADIO_CL/04.m3u8?cc
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CxPW0nTQ/viettel.png" group-title="ĐA MÀN HÌNH", ĐA MÀN HÌNH
 #http://139.99.30.49:9981/stream/mux/74de84e419b6fc7939745f30953d8a02?ticket=C5F5792703D69F47512D1D5254A0A08EF9079157       

@@ -44,8 +44,7 @@ https://vips-livecdn.fptplay.net/hda1/vtc1_vhls.smil/chunklist_b5000000.m3u8
 https://vips-livecdn.fptplay.net/hda1/vtc14_vhls.smil/chunklist_b5000000.m3u8
 
 
-#EXTINF:-1 tvg-id="" group-title="GIỚI THIỆU" tvg-logo="https://i.postimg.cc/RFPfChPK/fptplay.webp",GIỚI THIỆU
-https://livecdn.fptplay.net/hda1/f-channel1_vhls.smil/chunklist_b2500000.m3u8
+
 
 #EXTINF:-1 tvg-id="sctv14hd" group-title="SCTV 14 - KÊNH PHIM TRUYỆN VIỆT NAM" tvg-logo="https://i.postimg.cc/3R8GtzTZ/SCTV-14.png",SCTV14 - PHIM VIỆT
 https://vtsstr7.tv24.vn/live/SCTV_HD_PhimViet_sctv.smil/chunklist.m3u8?uid=s2c526m574z5s4l5h4
@@ -798,3 +797,7 @@ http://media.kythuatvov.vn:7021/;stream/
 https://onsportlive.vtvcab.vn/hls/ONRADIO_CL/04.m3u8?cc
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CxPW0nTQ/viettel.png" group-title="ĐA MÀN HÌNH", ĐA MÀN HÌNH
 #http://139.99.30.49:9981/stream/mux/74de84e419b6fc7939745f30953d8a02?ticket=C5F5792703D69F47512D1D5254A0A08EF9079157       
+
+
+#EXTINF:-1 tvg-id="" group-title="GIỚI THIỆU" tvg-logo="https://i.postimg.cc/RFPfChPK/fptplay.webp",GIỚI THIỆU
+https://livecdn.fptplay.net/hda1/f-channel1_vhls.smil/chunklist_b2500000.m3u8

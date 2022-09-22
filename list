@@ -622,11 +622,11 @@ https://livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="HOLLYWOOD CLASSIC - KÊNH PHIM TRUYỆN" tvg-id="hollywoodclassics" tvg-logo="https://i.postimg.cc/rwyd7Z5w/Hollywood.png", HOLLYWOOD CLASSIC
 https://vtsstr7.tv24.vn/live/Hollywood.smil/chunklist.m3u8?uid=s2c526m574z5s4l5h4
 #EXTINF:-1 tvg-id="inthebox" group-title="IN THE BOX - KÊNH PHIM TRUYỆN" tvg-logo="https://i.postimg.cc/9fMwHN6G/ITB.png", IN THE BOX
-http://catchup.nethubtv.vn/live/box-channel/chunklist_2.m3u8
+#http://catchup.nethubtv.vn/live/box-channel/chunklist_2.m3u8
 #EXTINF:-1 tvg-id="boxmovie1" group-title="BOX MOVIE - KÊNH PHIM TRUYỆN" tvg-logo="https://i.postimg.cc/TYJL7vLs/BOX-Movie.png", BOX MOVIE
 https://vtsstr7.tv24.vn/live/BOX_MOVIE_HD.smil/chunklist.m3u8?uid=s2c526m574z5s4l5h4
 #EXTINF:-1 tvg-id="boxhits" group-title="BOX HITS - KÊNH PHIM TRUYỆN" tvg-logo="https://i.postimg.cc/qRz5Ps6Y/BoxHits.png", BOX HITS
-http://catchup.nethubtv.vn/live/box-hits/chunklist_2.m3u8
+#http://catchup.nethubtv.vn/live/box-hits/chunklist_2.m3u8
 
 
 
@@ -701,7 +701,7 @@ https://vips-livecdn.fptplay.net/hda3/htvcthethao_vhls.smil/chunklist.m3u8
 #https://livecdn.fptplay.net/sdb/htvcthethao_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="VTVcab" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/5e/ON_Golf_TV_logo_2022.png/revision/latest/scale-to-width-down/1000?cb=20220311023800&path-prefix=vi",ON GOLF
-http://gg.gg/cccab23
+https://api.vthanhtivi.pw/v1/getlink/vieon2/93fa8edc-c081-43a5-8aad-dd5d4527ccd6
 
 #EXTINF:-1 tvg-id="vtvcab6hd" group-title="VTVcab" tvg-logo="https://i.postimg.cc/LXp4fWvv/vtvcab6.png",VTVcab6 - ON SPORT+
 https://api.vthanhtivi.pw/v1/getlink/vieon2/7e6b8c87-e49f-4c5c-b15a-01ae21856286
@@ -710,7 +710,7 @@ https://api.vthanhtivi.pw/v1/getlink/vieon2/7e6b8c87-e49f-4c5c-b15a-01ae21856286
 http://live.television4you.xyz:8080/vtvcab3
 
 #EXTINF:-1 tvg-id="" group-title="ON VFF- LĐBĐ VIỆT NAM"  tvg-logo="https://static.wikia.nocookie.net/logos/images/6/63/ON_VFF.png/revision/latest/scale-to-width-down/1000?cb=20220601125848&path-prefix=vi", ON VFF
-https://api.vthanhtivi.pw/v1/getlink/vieon2/93fa8edc-c081-43a5-8aad-dd5d4527ccd6
+
 #EXTINF:-1 tvg-id="vtvcab16hd" group-title="ON FOOTBALL- KÊNH THỂ THAO"  tvg-logo="https://i.postimg.cc/brYMf63S/OF.webp", ON FOOTBALL
 https://vtsstr7.tv24.vn/live/VTVcab16HD_temp_new.smil/chunklist.m3u8?uid=s2c526m574z5s4l5h4
 #EXTINF:-1 tvg-id="vtvcab16hd" group-title="ON FOOTBALL- KÊNH THỂ THAO"  tvg-logo="https://i.postimg.cc/brYMf63S/OF.webp", ON FOOTBALL HD
@@ -720,9 +720,7 @@ https://api.vthanhtivi.pw/v1/getlink/vieon2/a30dfe11-536f-4a6e-abca-3df04ca7363a
 https://api.vthanhtivi.pw/v1/getlink/vieon2/987374ca-de49-4612-a159-b71f7880d134
 
 #EXTINF:0 tvg-id="" group-title="" tvg-logo="",TRỰC TIẾP FPT
-https://vips-livecdn.fptplay.net/schedule/wbc02_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 tvg-id="" group-title="" tvg-logo="",TRỰC TIẾP FPT
-https://vips-livecdn.fptplay.net/schedule/wbc01_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="vtv6hd" group-title="VTV6 - TRUYỀN HÌNH VIỆT NAM" tvg-logo="https://i.postimg.cc/rwTWYB0z/VTV6.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv6hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",🕓 VTV6 Thử nghiệm
 

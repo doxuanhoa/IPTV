@@ -312,7 +312,7 @@ https://la34.vncdn.vn/live/LA34AAA/chunklist_w1633928470.m3u8
 #EXTINF:-1 tvg-id="dongthap"  group-title="TRUYỀN HÌNH ĐỒNG THÁP 1" tvg-logo="https://i.postimg.cc/5tvBbGK4/THDT.png" ,ĐỒNG THÁP 1
 https://livecdn.fptplay.net/sdc/dongthap_2000.stream/playlist.m3u8
 #EXTINF:-1 group-title="MIỀN TÂY - TRUYỀN HÌNH ĐỒNG THÁP 2" tvg-logo="https://i.postimg.cc/hPRvCMHX/MienTay.png",MIỀN TÂY - ĐỒNG THÁP 2
-http://202.43.109.145:1935/thdt2/thdt2/chunklist_w1998888776.m3u8
+https://livecdn.fptplay.net/sdc/dongthaphd_2000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="TRUYỀN HÌNH TIỀN GIANG" tvg-logo="https://i.postimg.cc/L54Lks95/THTG.png" , TIỀN GIANG
 http://thtg.vn:8001/stream_hi.m3u8
 #EXTINF:-1 group-title="TRUYỀN HÌNH BẾN TRE" tvg-logo="https://i.postimg.cc/Dy7753QL/bentre.png" ,BẾN TRE

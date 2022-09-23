@@ -774,6 +774,7 @@ https://api.vthanhtivi.pw/v1/getlink/vieon2/987374ca-de49-4612-a159-b71f7880d134
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/V669QzBb/Pladio-FPT.png" group-title="Pladio FPT Play",PLADIO
 https://vips-livecdn.fptplay.net/hda3/pladio_4000.stream/chunklist.m3u8
 
+
 #EXTINF:-1 tvg-logo="" group-title="Radio",📻 NHẠC TRẺ
 https://vnno-zn-2-tf-multi-playlist-zmp3.zadn.vn/8t3wW77ohJw/zhls/playback-realtime/very-low/6eeb692c5569bc37e578/very-low.m3u8?cc
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ydwwk87S/radio.png" group-title="Radio",📻 HÀ NAM
@@ -798,4 +799,5 @@ https://onsportlive.vtvcab.vn/hls/ONRADIO_CL/04.m3u8?cc
 
 
 #EXTINF:-1 tvg-id="" group-title="GIỚI THIỆU" tvg-logo="https://i.postimg.cc/RFPfChPK/fptplay.webp",GIỚI THIỆU
-https://livecdn.fptplay.net/hda1/f-channel1_vhls.smil/chunklist_b2500000.m3u8
+#https://livecdn.fptplay.net/hda1/f-channel1_vhls.smil/chunklist_b2500000.m3u8
+https://livecdn.fptplay.net/hda1/f-channel1_4000.stream/chunklist.m3u8

@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="vtv1hd" group-title="ĐÓN XEM WORLD CUP 2022 TRÊN VTV2, VTV3, VTV5, VTV CẦN THƠ " tvg-logo="https://i.postimg.cc/mk3tGrJq/VTV1.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8" ,🕓 VTV1
 https://vips-livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-id="vtv2hd" group-title="VTV2 - KÊNH KHOA HỌC GIÁO DỤC" tvg-logo="https://i.postimg.cc/8kYyFzFW/VTV2.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv2_2000.stream/chunks_dvr_range-${start}-${offset}.m3u8" ,🕓 VTV2
+#EXTINF:-1 tvg-id="vtv2hd" group-title="(BẢNG B) 20H00: ANH - IRAN    23H00: HÀ LAN - SENEGAL" tvg-logo="https://i.postimg.cc/8kYyFzFW/VTV2.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv2_2000.stream/chunks_dvr_range-${start}-${offset}.m3u8" ,🕓 VTV2
 https://vips-livecdn.fptplay.net/hda1/vtv2_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtv3hd" group-title="VTV3" tvg-logo="https://i.postimg.cc/3JDt2Qpq/VTV3.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv3hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",🕓 VTV3
 https://vips-livecdn.fptplay.net/hda1/vtv3hd_vhls.smil/chunklist_b5000000.m3u8

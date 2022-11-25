@@ -1,8 +1,4 @@
-#EXTM3U
-#-------------------VTV-------------------#
-
-http://139.99.30.49:80/udp://@225.1.2.249:30120
-
+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/beartv_epg.xml"
 #EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/6047gMa.jpg",VTV1 HD (HD 8Mbps)
 udp://@225.1.2.249:30120
 #EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/pqPWPzf.jpg",VTV2 HD (HD 8Mbps)

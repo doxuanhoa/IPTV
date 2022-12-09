@@ -318,6 +318,9 @@ https://livecdn.fptplay.net/sdc/bentre_2000.stream/chunklist.m3u8
 #http://113.163.94.245/hls-live/livepkgr/_definst_/liveevent/thbt.m3u8
 #EXTINF:-1 group-title="TRUYỀN HÌNH TRÀ VINH" tvg-logo="https://i.postimg.cc/8P5LjsXn/THTV.png", TRÀ VINH
 https://livecdn.fptplay.net/sdc/travinh_1000.stream/chunklist.m3u8
+
+#EXTINF:-1 group-title="TRUYỀN HÌNH TRÀ VINH" tvg-logo="https://i.postimg.cc/8P5LjsXn/THTV.png", TRÀ VINH 2
+https://618b88f69e53b.streamlock.net:443/THTV2/travinhtv2/chunklist.m3u8
 #EXTINF:-1 group-title="TRUYỀN HÌNH AN GIANG" tvg-logo="https://i.postimg.cc/wBhBvjY0/ATV.png" ,AN GIANG
 #http://221.133.9.35:1935/live/1.stream/playlist.m3u8
 https://livecdn.fptplay.net/sda/angiang_1000.stream/chunklist.m3u8
@@ -706,8 +709,8 @@ https://vtsstr7.tv24.vn/live/VTVcab16HD_temp_new.smil/chunklist.m3u8?uid=s2c526m
 #EXTINF:0 tvg-id="vtvcab18hd" group-title="🇻| VTVcab" tvg-logo="https://i.postimg.cc/FKPdXFKJ/vtvcab18.png",VTVcab18 - ON SPORT NEWS
 #http://gg.gg/cccab18|Referer=https://www.nonolive.com/
 
-#EXTINF:-1 tvg-id="vtv6hd" group-title="VTV6 - TRUYỀN HÌNH VIỆT NAM" tvg-logo="https://i.postimg.cc/rwTWYB0z/VTV6.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv6hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",🕓 VTV6 Thử nghiệm
-https://cache05.fbox.fpt.vn/bpk-token/2aa@p4i11n44dnpxj5rlrx5alrwx1mth04otpg3x2jda/3912800_avc1_640028_1920x1080_25_1.m3u8
+#EXTINF:-1 tvg-id="vtv6hd" group-title="VTV6 - TRUYỀN HÌNH VIỆT NAM" tvg-logo="" ,Thử nghiệm
+https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/chunklist_b1290000_slpt.m3u8
 
 #EXTINF:-1 tvg-id="vtv6hd" group-title="VTV6 - TRUYỀN HÌNH VIỆT NAM" tvg-logo="https://i.postimg.cc/rwTWYB0z/VTV6.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv6hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",🕓 VTV6 FPT
 http://139.99.30.49/VTV6fpt/mpegts
@@ -716,15 +719,16 @@ http://139.99.30.49/VTV6fpt/mpegts
 
 
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV1 " tvg-logo="https://i.postimg.cc/mk3tGrJq/VTV1.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8" ,🕓 VTV1 HD
-#http://139.99.30.49:9981/stream/mux/cb0cf7144a5139738c930b1f991a1efe?ticket=0B728F5ACF0E114E403A1E997E7ACCED0F788D51
+http://live.television4you.xyz:8080/vtv1
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV1 " tvg-logo="https://i.postimg.cc/mk3tGrJq/VTV1.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8" ,🕓 VTV1 VIETTEL
 #http://139.99.30.49:9981/stream/mux/9cd2257422d37e3a806cf2ff3a43f025?ticket=83CC69A7D1CB0A162EB2D647B582658C4A6EB453
 #EXTINF:-1 tvg-id="vtv3hd" group-title="VTV3" tvg-logo="https://i.postimg.cc/3JDt2Qpq/VTV3.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv3hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",🕓 VTV3 HD
-#http://139.99.30.49:9981/stream/mux/0d026aed860c8ad891636eca495d795a?ticket=98EA6FB8D4D8CA31EAC84963353105D658CD7B9B
+http://live.television4you.xyz:8080/vtv3
 #EXTINF:-1 tvg-id="vtv3hd" group-title="VTV3" tvg-logo="https://i.postimg.cc/3JDt2Qpq/VTV3.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv3hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",🕓 VTV3 VIETTEL
 #http://139.99.30.49:9981/stream/mux/1e13ac5852c90f4299ce90f0e9d8daa2?ticket=EA437553060C964E5C26733569CF2502E6B49D3C
 #EXTINF:-1 tvg-id="vtv6hd" group-title="VTV6 - TRUYỀN HÌNH VIỆT NAM" tvg-logo="https://i.postimg.cc/rwTWYB0z/VTV6.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv6hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",🕓 VTV6 HD
 #http://bongdavtv3.duckdns.org:56765/stream/channelid/596970684?ticket=9184E0FE1069C4DD272BE7776900F48701C58F88&profile=pass
+http://live.television4you.xyz:8080/vtv6
 #EXTINF:-1 tvg-id="vtv6hd" group-title="VTV6 - TRUYỀN HÌNH VIỆT NAM" tvg-logo="https://i.postimg.cc/rwTWYB0z/VTV6.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv6hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",🕓 VTV6 VIETTEL
 #http://139.99.30.49/VTV6/mpegts
 

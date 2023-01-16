@@ -757,8 +757,8 @@ http://live.television4you.xyz:8080/vtv3
 #EXTINF:-1 tvg-id="ksport2hd" group-title="K+ SPORT 2" tvg-logo="https://img.kplus.vn/media/channels/sg/channelicons/KSPORT2.png", K+ SPORT 2
 #https://livecdn.fptplay.net/hdevent/27082021k1pc_4000.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="vtv6hd" group-title="VTV6 - TRUYỀN HÌNH VIỆT NAM" tvg-logo="" ,Thử nghiệm
-
+#EXTINF:-1 tvg-id="vtv6hd" group-title="VTV CẦN THƠ - TRUYỀN HÌNH VIỆT NAM" tvg-logo="" ,VTV CẦN THƠ
+udp://@225.1.2.245:30120
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/V669QzBb/Pladio-FPT.png" group-title="Pladio FPT Play",PLADIO

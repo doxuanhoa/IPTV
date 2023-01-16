@@ -55,13 +55,10 @@ https://vtsstr4.tv24.vn/live/SCTV_HD_PhimChauA_new.smil/chunklist.m3u8?uid=s2c52
 
 
 #EXTINF:-1 tvg-id="hanoi1" group-title="KÊNH 1 TRUYỀN HÌNH HÀ NỘI" tvg-logo="https://i.postimg.cc/fRZC02sn/H1.png",HÀ NỘI 1
-#https://livecdn.fptplay.net/sdc/hanoitv1_2000.stream/chunklist.m3u8
-https://live.hanoitv.vn/hntvlive/tv1live480.m3u8?vhost=__defaultVhost__
-#http://dung1202.duckdns.org:12381/udp/232.84.3.143:10738
-#http://cdn.hntv.mediatech.vn/hntvlive/tv1live.m3u8?vhost=__defaultVhost__
+https://livecdn.fptplay.net/sdc/hanoitv1_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="hanoi2" group-title="KÊNH 2 TRUYỀN HÌNH HÀ NỘI" tvg-logo="https://i.postimg.cc/B6bLprVw/HA-NOI-2.png",HÀ NỘI 2
-https://livecdn.fptplay.net/sdc/hanoitv2_2000.stream/playlist.m3u8
-#http://cdn.hntv.mediatech.vn/hntvlive/tv2live.m3u8
+https://1028513096.vnns.net/tv2-abr/hntvlive/tv2_1080p/chunks.m3u8
+
 
 
 

@@ -711,9 +711,8 @@ https://api.vthanhtivi.pw/v1/getlink/vieon2/a30dfe11-536f-4a6e-abca-3df04ca7363a
 #EXTINF:0 tvg-id="vtvcab18hd" group-title="🇻| VTVcab" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/1f/ON_Sports_News_logo_2022.png/revision/latest/scale-to-width-down/1000?cb=20220403050655&path-prefix=vi",VTVcab18 - ON SPORT NEWS
 https://api.vthanhtivi.pw/v1/getlink/vieon2/987374ca-de49-4612-a159-b71f7880d134
 
-#EXTINF:-1 tvg-id="vtv6hd" group-title="VTV6 - TRUYỀN HÌNH VIỆT NAM" tvg-logo="https://i.postimg.cc/rwTWYB0z/VTV6.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv6hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",🕓 VTV6 Thử nghiệm
-https://cache05.fbox.fpt.vn/bpk-token/2aa@p4i11n44dnpxj5rlrx5alrwx1mth04otpg3x2jda/3912800_avc1_640028_1920x1080_25_1.m3u8
-
+#EXTINF:-1 tvg-id="vtv5hd" group-title="VTV5" tvg-logo="https://i.postimg.cc/MKVV56Gh/VTV5.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv5hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",🕓 VTV5 FULL HD 60FPS
+udp://@225.1.1.131:30120
 
 #EXTINF:-1 tvg-id="vtv6hd" group-title="VTV6 - TRUYỀN HÌNH VIỆT NAM" tvg-logo="https://i.postimg.cc/rwTWYB0z/VTV6.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv6hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",🕓 VTV6 FPT
 #http://139.99.30.49/VTV6mytv/mpegts
@@ -727,7 +726,7 @@ https://cache05.fbox.fpt.vn/bpk-token/2aa@p4i11n44dnpxj5rlrx5alrwx1mth04otpg3x2j
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV1 " tvg-logo="https://i.postimg.cc/mk3tGrJq/VTV1.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8" ,🕓 VTV1 VIETTEL
 #http://139.99.30.49:9981/stream/mux/9cd2257422d37e3a806cf2ff3a43f025?ticket=83CC69A7D1CB0A162EB2D647B582658C4A6EB453
 #EXTINF:-1 tvg-id="vtv3hd" group-title="VTV3" tvg-logo="https://i.postimg.cc/3JDt2Qpq/VTV3.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv3hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",🕓 VTV3 HD
-http://live.television4you.xyz:8080/vtv3
+
 #EXTINF:-1 tvg-id="vtv3hd" group-title="VTV3" tvg-logo="https://i.postimg.cc/3JDt2Qpq/VTV3.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv3hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",🕓 VTV3 VIETTEL
 #http://live.television4you.xyz:8080/vtv3
 #EXTINF:-1 tvg-id="vtv6hd" group-title="VTV6 - TRUYỀN HÌNH VIỆT NAM" tvg-logo="https://i.postimg.cc/rwTWYB0z/VTV6.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv6hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",🕓 VTV6 HD
@@ -757,7 +756,7 @@ http://live.television4you.xyz:8080/vtv3
 #EXTINF:-1 tvg-id="ksport2hd" group-title="K+ SPORT 2" tvg-logo="https://img.kplus.vn/media/channels/sg/channelicons/KSPORT2.png", K+ SPORT 2
 #https://livecdn.fptplay.net/hdevent/27082021k1pc_4000.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="vtv6hd" group-title="VTV CẦN THƠ - TRUYỀN HÌNH VIỆT NAM" tvg-logo="" ,VTV CẦN THƠ
+#EXTINF:-1 tvg-id="vtv6hd" group-title="VTV CẦN THƠ" tvg-logo="https://i.postimg.cc/vT1r3xnV/vtvct.webp" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv6hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",🕓 VTV CẦN THƠ FULL HD 60FPS
 udp://@225.1.2.245:30120
 
 

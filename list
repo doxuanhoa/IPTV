@@ -13,8 +13,7 @@ http://live-zlr1.tv360.vn/manifest/VTV3/playlist_720p.m3u8
 
 #EXTINF:-1 tvg-id="vtv4hd" group-title="VTV4" tvg-logo="https://i.postimg.cc/y6w00g7m/VTV4.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv4_2000.stream/chunks_dvr_range-${start}-${offset}.m3u8",🕓 VTV4
 #https://vips-livecdn.fptplay.net/hda1/vtv4_vhls.smil/chunklist_b5000000.m3u8
-http://live-ali4.tv360.vn/manifest/VTV5_HD_50fps/playlist_VTV4-HD-50fps-1080P-65M.m3u8
-
+http://drfamaga5qliv.vcdn.cloud/vtv04/vtv04@1080p.m3u8?cc
 #EXTINF:-1 tvg-id="vtv5hd" group-title="VTV5" tvg-logo="https://i.postimg.cc/MKVV56Gh/VTV5.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv5hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",🕓 VTV5
 #https://vips-livecdn.fptplay.net/hda2/vtv5hd_vhls.smil/chunklist_b5000000.m3u8
 http://live-ali4.tv360.vn/manifest/VTV5_HD_50fps/playlist_VTV5-HD-50fps-1080P-65M.m3u8
@@ -751,6 +750,7 @@ udp://@225.1.1.131:30120
 
 #EXTINF:-1 tvg-id="ksport1hd" group-title="K+ SPORT 1" tvg-logo="https://img.kplus.vn/media/channels/sg/channelicons/KSPORT1.png", K+ SPORT 1
 https://bkm.fbox.fpt.vn/bpk-tv/KplusSport1/output/index.mpd
+
 #EXTINF:-1 tvg-id="ksport1hd" group-title="K+ SPORT 1" tvg-logo="https://img.kplus.vn/media/channels/sg/channelicons/KSPORT1.png", K+ SPORT 1
 #https://livecdn.fptplay.net/hdevent/27082021k1pm_4000.stream/playlist.m3u8
 

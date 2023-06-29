@@ -790,12 +790,14 @@ https://onsportlive.vtvcab.vn/hls/ONRADIO_CL/04.m3u8?cc
 #http://139.99.30.49:9981/stream/mux/74de84e419b6fc7939745f30953d8a02?ticket=C5F5792703D69F47512D1D5254A0A08EF9079157       
 
 
-#EXTINF:-1 tvg-id="" group-title="GIỚI THIỆU" tvg-logo="https://i.postimg.cc/RFPfChPK/fptplay.webp",GIỚI THIỆU 1
+#EXTINF:-1 tvg-id="" group-title="GIỚI THIỆU" tvg-logo="https://i.postimg.cc/RFPfChPK/fptplay.webp",GIỚI THIỆU
 #https://livecdn.fptplay.net/hda1/f-channel1_vhls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/hda1/f-channel1_4000.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="CAM1" group-title="CAMERA 01" tvg-logo="https://tuongvui.vn/wp-content/uploads/2021/08/camera-ezviz-c6cn.01.png",CAMERA
-rtsp://admin:PULQNV@192.168.11.208:554/H.264
+#rtsp://admin:PULQNV@192.168.11.208:554/H.264
 #EXTINF:-1 tvg-id="" group-title="GIỚI THIỆU" tvg-logo="https://i.postimg.cc/RFPfChPK/fptplay.webp",GIỚI THIỆU *
 #https://livecdn.fptplay.net/hda1/f-channel1_vhls.smil/chunklist_b2500000.m3u8
-https://livecdn.fptplay.net/hda1/f-channel1_4000.stream/chunklist.m3u8
+#https://livecdn.fptplay.net/hda1/f-channel1_4000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="" group-title=" GIỚI THIỆU" tvg-logo="",TV 360
+http://live-ali4.tv360.vn/manifest/sukien/playlist_1080p-5M.m3u8

@@ -222,8 +222,7 @@ https://live.thaibinhtv.vn/tbtvlive/tv1live/tv1live.m3u8
 #EXTINF:-1 group-title="TRUYỀN HÌNH NAM ĐỊNH" tvg-logo="https://i.postimg.cc/8zq539SQ/ND.webp",NAM ĐỊNH
 https://livecdn.fptplay.net/sdc/namdinh_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="TRUYỀN HÌNH NINH BÌNH" tvg-logo="https://i.postimg.cc/287rpbNp/ninh-binh-tv.png",NINH BÌNH
-https://nbtv.vncdn.vn/nbtvlive/tv1live.m3u8
-
+https://live.nbtv.vn/nbtvlive/tv1live.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XJJtH2qR/thanhhoa.png" group-title="TRUYỀN HÌNH THANH HÓA",THANH HÓA
 http://gg.gg/Thanh-Hoa-Tv-khichtv-mpegts
@@ -233,21 +232,18 @@ http://gg.gg/Thanh-Hoa-Tv-khichtv-mpegts
 #https://livecdn.fptplay.net/sda/nghean_2000.stream/chunklist.m3u8
 https://live.truyenhinhnghean.vn/hls/na1/index.m3u8
 #EXTINF:-1 group-title="TRUYỀN HÌNH HÀ TĨNH" tvg-logo="https://i.postimg.cc/G3N72gk7/HA-TINH.png" ,HÀ TĨNH
-https://livecdn.fptplay.net/sdc/hatinh_2000.stream/chunklist.m3u8
-#https://web-livecdn.fptplay.net/sdc/hatinh_hls.smil/chunklist_b2500000.m3u8
-#http://hatinhtv.vn:82/hls/httv.m3u8
+https://wse.hatinhtv.net/live/httv1/playlist.m3u8
 #EXTINF:-1 group-title="TRUYỀN HÌNH QUẢNG BÌNH" tvg-logo="https://i.postimg.cc/gJVf7qW9/QBTV.png",QUẢNG BÌNH
 https://livecdn.fptplay.net/sda/quangbinh_2000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="TRUYỀN HÌNH QUẢNG TRỊ" tvg-logo="https://i.postimg.cc/RFkqtQ79/qrtv.gif" ,QUẢNG TRỊ
-#http://mediatech.vncdn.vn/qrtvlive/tv1live.m3u8
-https://livecdn.fptplay.net/sdc/quangtri_2000.stream/chunklist.m3u8
+http://mediatech.vncdn.vn/qrtvlive/tv1live.m3u8
 #https://livecdn.fptplay.net/sdc/quangtri_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="hue" group-title="TRUYỀN HÌNH THỪA THIÊN HUẾ" tvg-logo="https://i.postimg.cc/Y0jKNzSC/hue.png",THỪA THIÊN HUẾ
-https://livecdn.fptplay.net/sdc/hue_2000.stream/chunklist.m3u8
+https://live.trt.com.vn/TRT-Online/playlist.m3u8
 #EXTINF:-1 tvg-id="TH DA NANG 1" group-title="TRUYỀN HÌNH ĐÀ NẴNG 1" tvg-logo="https://i.postimg.cc/9MrTJB8j/da-nang-1.png",ĐÀ NẴNG 1
-https://livecdn.fptplay.net/sdc/danang1_hls.smil/chunklist_b2500000.m3u8
+http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8
 #EXTINF:-1 tvg-id="danang2" group-title="TRUYỀN HÌNH ĐÀ NẴNG 2" tvg-logo="https://i.postimg.cc/HLWb7mbn/da-nang-2.png" ,ĐÀ NẴNG 2
-https://livecdn.fptplay.net/sdc/danang2_2000.stream/chunklist.m3u8
+http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
 #EXTINF:-1 group-title="TRUYỀN HÌNH QUẢNG NAM" tvg-logo="https://i.postimg.cc/qMZ7XfNr/QUANG-NAM.png" ,QUẢNG NAM
 http://113.161.6.157:8081/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
 #EXTINF:-1 group-title="TRUYỀN HÌNH QUẢNG NGÃI" tvg-logo="https://i.postimg.cc/rpqt0Gzy/QUANG-NGAI-TV.png" ,QUẢNG NGÃI

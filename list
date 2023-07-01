@@ -30,7 +30,7 @@ https://vips-livecdn.fptplay.net/hda2/ttxvn_vhls.smil/chunklist_b5000000.m3u8
 
 
 #EXTINF:-1 tvg-id="antvhd" group-title="ANTV - TRUYỀN HÌNH CÔNG AN NHÂN DÂN" tvg-logo="https://i.postimg.cc/YSgRhYmN/ANTV.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/anninhtv_1000.stream/playlist_dvr_range-${start}-${offset}.m3u8",🕓 AN NINH TV
-https://fjp7rl09suliv.vcdn.cloud/channel/antv/channel/antv_1080p/chunks.m3u8
+https://live-on-v2-cdnetwork.sigmaott.com/manifest/antv/playlist_480p.m3u8
 #https://vips-livecdn.fptplay.net/hda2/anninhtv_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="qpvnhd"  tvg-logo="https://i.postimg.cc/43mM8s5d/QPVN-N.png" group-title="QPVN - QUỐC PHÒNG VIỆT NAM " catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/quocphongvnhd_1000.stream/playlist_dvr_range-${start}-${offset}.m3u8",🕓 QUỐC PHÒNG VIỆT NAM
 #https://vips-livecdn.fptplay.net/hda1/quocphongvnhd_vhls.smil/chunklist_b5000000.m3u8

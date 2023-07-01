@@ -277,39 +277,38 @@ https://la34.vncdn.vn/live/LA34AAA/chunklist_w1633928470.m3u8
 #http://113.161.229.13/hls-live/livepkgr/_definst_/liveevent/tv.m3u8
 #https://livecdn.fptplay.net/sdc/longan_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="dongthap"  group-title="TRUYỀN HÌNH ĐỒNG THÁP 1" tvg-logo="https://i.postimg.cc/5tvBbGK4/THDT.png" ,ĐỒNG THÁP 1
-https://livecdn.fptplay.net/sdc/dongthap_2000.stream/playlist.m3u8
+https://618b88f69e53b.streamlock.net/THDT/thdttv/playlist.m3u8
 #EXTINF:-1 group-title="MIỀN TÂY - TRUYỀN HÌNH ĐỒNG THÁP 2" tvg-logo="https://i.postimg.cc/hPRvCMHX/MienTay.png",MIỀN TÂY - ĐỒNG THÁP 2
-https://livecdn.fptplay.net/sdc/dongthaphd_2000.stream/chunklist.m3u8
+http://202.43.109.145:1935/thdt2/thdt2/playlist.m3u8
 #EXTINF:-1 group-title="TRUYỀN HÌNH TIỀN GIANG" tvg-logo="https://i.postimg.cc/L54Lks95/THTG.png" , TIỀN GIANG
 http://thtg.vn:8001/stream_hi.m3u8
 #EXTINF:-1 group-title="TRUYỀN HÌNH BẾN TRE" tvg-logo="https://i.postimg.cc/Dy7753QL/bentre.png" ,BẾN TRE
-https://livecdn.fptplay.net/sdc/bentre_2000.stream/chunklist.m3u8
-#http://113.163.94.245/hls-live/livepkgr/_definst_/liveevent/thbt.m3u8
+
+https://1632816226.vnns.net/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmkiOiIvYmVudHJlLmFkbS40ODBwLnRtcyIsImV4cCI6MTY4ODIwNjk3N30._WFDiMatf0qEX4dmT7v8eWO6A_g62PzsDnzSYD1FV5c-/bentre.adm.480p.tms/playlist.m3u8
 #EXTINF:-1 group-title="TRUYỀN HÌNH TRÀ VINH" tvg-logo="https://i.postimg.cc/8P5LjsXn/THTV.png", TRÀ VINH
-https://livecdn.fptplay.net/sdc/travinh_1000.stream/chunklist.m3u8
+https://60acee235f4d5.streamlock.net/THTV/travinhtv/playlist.m3u8
+
+#EXTINF:-1 group-title="TRUYỀN HÌNH TRÀ VINH 2" tvg-logo="https://i.postimg.cc/8P5LjsXn/THTV.png", TRÀ VINH 2
+https://618b88f69e53b.streamlock.net/THTV2/travinhtv2/playlist.m3u8
 #EXTINF:-1 group-title="TRUYỀN HÌNH AN GIANG" tvg-logo="https://i.postimg.cc/wBhBvjY0/ATV.png" ,AN GIANG
 https://livecdn.fptplay.net/sda/angiang_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="TRUYỀN HÌNH CẦN THƠ" tvg-logo="https://i.postimg.cc/d3Wd5K3B/THTPCT.png" ,CẦN THƠ
-#https://tv.canthotv.vn/live/tv/tv.m3u8
-https://livecdn.fptplay.net/sda/cantho_hls.smil/chunklist_b2500000.m3u8
+https://live.canthotv.vn/live/tv_web/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SshWsrHW/HGTV.png" group-title="TRUYỀN HÌNH HẬU GIANG",HẬU GIANG
-https://livecdn.fptplay.net/sda/haugiang_2000.stream/chunklist.m3u8
+https://60acee235f4d5.streamlock.net/HGTV/d1/playlist.m3u8
 #EXTINF:-1 tvg-id="soctrang" group-title="TRUYỀN HÌNH SÓC TRĂNG 1" tvg-logo="https://i.postimg.cc/HkF0GH2v/STV1.png" ,SÓC TRĂNG 1
-https://livecdn.fptplay.net/sda/soctrang_hls.smil/chunklist_b2500000.m3u8
+http://113.163.189.104:8135/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
+#http://113.163.189.104:8135/liveevent.m3u8
 #EXTINF:-1 group-title="TRUYỀN HÌNH SÓC TRĂNG 2" tvg-logo="https://i.postimg.cc/BbQQr2kS/SOC-TRANG-2.png" ,SÓC TRĂNG 2
+http://113.163.189.104:8135/hls-live/livepkgr/_definst_/liveevent/livestreamstv2.m3u8
 #EXTINF:-1 group-title="TRUYỀN HÌNH BẠC LIỆU" tvg-logo="https://i.postimg.cc/ydVHmrmb/BAC-LIEU.png", BẠC LIÊU
-https://livecdn.fptplay.net/sdc/baclieu_2000.stream/chunklist.m3u8
+https://tv.thbl.vn/live/tv/tv.m3u8
 #EXTINF:-1   tvg-id="kgtv" group-title="TRUYỀN HÌNH KIÊN GIANG" tvg-logo="https://i.postimg.cc/X7smJ3xr/kien-giang.png" ,KIÊN GIANG
-#http://tv.kgtv.vn/live/kgtv/kgtv.m3u8
-https://livecdn.fptplay.net/sda/kiengiang_hls.smil/chunklist_b2500000.m3u8
+https://tv.kgtv.vn/live/kgtv/kgtv.m3u8
 #EXTINF:-1  tvg-id="kiengiang" group-title="TRUYỀN HÌNH KIÊN GIANG 1" tvg-logo="https://i.postimg.cc/dtsgwDRM/kien-giang-1.png" ,KIÊN GIANG 1
-#EXTVLCOPT: http-user-agent = KhichTivi
-#https://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8
-#https://livecdn.fptplay.net/sda/kiengiang_hls.smil/chunklist_b2500000.m3u8
-#http://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8
+https://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8
 #EXTINF:-1 group-title="TRUYỀN HÌNH CÀ MAU" tvg-logo="https://i.postimg.cc/FsyBBgLT/Ca-Mau.png",CÀ MAU
-https://livecdn.fptplay.net/sdc/camau_2000.stream/chunklist.m3u8
-#http://tv.ctvcamau.vn/live/tv/tv.m3u8
+http://tv.ctvcamau.vn/live/tv/tv.m3u8
 
 
 

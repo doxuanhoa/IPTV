@@ -214,12 +214,11 @@ https://mediatech.vncdn.vn//thplive/tv2live-transmux.m3u8
 https://livecdn.fptplay.net/sdc/haiduong_hls.smil/chunklist_b2500000.m3u8
 #http://118.107.68.17:1935/VTC/smil:Bacninh.smil/playlist.m3u8
 #EXTINF:-1 group-title="TRUYỀN HÌNH VĨNH PHÚC" tvg-logo="https://i.postimg.cc/nhJmqkmW/vinhphuc.png" ,VĨNH PHÚC
-http://vinhphuctv.vn:8090/vinhphuclive/web.stream_720p/chunklist.m3u8
-#https://livecdn.fptplay.net/sdc/vinhphuc_2000.stream/chunklist.m3u8
+http://vinhphuctv.vn:8090/vinhphuclive/web.stream/playlist.m3u8
 #EXTINF:-1 group-title="TRUYỀN HÌNH HƯNG YÊN" tvg-logo="https://i.postimg.cc/L6xQKVK7/hung-yen-b.png" ,HƯNG YÊN
 https://live.hungyentv.vn/hytvlive/tv1live.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZYVpRM71/TBTV.png" group-title="TRUYỀN HÌNH THÁI BÌNH",THÁI BÌNH
-http://cdn.tbtv.mediatech.vn/tbtvlive/tv1live.m3u8
+https://live.thaibinhtv.vn/tbtvlive/tv1live/tv1live.m3u8
 #EXTINF:-1 group-title="TRUYỀN HÌNH NAM ĐỊNH" tvg-logo="https://i.postimg.cc/8zq539SQ/ND.webp",NAM ĐỊNH
 https://livecdn.fptplay.net/sdc/namdinh_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="TRUYỀN HÌNH NINH BÌNH" tvg-logo="https://i.postimg.cc/287rpbNp/ninh-binh-tv.png",NINH BÌNH

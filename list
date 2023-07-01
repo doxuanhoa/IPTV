@@ -246,16 +246,18 @@ http://118.107.85.5:1935/live/smil:LTV.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="vungtau" group-title="TRUYỀN HÌNH BÀ RỊA VŨNG TÀU" tvg-logo="http://brt.vn/common/v1/images/logo-footer.png", BÀ RỊA VŨNG TÀU
 https://stream.brt.vn:8081/live/tv2.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="vungtau" group-title="TRUYỀN HÌNH BÀ RỊA VŨNG TÀU" tvg-logo="http://brt.vn/common/v1/images/logo-footer.png", BÀ RỊA VŨNG TÀU
+https://brt051220.cdn.vnns.io/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2ODgxOTUzNjIsInVyaSI6Ii9CUlQifQ.qsvfXGNrNrVOe176u5vDeXB-Rv43GyXGJGBSgY0Pv88-/BRT/playlist.m3u8
 #EXTINF:-1 group-title="BÌNH DƯƠNG 1 - TRUYỀN HÌNH BÌNH DƯƠNG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/BTV1.png" ,BÌNH DƯƠNG 1
-https://livecdn.fptplay.net/hda3/btv1_hls.smil/chunklist_b2500000.m3u8
+https://code.vthanhtivi.pw/getlink/mytv/402/hd.m3u8
 #EXTINF:-1 group-title="BÌNH DƯƠNG 2 - TRUYỀN HÌNH BÌNH DƯƠNG" tvg-logo="https://i.postimg.cc/mkvSYDBF/btv2.png" ,BÌNH DƯƠNG 2
-https://livecdn.fptplay.net/hda3/btv2_hls.smil/chunklist_b2500000.m3u8
+https://code.vthanhtivi.pw/getlink/fptplay/binh-duong-2/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="BÌNH DƯƠNG 3 - TRUYỀN HÌNH BÌNH DƯƠNG" tvg-logo="https://i.postimg.cc/YSz4DW0g/btv3.png" ,BÌNH DƯƠNG 3
-https://livecdn.fptplay.net/sdb/binhduong3_hls.smil/chunklist.m3u8
+https://code.vthanhtivi.pw/getlink/fptplay/binh-duong-3/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="btv4" group-title="BÌNH DƯƠNG 4 - TRUYỀN HÌNH BÌNH DƯƠNG" tvg-logo="https://i.postimg.cc/fRtVzGB9/BTV4.png",BÌNH DƯƠNG 4
 https://vips-livecdn.fptplay.net/hda2/btv4hd_4000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="BTV6 - TRUYỀN HÌNH BÌNH DƯƠNG" tvg-logo="https://i.postimg.cc/dtsnTR4y/BTV6.png" ,BÌNH DƯƠNG 6
-https://livecdn.fptplay.net/sda/btv6_hls.smil/chunklist_b2500000.m3u8
+https://code.vthanhtivi.pw/getlink/fptplay/btv6/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="TRUYỀN HÌNH BÌNH PHƯỚC 1" tvg-logo="https://i.postimg.cc/CMnrB9Nt/BPTV1.png" ,BÌNH PHƯỚC 1
 https://live.baobinhphuoc.com.vn/bptvlive/tv1live.m3u8
 #EXTINF:-1 group-title="TRUYỀN HÌNH BÌNH PHƯỚC 2" tvg-logo="https://i.postimg.cc/FzSTMJzm/BPTV2.png" ,BÌNH PHƯỚC 2

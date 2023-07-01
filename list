@@ -64,9 +64,9 @@ https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV9.smil/playlist.m3u
 
 
 #EXTINF:-1 tvg-id="hanoi1" group-title="KÊNH 1 TRUYỀN HÌNH HÀ NỘI" tvg-logo="https://i.postimg.cc/fRZC02sn/H1.png",HÀ NỘI 1
-https://livecdn.fptplay.net/sdc/hanoitv1_2000.stream/chunklist.m3u8
+https://cecex9g5cpliv.vcdn.cloud/capture/smil:HN1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="hanoi2" group-title="KÊNH 2 TRUYỀN HÌNH HÀ NỘI" tvg-logo="https://i.postimg.cc/B6bLprVw/HA-NOI-2.png",HÀ NỘI 2
-https://1028513096.vnns.net/tv2-abr/hntvlive/tv2_1080p/chunks.m3u8
+https://cecex9g5cpliv.vcdn.cloud/live/smil:HN2.smil/playlist.m3u8
 
 
 

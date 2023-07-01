@@ -64,6 +64,10 @@ https://code.vthanhtivi.pw/getlink/mytv/398/hd.m3u8
 
 #EXTINF:-1 tvg-id="vtc13hd" group-title="VTC13" tvg-logo="https://i.postimg.cc/Jz6r6f71/VTC13.png" ,VTC13
 http://vcdn1.vtc.gov.vn:1935/m_4K/smil:4k.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="kpop" group-title="K POP" tvg-logo="" ,K POP
+http://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
+
 #EXTINF:-1 tvg-id="htvccanhachd" group-title="HTVC CA NHẠC" tvg-logo="https://i.postimg.cc/Y9XJ12qv/HTVC-CA-NHAC.png",HTVC CA NHẠC
 
 
@@ -437,6 +441,10 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 
 
 
+#EXTINF:-1 tvg-id="cinemaxhd"  tvg-logo="https://i.postimg.cc/VLWvtQyD/cinemax.png" group-title="CINEMAX - KÊNH PHIM TRUYỆN" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/cinemax_1500.stream/playlist_dvr_range-${start}-${offset}.m3u8",🕓 CINEMAX
+http://live.vthanhtivi.pw/cinemax/index.m3u8
+#EXTINF:-1 group-title="HBO - KÊNH PHIM TRUYỆN ĐẶC SẮC" tvg-id="hbohd" tvg-logo="https://i.postimg.cc/hPZRsTMX/hbo.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/hbo_1500.stream/playlist_dvr_range-${start}-${offset}.m3u8",🕓 HBO
+http://live.vthanhtivi.pw/hbo/index.m3u8
 
 
 #EXTINF:-1 tvg-id="sctv15hd" group-title="SCTV15 - KÊNH THỂ THAO" tvg-logo="https://i.postimg.cc/C1SnRNj9/sctv15.png", SCTV15 - THỂ THAO

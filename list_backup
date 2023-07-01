@@ -667,12 +667,9 @@ https://livecdn.fptplay.net/hda2/cinemawork_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="warnertvhd" tvg-logo="https://i.postimg.cc/kM0VczXr/WBTV.png" group-title="WARNER TV -  KÊNH GIẢI TRÍ" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/warnertv_1000.stream/playlist_dvr_range-${start}-${offset}.m3u8" ,🕓 WARNER TV
 http://livecdn.fptplay.net/hda3/warnertv_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="cinemaxhd"  tvg-logo="https://i.postimg.cc/VLWvtQyD/cinemax.png" group-title="CINEMAX - KÊNH PHIM TRUYỆN" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/cinemax_1500.stream/playlist_dvr_range-${start}-${offset}.m3u8",🕓 CINEMAX
-https://livecdn.fptplay.net/hda1/cinemax_vhls.smil/chunklist_b5000000.m3u8
-#https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
+http://live.vthanhtivi.pw/cinemax/index.m3u8
 #EXTINF:-1 group-title="HBO - KÊNH PHIM TRUYỆN ĐẶC SẮC" tvg-id="hbohd" tvg-logo="https://i.postimg.cc/hPZRsTMX/hbo.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/hbo_1500.stream/playlist_dvr_range-${start}-${offset}.m3u8",🕓 HBO
-https://livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
-#https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
-
+http://live.vthanhtivi.pw/hbo/index.m3u8
 
 
 #EXTINF:-1 tvg-id="sctv15hd" group-title="SCTV15 - KÊNH THỂ THAO" tvg-logo="https://i.postimg.cc/C1SnRNj9/sctv15.png", SCTV15 - THỂ THAO

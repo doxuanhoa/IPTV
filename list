@@ -312,29 +312,6 @@ http://tv.ctvcamau.vn/live/tv/tv.m3u8
 
 
 
-
-
-
-#EXTINF:-1 tvg-id="mtvhd" group-title="KÊNH ÂM NHẠC" tvg-logo="https://i.postimg.cc/QdJzHcmZ/MTV-HD.png", MTV
-https://livecdn.fptplay.net/sdb/mtv_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="musicbox" group-title="KÊNH ÂM NHẠC" tvg-logo="https://i.postimg.cc/vHK1nTMF/BoxMusic.png",MUSIC BOX
-#https://livecdn.fptplay.net/hda3/music_4000.stream/chunklist.m3u8
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="youtv" group-title="YOU TV" tvg-logo="http://youtv.vn/images/2019/lg-youtv-fb.png",YOU TV
-https://livecdn.fptplay.net/sdb/youtv_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="hitv" group-title="Hi TV" tvg-logo="https://i.postimg.cc/GhxKZYv7/hitv.png",Hi TV
-#https://live2cdn.todayplus.com.vn/sdb/smil:hitv.smil/chunklist_b1596000.m3u8
-#EXTINF:-1 tvg-id="pv" group-title="KÊNH PHIM TRUYỆN VIỆT NAM" tvg-logo="https://i.postimg.cc/RCp8H1DK/phimviet.png",PHIM VIỆT
-
-
 #EXTINF:-1 tvg-id="sctv1hd" group-title="SCTV1 - KÊNH PHIM HÀI" tvg-logo="https://i.postimg.cc/bvQ58fkf/SCTV-1.png",SCTV1
 #EXTVLCOPT: http-user-agent = KhichTivi
 https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv1/index.m3u8|Referer=http://sctvonline.vn/
@@ -497,10 +474,8 @@ http://media.kythuatvov.vn:7005/;stream/
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tgHq4y2S/vovgt.png" group-title="KÊNH RADIO TIN TỨC GIAO THÔNG",📻 VOV GIAO THÔNG
 http://stream2.mobiradio.vn/vovradio/vovgthn.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zf7BCws9/logo-vov.png" group-title="Radio",📻 VOV SỨC KHỎE
-http://media.kythuatvov.vn:7021/;stream/
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/0/07/ON365_FM.png/revision/latest/scale-to-width-down/1000?cb=20220401143857&path-prefix=vi" group-title="",📻 ON 365 FM
-https://onsportlive.vtvcab.vn/hls/ONRADIO_CL/04.m3u8?cc
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/0/07/ON365_FM.png/revision/latest/scale-to-width-down/1000?cb=20220401143857&path-prefix=vi" group-title="",📻 ON 365 FM
 
 
 #EXTINF:0 group-title="TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/02/10/15/1676017184627/cd3d4c1e88ff_480_270.png",TV360+ 1

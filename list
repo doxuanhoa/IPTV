@@ -265,7 +265,7 @@ http://202.43.109.144:1935/thbttv/bttv/chunklist_w1629636201.m3u8
 #EXTINF:-1 group-title="TRUYỀN HÌNH KON TUM" tvg-logo="https://i.postimg.cc/VLPWGVCJ/KonTum.png" ,KON TUM
 https://tv.kontumtv.vn/live/kontumtv/kontumtv.m3u8
 #EXTINF:-1 group-title="TRUYỀN HÌNH GIA LAI" tvg-logo="https://i.postimg.cc/nz1mgyTM/THGL.png" ,GIA LAI
-https://livecdn.fptplay.net/sda/gialai_2000.stream/chunklist.m3u8
+http://113.161.25.3:8134/hls/gialaitv/gialaitv.m3u8
 #EXTINF:-1 group-title="TRUYỀN HÌNH ĐẮK LẮK" tvg-logo="https://i.postimg.cc/ncXk9L0k/DRT.png" ,ĐẮK LẮK
 https://livecdn.fptplay.net/sdc/daklak_2000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="TRUYỀN HÌNH ĐẮK NÔNG" tvg-logo="https://i.postimg.cc/1tvxrJ4r/dak-nong.png" ,ĐẮK NÔNG

@@ -247,14 +247,13 @@ http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
 #EXTINF:-1 group-title="TRUYỀN HÌNH QUẢNG NAM" tvg-logo="https://i.postimg.cc/qMZ7XfNr/QUANG-NAM.png" ,QUẢNG NAM
 http://113.161.6.157:8081/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
 #EXTINF:-1 group-title="TRUYỀN HÌNH QUẢNG NGÃI" tvg-logo="https://i.postimg.cc/rpqt0Gzy/QUANG-NGAI-TV.png" ,QUẢNG NGÃI
-https://livecdn.fptplay.net/sda/quangngai_2000.stream/chunklist.m3u8
+http://118.107.85.5:1935/live/smil:PTQ.smil/playlist.m3u8
 #EXTINF:-1 group-title="TRUYỀN HÌNH BÌNH ĐỊNH" tvg-logo="https://i.postimg.cc/7L0YQSXL/BDTV.png" ,BÌNH ĐỊNH
-https://livecdn.fptplay.net/sda/binhdinh_hls.smil/chunklist_b2500000.m3u8
-#https://livecdn.fptplay.net/sda/binhdinh_2000.stream/chunklist.m3u8
+http://truyenhinhbinhdinhonline.dynns.com:8086/live.m3u8
 #EXTINF:-1 group-title="TRUYỀN HÌNH PHÚ YÊN" tvg-logo="https://i.postimg.cc/hPmVDvcT/ptp.png" ,PHÚ YÊN
-https://livecdn.fptplay.net/sda/phuyen_2000.stream/chunklist.m3u8
+http://113.161.4.48:8080/phuyen/tv/index.m3u8
 #EXTINF:-1 group-title="TRUYỀN HÌNH KHÁNH HÒA" tvg-logo="https://i.postimg.cc/Twp7csXK/KTV.png", KHÁNH HÒA
-https://livecdn.fptplay.net/sda/khanhhoa_2000.stream/chunklist.m3u8
+https://tv.ktv.org.vn/ktv.m3u8
 #EXTINF:-1 group-title="TRUYỀN HÌNH NINH THUẬN" tvg-logo="https://i.postimg.cc/qM8KbqLg/ninh-thuan.png",NINH THUẬN
 https://60acee235f4d5.streamlock.net/live/mystream/chunklist.m3u8
 #https://livecdn.fptplay.net/sda/ninhthuan_2000.stream/chunklist.m3u8
@@ -264,8 +263,7 @@ http://202.43.109.144:1935/thbttv/bttv/chunklist_w1629636201.m3u8
 
 
 #EXTINF:-1 group-title="TRUYỀN HÌNH KON TUM" tvg-logo="https://i.postimg.cc/VLPWGVCJ/KonTum.png" ,KON TUM
-#http://tv.kontumtv.vn/live/kontumtv/kontumtv.m3u8
-https://livecdn.fptplay.net/sdc/kontum_2000.stream/chunklist.m3u8
+https://tv.kontumtv.vn/live/kontumtv/kontumtv.m3u8
 #EXTINF:-1 group-title="TRUYỀN HÌNH GIA LAI" tvg-logo="https://i.postimg.cc/nz1mgyTM/THGL.png" ,GIA LAI
 https://livecdn.fptplay.net/sda/gialai_2000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="TRUYỀN HÌNH ĐẮK LẮK" tvg-logo="https://i.postimg.cc/ncXk9L0k/DRT.png" ,ĐẮK LẮK

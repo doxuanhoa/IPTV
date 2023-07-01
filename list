@@ -107,7 +107,7 @@ https://k4dzr60ab.vtvgiaitri.vn/vtv09/vtv09@720p.m3u8
 
 
 #EXTINF:-1 tvg-id="nhan_dan_tv"  tvg-logo="https://i.postimg.cc/FK8ZGZzW/NHAN-DAN.png" group-title="TRUYỀN HÌNH NHÂN DÂN",NHÂN DÂN
-https://livecdn.fptplay.net/sdc/truyenhinhnhandan_2000.stream/chunklist.m3u8
+https://video.nhandan.thienvietjsc.net/live/nhandan720/playlist.m3u8
 #EXTINF:-1 tvg-id="quochoi" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f9/KenhQuocHoi_logo_2022.png/revision/latest?cb=20220608125743&path-prefix=vi" group-title="TRUYỀN HÌNH QUỐC HỘI VIỆT NAM",QUỐC HỘI
 https://live-ali4.tv360.vn/manifest/Quoc_Hoi_HD/playlist_1080p.m3u8
 #EXTINF:-1 tvg-id="vovtvhd" tvg-logo="https://i.postimg.cc/RZL1gC6K/VOV-TV.png" group-title="VOV TV",VOV TV

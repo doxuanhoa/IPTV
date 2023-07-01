@@ -183,7 +183,7 @@ https://live.hungyentv.vn/hytvlive/tv1live.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZYVpRM71/TBTV.png" group-title="TRUYỀN HÌNH THÁI BÌNH",THÁI BÌNH
 https://live.thaibinhtv.vn/tbtvlive/tv1live/tv1live.m3u8
 #EXTINF:-1 group-title="TRUYỀN HÌNH NAM ĐỊNH" tvg-logo="https://i.postimg.cc/8zq539SQ/ND.webp",NAM ĐỊNH
-https://livecdn.fptplay.net/sdc/namdinh_hls.smil/chunklist_b2500000.m3u8
+https://code.vthanhtivi.pw/getlink/tv360/73/0.m3u8
 #EXTINF:-1 group-title="TRUYỀN HÌNH NINH BÌNH" tvg-logo="https://i.postimg.cc/287rpbNp/ninh-binh-tv.png",NINH BÌNH
 https://live.nbtv.vn/nbtvlive/tv1live.m3u8
 
@@ -228,7 +228,8 @@ http://202.43.109.144:1935/thbttv/bttv/chunklist_w1629636201.m3u8
 #EXTINF:-1 group-title="TRUYỀN HÌNH KON TUM" tvg-logo="https://i.postimg.cc/VLPWGVCJ/KonTum.png" ,KON TUM
 https://tv.kontumtv.vn/live/kontumtv/kontumtv.m3u8
 #EXTINF:-1 group-title="TRUYỀN HÌNH GIA LAI" tvg-logo="https://i.postimg.cc/nz1mgyTM/THGL.png" ,GIA LAI
-http://113.161.25.3:8134/hls/gialaitv/gialaitv.m3u8
+https://code.vthanhtivi.pw/getlink/tv360/55/2.m3u8
+#http://113.161.25.3:8134/hls/gialaitv/gialaitv.m3u8
 #EXTINF:-1 group-title="TRUYỀN HÌNH ĐẮK LẮK" tvg-logo="https://i.postimg.cc/ncXk9L0k/DRT.png" ,ĐẮK LẮK
 https://live.drt.vn/drtlive/tv1live-transmux.m3u8
 #EXTINF:-1 group-title="TRUYỀN HÌNH ĐẮK NÔNG" tvg-logo="https://i.postimg.cc/1tvxrJ4r/dak-nong.png" ,ĐẮK NÔNG
@@ -240,7 +241,7 @@ http://118.107.85.5:1935/live/smil:LTV.smil/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="vungtau" group-title="TRUYỀN HÌNH BÀ RỊA VŨNG TÀU" tvg-logo="http://brt.vn/common/v1/images/logo-footer.png", BÀ RỊA VŨNG TÀU
-https://brt051220.cdn.vnns.io/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2ODgxOTUzNjIsInVyaSI6Ii9CUlQifQ.qsvfXGNrNrVOe176u5vDeXB-Rv43GyXGJGBSgY0Pv88-/BRT/playlist.m3u8
+https://stream.brt.vn:8081/live/tv2.stream/playlist.m3u8
 #EXTINF:-1 group-title="BÌNH DƯƠNG 1 - TRUYỀN HÌNH BÌNH DƯƠNG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/BTV1.png" ,BÌNH DƯƠNG 1
 https://livecdn.fptplay.net/hda3/btv1_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="BÌNH DƯƠNG 2 - TRUYỀN HÌNH BÌNH DƯƠNG" tvg-logo="https://i.postimg.cc/mkvSYDBF/btv2.png" ,BÌNH DƯƠNG 2
@@ -285,7 +286,7 @@ https://60acee235f4d5.streamlock.net/THTV/travinhtv/playlist.m3u8
 #EXTINF:-1 group-title="TRUYỀN HÌNH TRÀ VINH 2" tvg-logo="https://i.postimg.cc/8P5LjsXn/THTV.png", TRÀ VINH 2
 https://618b88f69e53b.streamlock.net/THTV2/travinhtv2/playlist.m3u8
 #EXTINF:-1 group-title="TRUYỀN HÌNH AN GIANG" tvg-logo="https://i.postimg.cc/wBhBvjY0/ATV.png" ,AN GIANG
-https://livecdn.fptplay.net/sda/angiang_hls.smil/chunklist_b2500000.m3u8
+https://code.vthanhtivi.pw/getlink/fptplay/an-giang/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="TRUYỀN HÌNH CẦN THƠ" tvg-logo="https://i.postimg.cc/d3Wd5K3B/THTPCT.png" ,CẦN THƠ
 https://live.canthotv.vn/live/tv_web/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SshWsrHW/HGTV.png" group-title="TRUYỀN HÌNH HẬU GIANG",HẬU GIANG

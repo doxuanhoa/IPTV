@@ -125,9 +125,9 @@ https://live-zlr1.tv360.vn/manifest/VinhLong3_HD/playlist_1080p.m3u8
 https://live-zlr1.tv360.vn/manifest/VinhLong4_HD/playlist_1080p.m3u8
 
 #EXTINF:-1 group-title="TRUYỀN HÌNH ĐIỆN BIÊN" tvg-logo="https://i.postimg.cc/brbR00SJ/TV.png" ,ĐIỆN BIÊN
-https://livecdn.fptplay.net/sdc/dienbien_hls.smil/chunklist_b2500000.m3u8
+https://code.vthanhtivi.pw/getlink/fptplay/dien-bien/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="TRUYỀN HÌNH LAI CHÂU" tvg-logo="https://i.postimg.cc/RVgH2vhw/LaiChau.png" ,LAI CHÂU
-https://ll4mfr7mnaliv.vcdn.cloud/laichau/radio/playlist.m3u8
+https://code.vthanhtivi.pw/getlink/fptplay/lai-chau/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="TRUYỀN HÌNH LÀO CAI" tvg-logo="https://i.postimg.cc/ydgqCmF0/THLC.png" ,LÀO CAI
 http://cdn.3ssoft.vn/livetv/laocaitv/laocaitv/index.m3u8
 #EXTINF:-1 group-title="TRUYỀN HÌNH YÊN BÁI" tvg-logo="https://i.postimg.cc/SNhktL57/yen-bai.png",YÊN BÁI
@@ -260,9 +260,9 @@ https://live.baobinhphuoc.com.vn/bptvlive/tv2live.m3u8
 #EXTINF:-1 group-title="TRUYỀN HÌNH TÂY NINH" tvg-logo="https://i.postimg.cc/q7td5kZD/TayNinh.png",TÂY NINH
 http://202.43.109.142:1935/ttv11/tntv/playlist.m3u8
 #EXTINF:-1 tvg-id="dongnaitv1dn1hd" group-title="TRUYỀN HÌNH ĐỒNG NAI 1" tvg-logo="https://i.postimg.cc/vBRhMm59/DONG-NAI-1.png" ,ĐỒNG NAI 1
-https://livecdn.fptplay.net/sda/dongnai1_2000.stream/chunklist.m3u8
+https://code.vthanhtivi.pw/getlink/mytv/404/hd.m3u8
 #EXTINF:-1 group-title="TRUYỀN HÌNH ĐỒNG NAI 2" tvg-logo="https://i.postimg.cc/ZRrcqhLQ/DONG-NAI-2.png" ,ĐỒNG NAI 2
-https://livecdn.fptplay.net/sda/dongnai2_2000.stream/chunklist.m3u8
+https://code.vthanhtivi.pw/getlink/tv360/255/3.m3u8
 #EXTINF:-1 group-title="TRUYỀN HÌNH ĐỒNG NAI 3" tvg-logo="https://i.postimg.cc/vZXht7FV/DN3.png" ,ĐỒNG NAI 3
 
 

@@ -393,13 +393,12 @@ https://tbientv.xyz/channel/vtvgo/?id=163
 
 
 #EXTINF:-1 tvg-id="vtvcab1hd" group-title="VTVcab" tvg-logo="https://i.postimg.cc/9QhP9SmS/vtvcab1.png",VTVcab1 - Vie GIẢI TRÍ
-https://api.vthanhtivi.pw/v1/getlink/vieon/vie-giai-tri-hd
+https://hqth.me/getlinkvieonvtvcab1?viegiaitri/id=392/playlist.m3u8
 #EXTINF:-1 tvg-id="vtvcab2hd" group-title="VTVcab 2 - KÊNH PHIM TRUYỆN VIỆT NAM" tvg-logo="https://i.postimg.cc/mgSM34SN/vtvcab2.png",VTVcab 2 - ON PHIM VIỆT
 #http://s2live.tv1asia.com:21585/vtvcab2/index.m3u8
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab2/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="vtvcab4hd" group-title="VTVcab" tvg-logo="https://i.postimg.cc/433X3ykX/VTVcab-4.png",VTVcab 4
-#http://dung1202.duckdns.org:12381/udp/232.84.2.190:10924
-https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab4/sd2/index.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="vtvcab4hd" group-title="VTVcab" tvg-logo="https://i.postimg.cc/433X3ykX/VTVcab-4.png",VTVcab 4 - ON MOVIE
+https://hqth.me/getlinkmytvtvcab4?onmovies/id=921/v5live.m3u8
 #EXTINF:-1 tvg-id="vtvcab5hd" group-title="VTVcab" tvg-logo="https://i.postimg.cc/0yDRLqZ4/VTVCAB5.png",VTVcab5 - E CHANNEL
 https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab5/index.m3u8?md5=FI0vSweK0ZjVtshOO-v3LA&expires=2556118740|Referer=http://sctvonline.vn/
 
@@ -461,7 +460,12 @@ https://code.vthanhtivi.pw/getlink/tv360/2380/2.m3u8
 https://live-ali2.tv360.vn/manifest/HTV_The_Thao_HD-50fps/playlist_HTV-TheThao-HD-50fps-1080-65M.m3u8#https://livecdn.fptplay.net/sdb/htvcthethao_hls.smil/chunklist_b2500000.m3u8
 
 
-
+#EXTINF:0 tvg-id="vtvcab3hd" group-title="VTV CAB 3 - ONSPORT" tvg-logo="https://i.postimg.cc/wBPgH4vr/OS.webp",VTVcab3 - ON SPORT
+https://tiemnhazunn.click/vieon/onsports.php
+#EXTINF:-1 tvg-id="vtvcab16hd" group-title="ON FOOTBALL- KÊNH THỂ THAO"  tvg-logo="https://i.postimg.cc/brYMf63S/OF.webp", ON FOOTBALL
+https://tiemnhazunn.click/vieon/vtvcab16.php
+#EXTINF:0 tvg-id="vtvcab18hd" group-title="🇻| VTVcab" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/1f/ON_Sports_News_logo_2022.png/revision/latest/scale-to-width-down/1000?cb=20220403050655&path-prefix=vi",VTVcab18 - ON SPORT NEWS
+https://tiemnhazunn.click/vieon/onsportsnews.php
 
 #EXTINF:-1 tvg-logo="" group-title="Radio",📻 NHẠC TRẺ
 https://vnno-zn-2-tf-multi-playlist-zmp3.zadn.vn/8t3wW77ohJw/zhls/playback-realtime/very-low/6eeb692c5569bc37e578/very-low.m3u8?cc

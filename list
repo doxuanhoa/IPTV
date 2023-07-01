@@ -178,10 +178,10 @@ https://livecdn.fptplay.net/sda/hoabinh_2000.stream/chunklist.m3u8
 
 
 #EXTINF:-1 group-title="TRUYỀN HÌNH QUẢNG NINH 1" tvg-logo="https://i.postimg.cc/W3cQ4f3S/QTV-1.png", QUẢNG NINH 1
-http://qtv.vncdn.vn/qtvlive/tv1live.m3u8
+https://live.baoquangninh.vn/qtvlive/tv1live.m3u8
 #https://livecdn.fptplay.net/sda/quangninh1_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1  group-title="TRUYỀN HÌNH QUẢNG NINH 3" tvg-logo="https://i.postimg.cc/NFgS69RH/QTV-3.png", QUẢNG NINH 3
-http://qtv.vncdn.vn/qtvlive/tv3live.m3u8
+https://live.baoquangninh.vn/qtvlive/tv3live.m3u8
 #EXTINF:-1 tvg-id="TH LANG SON"  group-title="TRUYỀN HÌNH LẠNG SƠN" tvg-logo="https://i.postimg.cc/VNVygfzk/LangSon.png",LẠNG SƠN
 http://cdn.lstv.mediatech.vn/lstvlive/tv1live.m3u8
 #EXTINF:-1 group-title="TRUYỀN HÌNH CAO BẰNG" tvg-logo="https://i.postimg.cc/fR5zd387/cao-bang.png" ,CAO BẰNG

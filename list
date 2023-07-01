@@ -205,9 +205,10 @@ https://live.bacgiangtv.vn/bgtvlive/tv1live.m3u8
 #EXTINF:-1 tvg-id="bacninhtvbtvhd" tvg-logo="https://i.postimg.cc/y6X8WKMt/BacNinh.png" group-title="TRUYỀN HÌNH BẮC NINH",BẮC NINH
 https://stream.thingnet.vn/live/smil:BTV.smil/playlist.m3u8
 #EXTINF:-1 group-title="TRUYỀN HÌNH HẢI PHÒNG" tvg-logo="https://i.postimg.cc/P57L1SrP/THP.png", HẢI PHÒNG
-https://livecdn.fptplay.net/sdc/haiphong_2000.stream/chunklist.m3u8
+https://on.thhp.vn/thplive/tv1live-transmux.m3u8
 #EXTINF:-1 group-title="TRUYỀN HÌNH HẢI PHÒNG +" tvg-logo="https://i.postimg.cc/jSmP8Mvn/HAI-PHONG.png, HẢI PHÒNG +
-https://live.thhp.vn/hls/thpplus/index.m3u8?1
+#https://live.thhp.vn/hls/thpplus/index.m3u8?1
+https://mediatech.vncdn.vn//thplive/tv2live-transmux.m3u8
 #EXTINF:-1 group-title="TRUYỀN HÌNH HẢI DƯƠNG" tvg-logo="https://i.postimg.cc/59KLbDnW/Hai-Duong-TV.png" ,HẢI DƯƠNG
 
 https://livecdn.fptplay.net/sdc/haiduong_hls.smil/chunklist_b2500000.m3u8

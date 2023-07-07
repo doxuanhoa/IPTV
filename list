@@ -435,7 +435,8 @@ http://fash2043.cloudycdn.services/slive/_definst_/ftv_ftv_4k_hevc_73d_42080_def
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
 
-
+#EXTINF:-1 tvg-id="CAM1" group-title="CAMERA 01" tvg-logo="https://tuongvui.vn/wp-content/uploads/2021/08/camera-ezviz-c6cn.01.png",CAMERA
+rtsp://admin:MNMKXQ@192.168.100.27:554/H.264
 
 #EXTINF:-1 tvg-id="cna_channel_news_asia" tvg-logo="https://i.postimg.cc/MZBbRX4v/channelnewsasia.png" group-title="Quốc tế",CHANNEL  NEWS ASIA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
@@ -459,27 +460,11 @@ https://code.vthanhtivi.pw/getlink/tv360/2380/2.m3u8
 #EXTINF:-1 tvg-id="htvthethaohd" group-title="HTV THỂ THAO"  tvg-logo="https://i.postimg.cc/NFhSSkS4/thethao.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcthethao_1000.stream/playlist_dvr_range-${start}-${offset}.m3u8",🕓 HTV THỂ THAO
 https://live-ali2.tv360.vn/manifest/HTV_The_Thao_HD-50fps/playlist_HTV-TheThao-HD-50fps-1080-65M.m3u8#https://livecdn.fptplay.net/sdb/htvcthethao_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1  tvg-id="astrosport" group-title="ASTRO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Astro_Supersport_2015.png/revision/latest?cb=20210802132424" , ASTRO SUPER SPORT 1
-https://webudit.cdnhks.lol/lb/premium123/index.m3u8
-#EXTINF:-1  tvg-id="astrosport" group-title="ASTRO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Astro_Supersport_2015.png/revision/latest?cb=20210802132424" , ASTRO SUPER SPORT 2
-https://webudit.cdnhks.lol/lb/premium124/index.m3u8
-#EXTINF:-1  tvg-id="astrosport" group-title="ASTRO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Astro_Supersport_2015.png/revision/latest?cb=20210802132424" , ASTRO SUPER SPORT 3
-https://webudit.cdnhks.lol/lb/premium125/index.m3u8
-#EXTINF:-1  tvg-id="astrosport" group-title="ASTRO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Astro_Supersport_2015.png/revision/latest?cb=20210802132424" , ASTRO SUPER SPORT 4
-https://webudit.cdnhks.lol/lb/premium126/index.m3u8
-#EXTINF:-1  tvg-id="astrosport" group-title="ASTRO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Astro_Supersport_2015.png/revision/latest?cb=20210802132424" , ASTRO SUPER SPORT 5
-https://webudit.cdnhks.lol/lb/premium123/index.m3u8
+
 #EXTINF:-1  tvg-id="astrosport" group-title="ASTRO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Astro_Supersport_2015.png/revision/latest?cb=20210802132424" , ASTRO SUPER SPORT 4K
 http://kungtv.net:2095/play/live.php?mac=10:27:BE:2F:4A:B6&stream=348094&extension=ts&play_token=8VFADwOede
 
-#EXTINF:-1  tvg-id="arena" group-title="ARENA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8a/Arena_sport_logo.png" , ARENA SPORT 1
-https://webudit.cdnhks.lol/lb/premium429/index.m3u8
-#EXTINF:-1  tvg-id="arena" group-title="ARENA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8a/Arena_sport_logo.png" , ARENA SPORT 2
-https://webudit.cdnhks.lol/lb/premium430/index.m3u8
-#EXTINF:-1  tvg-id="arena" group-title="ARENA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8a/Arena_sport_logo.png" , ARENA SPORT 3
-https://webudit.cdnhks.lol/lb/premium139/index.m3u8
-#EXTINF:-1  tvg-id="arena" group-title="ARENA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8a/Arena_sport_logo.png" , ARENA SPORT 
-https://webudit.cdnhks.lol/lb/premium432/index.m3u8
+
 #EXTINF:0 tvg-id="vtvcab3hd" group-title="VTV CAB 3 - ONSPORT" tvg-logo="https://i.postimg.cc/wBPgH4vr/OS.webp",VTVcab3 - ON SPORT
 https://tiemnhazunn.click/vieon/onsports.php
 #EXTINF:-1 tvg-id="vtvcab16hd" group-title="ON FOOTBALL- KÊNH THỂ THAO"  tvg-logo="https://i.postimg.cc/brYMf63S/OF.webp", ON FOOTBALL

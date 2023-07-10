@@ -26,7 +26,9 @@ https://live-zlr1.tv360.vn/manifest/QPVN_HD/playlist_1080p.m3u8
 http://103.90.220.236/thhnlive/tv1live.m3u8
 
 #EXTINF:-1 tvg-id="vtc1hd" group-title="VTC1 - KÊNH THỜI SỰ CHÍNH TRỊ TỔNG HỢP" tvg-logo="https://i.postimg.cc/s2RKtcgh/VTC1.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc1_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",🕓 VTC1
-https://live-ali4.tv360.vn/manifest/VTC1_HD/playlist_1080p.m3u8
+
+https://live-zlr1.tv360.vn/manifest/VTC1_HD/playlist_1080p.m3u8
+
 #EXTINF:-1 tvg-id="vtc14hd" group-title="VTC14 - KÊNH THỜI TIẾT - MÔI TRƯỜNG & ĐỜI SỐNG" tvg-logo="https://i.postimg.cc/FsMJYdcL/vtc14.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc14_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",🕓 VTC14
 https://1117141481.vnns.net/VTC14/chunks.m3u8
 

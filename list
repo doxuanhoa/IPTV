@@ -440,6 +440,11 @@ rtsp://admin:MNMKXQ@192.168.100.27:554/H.264
 #EXTINF:-1 tvg-id="cna_channel_news_asia" tvg-logo="https://i.postimg.cc/MZBbRX4v/channelnewsasia.png" group-title="Quốc tế",CHANNEL  NEWS ASIA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 
+#EXTINF:-1  tvg-id="boomerang" group-title="BOOMERANG - KÊNH THIẾU NHI" tvg-logo="https://i.postimg.cc/jSHTtTG2/BOOMERANG.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/boomerang_1000.stream/playlist_dvr_range-${start}-${offset}.m3u8",🕓 BOOMERANG
+https://iplogger.com/boomerang.m3u8
+
+#EXTINF:-1 tvg-id="cartoonhd" group-title="CARTOON NETWORK - KÊNH THIẾU NHI" tvg-logo="https://i.postimg.cc/0yrP1crG/cn.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/cartoonnetworkhd_1000.stream/playlist_dvr_range-${start}-${offset}.m3u8",🕓 CARTOON NETWORK
+http://s4.nihontv.net:21585/cartoon/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-id="cinemaxhd"  tvg-logo="https://i.postimg.cc/VLWvtQyD/cinemax.png" group-title="CINEMAX - KÊNH PHIM TRUYỆN" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/cinemax_1500.stream/playlist_dvr_range-${start}-${offset}.m3u8",🕓 CINEMAX

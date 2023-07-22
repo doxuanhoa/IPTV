@@ -643,9 +643,9 @@ https://livecdn.fptplay.net/hda3/dreamworks_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="happykids" group-title="Quốc tế" tvg-logo="https://i.postimg.cc/d0S6nhX2/HP.png",HAPPY KIDS
 https://vtsstr7.tv24.vn/live/Happy_Kids.smil/chunklist.m3u8?uid=s2c526m574z5s4l5h4
 #EXTINF:-1  tvg-id="boomerang" group-title="BOOMERANG - KÊNH THIẾU NHI" tvg-logo="https://i.postimg.cc/jSHTtTG2/BOOMERANG.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/boomerang_1000.stream/playlist_dvr_range-${start}-${offset}.m3u8",🕓 BOOMERANG
-https://livecdn.fptplay.net/hda3/boomerang_vhls.smil/chunklist_b5000000.m3u8
+https://iplogger.com/boomerang.m3u8
 #EXTINF:-1 tvg-id="cartoonhd" group-title="CARTOON NETWORK - KÊNH THIẾU NHI" tvg-logo="https://i.postimg.cc/0yrP1crG/cn.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/cartoonnetworkhd_1000.stream/playlist_dvr_range-${start}-${offset}.m3u8",🕓 CARTOON NETWORK
-https://livecdn.fptplay.net/hda3/cartoonnetworkhd_vhls.smil/chunklist_b5000000.m3u8
+http://s4.nihontv.net:21585/cartoon/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-id="kix" tvg-logo="https://i.postimg.cc/BQQJV5dj/KIX.png" group-title="Quốc tế" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/kixhd_1000.stream/playlist_dvr_range-${start}-${offset}.m3u8",🕓 KIX HD

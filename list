@@ -449,7 +449,7 @@ http://live.vthanhtivi.pw/hbo/index.m3u8
 
 
 #EXTINF:-1 tvg-id="sctv15hd" group-title="SCTV15 - KÊNH THỂ THAO" tvg-logo="https://i.postimg.cc/C1SnRNj9/sctv15.png", SCTV15 - THỂ THAO
-https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV15.smil/playlist.m3u8
+https://dl.dropboxusercontent.com/s/vddawpnu4j38ae9/					ㅤ|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctv17hd" group-title="SCTV17 - KÊNH THỂ THAO" tvg-logo="https://i.postimg.cc/rmj0xrjs/sctv17.png", SCTV17 - THỂ THAO
 https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV17.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="sctv22hd" group-title="SCTV22 - KÊNH THỂ THAO" tvg-logo="https://i.postimg.cc/KjYKN8pN/sctv22.png", SCTV22 - THỂ THAO

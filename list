@@ -12,7 +12,8 @@ https://code.vthanhtivi.pw/getlink/tv360/108/2.m3u8
 https://live-zlr1.tv360.vn/manifest/VTV5_HD_50fps/playlist_VTV5-HD-50fps-1080P-5M.m3u8
 #EXTINF:-1 tvg-id="vtv6hd" group-title="VTV CẦN THƠ" tvg-logo="https://i.postimg.cc/vT1r3xnV/vtvct.webp" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv6hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",🕓 VTV CẦN THƠ
 #http://live-zlr1.tv360.vn/manifest/VTV6_HD/playlist_1080p.m3u8
-https://livecdn-vthn-vnw.vieon.vn/livetv/hd_vtv_cantho/playlist.m3u8
+#https://livecdn-vthn-vnw.vieon.vn/livetv/hd_vtv_cantho/playlist.m3u8
+https://live-ali2.tv360.vn/manifest/VTV6_HD/playlist_720p.m3u8
 #EXTINF:-1 tvg-id="ttxvnhd" tvg-logo="https://i.postimg.cc/sDccqLdF/vnew.webp" group-title="TRUYỀN HÌNH THÔNG TẤN - KÊNH TIN TỨC THỜI SỰ",TH THÔNG TẤN
 #https://zjizeoupprliv.vcdn.cloud/live/vnews/playlist.m3u8
 #https://liveh34.vtvcab.vn/hls/TTXVN_VNEWS/index.m3u8

@@ -13,7 +13,8 @@ https://live-zlr1.tv360.vn/manifest/VTV5_HD_50fps/playlist_VTV5-HD-50fps-1080P-5
 #EXTINF:-1 tvg-id="vtv6hd" group-title="VTV CẦN THƠ" tvg-logo="https://i.postimg.cc/vT1r3xnV/vtvct.webp" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv6hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",🕓 VTV CẦN THƠ
 #http://live-zlr1.tv360.vn/manifest/VTV6_HD/playlist_1080p.m3u8
 #https://livecdn-vthn-vnw.vieon.vn/livetv/hd_vtv_cantho/playlist.m3u8
-https://live-ali2.tv360.vn/manifest/VTV6_HD/playlist_720p.m3u8
+#https://live-ali2.tv360.vn/manifest/VTV6_HD/playlist_720p.m3u8
+https://live-zlr1.tv360.vn/manifest/VTV6_HD/playlist_720p.m3u8
 #EXTINF:-1 tvg-id="ttxvnhd" tvg-logo="https://i.postimg.cc/sDccqLdF/vnew.webp" group-title="TRUYỀN HÌNH THÔNG TẤN - KÊNH TIN TỨC THỜI SỰ",TH THÔNG TẤN
 #https://zjizeoupprliv.vcdn.cloud/live/vnews/playlist.m3u8
 #https://liveh34.vtvcab.vn/hls/TTXVN_VNEWS/index.m3u8
@@ -402,7 +403,8 @@ https://tbientv.xyz/channel/vtvgo/?id=163
 https://hqth.me/getlinkvieonvtvcab1?viegiaitri/id=392/playlist.m3u8
 #EXTINF:-1 tvg-id="vtvcab2hd" group-title="VTVcab 2 - KÊNH PHIM TRUYỆN VIỆT NAM" tvg-logo="https://i.postimg.cc/mgSM34SN/vtvcab2.png",VTVcab 2 - ON PHIM VIỆT
 #http://s2live.tv1asia.com:21585/vtvcab2/index.m3u8
-https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab2/index.m3u8|Referer=http://sctvonline.vn/
+https://live2onsport.vtvcab.vn/dash/PHIM_VIET/m20_index.m3u8
+#https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab2/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="vtvcab4hd" group-title="VTVcab" tvg-logo="https://i.postimg.cc/433X3ykX/VTVcab-4.png",VTVcab 4 - ON MOVIE
 https://hqth.me/getlinkmytvtvcab4?onmovies/id=921/v5live.m3u8
 #EXTINF:-1 tvg-id="vtvcab5hd" group-title="VTVcab" tvg-logo="https://i.postimg.cc/0yDRLqZ4/VTVCAB5.png",VTVcab5 - E CHANNEL
@@ -475,13 +477,14 @@ https://live-ali2.tv360.vn/manifest/HTV_The_Thao_HD-50fps/playlist_HTV-TheThao-H
 #EXTINF:-1  tvg-id="astrosport" group-title="ASTRO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Astro_Supersport_2015.png/revision/latest?cb=20210802132424" , ASTRO SUPER SPORT 4K
 http://kungtv.net:2095/play/live.php?mac=10:27:BE:2F:4A:B6&stream=348094&extension=ts&play_token=8VFADwOede
 
-
+#EXTINF:0 tvg-id="vtvcab6" group-title="" tvg-logo="https://i.postimg.cc/wBPgH4vr/OS.webp",ON SPORT+
+https://live2onsport.vtvcab.vn/dash/HAY_TV/m30_index.m3u8
 #EXTINF:0 tvg-id="vtvcab3hd" group-title="VTV CAB 3 - ONSPORT" tvg-logo="https://i.postimg.cc/wBPgH4vr/OS.webp",ON SPORT
-https://tiemnhazunn.click/vieon/onsports.php
+https://live2onsport.vtvcab.vn/dash/THETHAO_HD/m40_index.m3u8
 #EXTINF:-1 tvg-id="vtvcab16hd" group-title="ON FOOTBALL- KÊNH THỂ THAO"  tvg-logo="https://i.postimg.cc/brYMf63S/OF.webp",ON FOOTBALL
-https://tiemnhazunn.click/vieon/vtvcab16.php
+https://live2onsport.vtvcab.vn/dash/BONGDA_HD/m30_index.m3u8
 #EXTINF:0 tvg-id="vtvcab18hd" group-title="🇻| VTVcab" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/1f/ON_Sports_News_logo_2022.png/revision/latest/scale-to-width-down/1000?cb=20220403050655&path-prefix=vi",ON SPORT NEWS
-https://tiemnhazunn.click/vieon/onsportsnews.php
+https://live2onsport.vtvcab.vn/dash/THETHAO_TINTUC_HD/m40_index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Radio",📻 NHẠC TRẺ
 https://vnno-zn-2-tf-multi-playlist-zmp3.zadn.vn/8t3wW77ohJw/zhls/playback-realtime/very-low/6eeb692c5569bc37e578/very-low.m3u8?cc

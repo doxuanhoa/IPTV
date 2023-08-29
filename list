@@ -506,17 +506,11 @@ http://stream2.mobiradio.vn/vovradio/vovgthn.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/0/07/ON365_FM.png/revision/latest/scale-to-width-down/1000?cb=20220401143857&path-prefix=vi" group-title="",📻 ON 365 FM
 
 #EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/9/92/Kplus_logo.png", K+ SPORT 1
-http://103.190.107.173:9981/stream/mux/e823b455241af0e6c82c983ea7f82879?ticket=30C42F059E278AEAD108F2368E17AB36574E60C7
 #EXTINF:-1 tvg-id="ksport2hd" group-title="K+" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/9/92/Kplus_logo.png", K+ SPORT 2
-http://103.190.107.173:9981/stream/mux/693f9b01252fc4db544bbab52b713b6e?ticket=9DEB7C469AB8EBB1FA6FE416872AA04F5ABB3F7C
-
-
 #EXTINF:-1 tvg-id="klifehd" group-title="K+" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/9/92/Kplus_logo.png", K+ LIFE
-http://103.190.107.173:9981/stream/mux/377800f2fddf1e0f96cb8e7bfa5b3b4c?ticket=1C5EF2082F311AF15A62BB05534C71A0A9A6CE1A
 #EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/9/92/Kplus_logo.png", K+ CINE
-https://iplogger.com/Cici
 #EXTINF:-1 tvg-id="kkidshd" group-title="K+" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/9/92/Kplus_logo.png", K+ KIDS
-https://iplogger.com/Kitkit
+
 
 #EXTINF:0 group-title="TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/02/10/15/1676017184627/cd3d4c1e88ff_480_270.png",TV360+ 1
 http://live-ali4.tv360.vn/manifest/sukien/playlist_1080p-5M.m3u8
@@ -528,4 +522,3 @@ http://live-ali4.tv360.vn/manifest/Su_Kien_3/playlist_1080p.m3u8
 http://live-zlr1.tv360.vn/manifest/Su_Kien_4/playlist_1080p.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Radio",Mytv
-https://iplogger.com/mytv.m3u8

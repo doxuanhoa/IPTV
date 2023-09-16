@@ -35,7 +35,7 @@ https://live-ali2.tv360.vn/manifest/SCTV6_HD/playlist_1080p.m3u8
 #EXTINF:-1 tvg-id="sctv14hd" group-title="SCTV 14 - KÊNH PHIM TRUYỆN VIỆT NAM" tvg-logo="https://i.postimg.cc/3R8GtzTZ/SCTV-14.png",SCTV14 - PHIM VIỆT
 https://dl.dropboxusercontent.com/s/u0l04bmxo9my0d2/					ㅤ|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctv9hd" group-title="SCTV9 - KÊNH PHIM TRUYỆN CHÂU Á" tvg-logo="https://i.postimg.cc/hPVPRFtK/sctv-9.png", SCTV9
-http://14.187.237.144:8080/sctv/s9/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s9.edge.cdn.sctvonline.vn/channel/sctv9/index.m3u8
+https://dl.dropboxusercontent.com/s/ft0mgx9tngq1nid/					ㅤ|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctvhdpth" group-title="SCTV" tvg-logo="https://i.postimg.cc/4dkcr3Xx/PHIM-TONG-HOP.png", SCTV PHIM TỔNG HỢP
 http://14.187.237.144:8080/sctv/s7/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s7.edge.cdn.sctvonline.vn/channel/sctvphimtonghop/index.m3u8
 #EXTINF:-1 tvg-id="hanoi1" group-title="KÊNH 1 TRUYỀN HÌNH HÀ NỘI" tvg-logo="https://i.postimg.cc/fRZC02sn/H1.png",HÀ NỘI 1

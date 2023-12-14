@@ -1,13 +1,18 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/beartv_epg.xml"
 
+
+#EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/9/92/Kplus_logo.png", K+ LIVE
+https://livecdn2.chaolua1.tv/live/_definst_/stream_1_4e329@VG06/chunklist.m3u8
+
+
+
 #EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/9/92/Kplus_logo.png", K+ SPORT 1
 #EXTINF:-1 tvg-id="ksport2hd" group-title="K+" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/9/92/Kplus_logo.png", K+ SPORT 2
-#EXTINF:-1 tvg-id="klifehd" group-title="K+" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/9/92/Kplus_logo.png", K+ LIFE
+#EXTINF:-1 tvg-id="kaction" group-title="K+" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/9/92/Kplus_logo.png", K+ ACTION
 #EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/9/92/Kplus_logo.png", K+ CINE
 #EXTINF:-1 tvg-id="kkidshd" group-title="K+" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/9/92/Kplus_logo.png", K+ KIDS
 
-#EXTINF:-1  tvg-id="btv5hd" group-title="SCTV" tvg-logo="https://i.postimg.cc/XqThnr68/BTV5.png" , BTV5 - THỂ THAO
-https://code.vthanhtivi.pw/getlink/onlive/onsportsact/90092.m3u8
+
 #EXTINF:-1 tvg-id="htvthethaohd" group-title="HTV THỂ THAO"  tvg-logo="https://i.postimg.cc/NFhSSkS4/thethao.png" ,HTV THỂ THAO
 https://code.vthanhtivi.pw/getlink/vieon/htv-the-thao/playlist.m3u8
 
@@ -36,6 +41,21 @@ http://103.82.21.118:9981/stream/mux/893a3f304661241663e0e0455983742b?ticket=69F
 https://kw9lnjfrr3liv.vcdn.cloud/SCTV15/index.m3u8
 #EXTINF:-1 tvg-id="sctv17hd" group-title="SCTV17 - KÊNH THỂ THAO" tvg-logo="https://i.postimg.cc/rmj0xrjs/sctv17.png", SCTV17 - THỂ THAO
 https://s12.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e7.endpoint.cdn.sctvonline.vn/nginx.s12.edge.cdn.sctvonline.vn/live/smil:SCTV17.smil/chunklist_b1692000.m3u8
+
+#EXTINF:-1  tvg-id="btv5hd" group-title="SCTV" tvg-logo="https://i.postimg.cc/XqThnr68/BTV5.png" , BTV5 - THỂ THAO
+https://code.vthanhtivi.pw/getlink/onlive/onsportsact/90092.m3u8
+
+
+#EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/9/92/Kplus_logo.png", K+
+https://oljqnz4mcrliv.vcdn.cloud/live2021viettel2/live2021viettel2@1080p.m3u8
+#EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/9/92/Kplus_logo.png", K+
+https://k15x9lzp1nliv.vcdn.cloud/live2021viettel3/live2021viettel3@1080p.m3u8
+#EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/9/92/Kplus_logo.png", K+
+https://svichfzi9zliv.vcdn.cloud/live2021viettel4/live2021viettel4@1080p.m3u8
+#EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/9/92/Kplus_logo.png", K+
+https://bbkf6fomlrliv.vcdn.cloud/live2021viettel/live2021viettel@1080p.m3u8
+#EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/9/92/Kplus_logo.png", K+
+https://yej7hfooalliv.vcdn.cloud/live2021viettel8/live2021viettel8@1080p.m3u8
 
 
 #EXTINF:-1 group-title="HBO - KÊNH PHIM TRUYỆN ĐẶC SẮC" tvg-id="hbohd" tvg-logo="https://i.postimg.cc/hPZRsTMX/hbo.png"  , HBO

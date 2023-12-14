@@ -26,7 +26,7 @@ https://code.vthanhtivi.pw/getlink/vieon2/vtvcab3-on-sports/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="ON VFF- LĐBĐ VIỆT NAM"  tvg-logo="https://static.wikia.nocookie.net/logos/images/6/63/ON_VFF.png/revision/latest/scale-to-width-down/1000?cb=20220601125848&path-prefix=vi", ON VFF
 #EXTINF:-1 tvg-id="vtvcab16hd" group-title="ON FOOTBALL- KÊNH THỂ THAO"  tvg-logo="https://i.postimg.cc/brYMf63S/OF.webp", ON FOOTBALL
-https://code.vthanhtivi.pw/getlink/vieon2/vtvcab16-on-football/playlist.m3u8
+http://103.82.21.118:9981/stream/mux/13d2a5a92a762294dff96717054dd869?ticket=1D40AC2F2706CA262A3E6D33B697527ACB13418A
 
 #EXTINF:-1 tvg-id="vtvcab16hd" group-title="ON FOOTBALL- KÊNH THỂ THAO"  tvg-logo="https://i.postimg.cc/brYMf63S/OF.webp", ON FOOTBALL HD
 

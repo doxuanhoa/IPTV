@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/beartv_epg.xml"
 
 
-#EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/9/92/Kplus_logo.png", K+ LIVE
+#EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/9/92/Kplus_logo.png", K+
 https://livecdn2.chaolua1.tv/live/_definst_/stream_1_4e329@VG06/chunklist.m3u8
 
 

@@ -7,9 +7,13 @@ https://livecdn2.chaolua1.tv/live/_definst_/stream_1_4e329@VG06/chunklist.m3u8
 
 
 #EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/9/92/Kplus_logo.png", K+ SPORT 1
+http://stream2.khanggtivi.xyz:1234/stream/kplus/kplus1?u=khangtv&p=b011bf56fdc43f46c076538b3c1118133439a93951d6881a6545e56c8a66084c
 #EXTINF:-1 tvg-id="ksport2hd" group-title="K+" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/9/92/Kplus_logo.png", K+ SPORT 2
+http://stream2.khanggtivi.xyz:1234/stream/kplus/kplus2?u=khangtv&p=b011bf56fdc43f46c076538b3c1118133439a93951d6881a6545e56c8a66084c
 #EXTINF:-1 tvg-id="kaction" group-title="K+" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/9/92/Kplus_logo.png", K+ ACTION
+http://b4tv.live/play/4QwRtVvD1xJIP-l7j-o7Usol2aJMUP074Y56-_ggO0U/ts
 #EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/9/92/Kplus_logo.png", K+ CINE
+http://b4tv.live/play/4QwRtVvD1xJIP-l7j-o7UsjgB5aa27hGeyLrtm8iFPg/ts
 #EXTINF:-1 tvg-id="kkidshd" group-title="K+" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/9/92/Kplus_logo.png", K+ KIDS
 
 
@@ -20,7 +24,7 @@ https://code.vthanhtivi.pw/getlink/vieon/htv-the-thao/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="VTVcab" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/5e/ON_Golf_TV_logo_2022.png/revision/latest/scale-to-width-down/1000?cb=20220311023800&path-prefix=vi",ON GOLF
 #EXTINF:-1 tvg-id="vtvcab6hd" group-title="VTVcab" tvg-logo="https://i.postimg.cc/LXp4fWvv/vtvcab6.png",VTVcab6 - ON SPORT+
 #EXTINF:0 tvg-id="vtvcab3hd" group-title="VTV CAB 3 - ONSPORT" tvg-logo="https://i.postimg.cc/wBPgH4vr/OS.webp",VTVcab3 - ON SPORT
-https://code.vthanhtivi.pw/getlink/vieon2/vtvcab3-on-sports/playlist.m3u8
+http://103.82.21.118:9981/stream/mux/315d6905c5472f35adf851fa7d316a8b?ticket=ECF8FF3C1B460D69EEBD3321078EB450F9519596
 
 
 
@@ -32,7 +36,7 @@ http://103.82.21.118:9981/stream/mux/13d2a5a92a762294dff96717054dd869?ticket=1D4
 
 
 #EXTINF:0 tvg-id="vtvcab18hd" group-title="🇻| VTVcab" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/1f/ON_Sports_News_logo_2022.png/revision/latest/scale-to-width-down/1000?cb=20220403050655&path-prefix=vi",VTVcab18 - ON SPORT NEWS
-https://code.vthanhtivi.pw/getlink/vieon2/vtvcab18-on-sports-news/playlist.m3u8
+http://103.82.21.118:9981/stream/mux/911589c9ee40cacf3f0c2321b2460076?ticket=10B9C140C3FADBB77953EB733DB9CA10592AADC2
 
 #EXTINF:0 tvg-id="ons" group-title="VTV CAB" tvg-logo="https://i.postimg.cc/wBPgH4vr/OS.webp",ON SPORT+
 http://103.82.21.118:9981/stream/mux/893a3f304661241663e0e0455983742b?ticket=69FF7DAA6836F1582FDB76EC6B945CB372049A68

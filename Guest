@@ -61,9 +61,27 @@ https://code.vthanhtivi.pw/getlink/onlive/onsportsact/90092.m3u8
 #EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/9/92/Kplus_logo.png", K+
 #https://yej7hfooalliv.vcdn.cloud/live2021viettel8/live2021viettel8@1080p.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMpdFCGP/NOW.png" ,SPORT 4k
+http://vietplay.online:9981/stream/mux/01ac68896aaaf20444f7a7910eeeec31?ticket=6161E45770C280A3B19EF45562D1085583D0DA57
+
+#EXTINF:-1 tvg-id="animalhd" group-title="ANIMAL PLANET - KÊNH ĐỘNG VẬT" tvg-logo="https://i.postimg.cc/bY4MVMsv/ANIMAL-PLANET.png" , ANIMAL PLANET
+http://vthanhtivi.pw:5000/animal/mpegts
+#EXTINF:-1 group-title="DISCOVERY - KÊNH KHOA HỌC" tvg-id="discoveryhd" tvg-logo="https://i.postimg.cc/90YWnv37/Discovery.png" ,DISCOVERY
+http://vthanhtivi.pw:5000/discovery/mpegts
+
+#EXTINF:-1 tvg-id="bbc_earth" group-title="Quốc tế" tvg-logo="https://i.postimg.cc/qqx2gGLM/oie-Nd9dlcrft-Y6m.png",BBC EARTH
+http://vthanhtivi.pw:5000/bbcearth/mpegts
 
 #EXTINF:-1 group-title="HBO - KÊNH PHIM TRUYỆN ĐẶC SẮC" tvg-id="hbohd" tvg-logo="https://i.postimg.cc/hPZRsTMX/hbo.png"  , HBO
 http://vthanhtivi.pw:5000/hbo/mpegts
 
+#EXTINF:-1 group-title="Quốc tế" tvg-id="axnhd" tvg-logo="https://i.postimg.cc/MTSFVhPL/AXN.png" ,AXN
+http://vthanhtivi.pw:5000/axn/mpegts
+
+#EXTINF:-1 tvg-id="cinemaxhd"  tvg-logo="https://i.postimg.cc/VLWvtQyD/cinemax.png" group-title="CINEMAX - KÊNH PHIM TRUYỆN" , CINEMAX
+http://vthanhtivi.pw:5000/cinemax/mpegts
 #EXTINF:-1 tvg-id="cartoonhd" group-title="CARTOON NETWORK - KÊNH THIẾU NHI" tvg-logo="https://i.postimg.cc/0yrP1crG/cn.png" ,CARTOON NETWORK
 http://vthanhtivi.pw:5000/cartoon/mpegts
+
+#EXTINF:-1 tvg-id="animaxhd" group-title="ANIMAX - KÊNH PHIM THIẾU NHI NHẬT BẢN" tvg-logo="https://i.postimg.cc/bv4qypKm/animax.png" ,ANIMAX
+http://vthanhtivi.pw:5000/animax/mpegts

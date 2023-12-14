@@ -51,15 +51,15 @@ https://code.vthanhtivi.pw/getlink/onlive/onsportsact/90092.m3u8
 
 
 #EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/9/92/Kplus_logo.png", K+
-https://oljqnz4mcrliv.vcdn.cloud/live2021viettel2/live2021viettel2@1080p.m3u8
+#https://oljqnz4mcrliv.vcdn.cloud/live2021viettel2/live2021viettel2@1080p.m3u8
 #EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/9/92/Kplus_logo.png", K+
-https://k15x9lzp1nliv.vcdn.cloud/live2021viettel3/live2021viettel3@1080p.m3u8
+#https://k15x9lzp1nliv.vcdn.cloud/live2021viettel3/live2021viettel3@1080p.m3u8
 #EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/9/92/Kplus_logo.png", K+
-https://svichfzi9zliv.vcdn.cloud/live2021viettel4/live2021viettel4@1080p.m3u8
+#https://svichfzi9zliv.vcdn.cloud/live2021viettel4/live2021viettel4@1080p.m3u8
 #EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/9/92/Kplus_logo.png", K+
-https://bbkf6fomlrliv.vcdn.cloud/live2021viettel/live2021viettel@1080p.m3u8
+#https://bbkf6fomlrliv.vcdn.cloud/live2021viettel/live2021viettel@1080p.m3u8
 #EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/9/92/Kplus_logo.png", K+
-https://yej7hfooalliv.vcdn.cloud/live2021viettel8/live2021viettel8@1080p.m3u8
+#https://yej7hfooalliv.vcdn.cloud/live2021viettel8/live2021viettel8@1080p.m3u8
 
 
 #EXTINF:-1 group-title="HBO - KÊNH PHIM TRUYỆN ĐẶC SẮC" tvg-id="hbohd" tvg-logo="https://i.postimg.cc/hPZRsTMX/hbo.png"  , HBO

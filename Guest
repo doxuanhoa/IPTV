@@ -2,26 +2,6 @@
 
 
 
-#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/beartv_epg.xml"
-#EXTINF:-1 tvg-id="vtv1hd" group-title="VTV1" tvg-logo="https://i.postimg.cc/mk3tGrJq/VTV1.png"  , VTV1
-https://e2.endpoint.cdn.sctvonline.vn/hls/vtv1/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="vtv2hd" group-title="VTV2" tvg-logo="https://i.postimg.cc/8kYyFzFW/VTV2.png"  , VTV2
-https://e3.endpoint.cdn.sctvonline.vn/hls/vtv2/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="vtv3hd" group-title="VTV3" tvg-logo="https://i.postimg.cc/3JDt2Qpq/VTV3.png" , VTV3
-https://e2.endpoint.cdn.sctvonline.vn/hls/vtv3/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="vtv4hd" group-title="VTV4" tvg-logo="https://i.postimg.cc/y6w00g7m/VTV4.png",VTV4
-https://e3.endpoint.cdn.sctvonline.vn/hls/vtv4/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="vtv5hd" group-title="VTV5" tvg-logo="https://i.postimg.cc/MKVV56Gh/VTV5.png" , VTV5
-https://e3.endpoint.cdn.sctvonline.vn/hls/vtv5/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="vtv6hd" group-title="VTV CẦN THƠ" tvg-logo="https://i.postimg.cc/vT1r3xnV/vtvct.webp" , VTV CẦN THƠ
-https://e2.endpoint.cdn.sctvonline.vn/hls/vtv6/index.m3u8|Referer=http://sctvonline.vn/
-
-#EXTINF:-1 tvg-id="vtv7hd" group-title="VTV7" tvg-logo="https://i.postimg.cc/wBTN9Dkp/VTV7.png" ,VTV7
-https://e2.endpoint.cdn.sctvonline.vn/hls/vtv7/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="vtv8hd" group-title="VTV8" tvg-logo="https://i.postimg.cc/6phRsMnc/VTV8.png" , VTV8
-https://e3.endpoint.cdn.sctvonline.vn/hls/vtv8/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="vtv9hd" group-title="VTV9" tvg-logo="https://i.postimg.cc/5t7CyjPF/VTV9.png" ,VTV9
-https://e2.endpoint.cdn.sctvonline.vn/hls/vtv9/index.m3u8|Referer=http://sctvonline.vn/
 
 
 
@@ -42,37 +22,7 @@ http://b4tv.live/play/4QwRtVvD1xJIP-l7j-o7UsjgB5aa27hGeyLrtm8iFPg/ts
 #EXTINF:-1 tvg-id="kkidshd" group-title="K+" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/9/92/Kplus_logo.png", K+ KIDS
 
 
-#EXTINF:-1 tvg-id="htvthethaohd" group-title="HTV THỂ THAO"  tvg-logo="https://i.postimg.cc/NFhSSkS4/thethao.png" ,HTV THỂ THAO
-https://code.vthanhtivi.pw/getlink/vieon/htv-the-thao/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="" group-title="VTVcab" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/5e/ON_Golf_TV_logo_2022.png/revision/latest/scale-to-width-down/1000?cb=20220311023800&path-prefix=vi",ON GOLF
-#EXTINF:-1 tvg-id="vtvcab6hd" group-title="VTVcab" tvg-logo="https://i.postimg.cc/LXp4fWvv/vtvcab6.png",VTVcab6 - ON SPORT+
-#EXTINF:0 tvg-id="vtvcab3hd" group-title="VTV CAB 3 - ONSPORT" tvg-logo="https://i.postimg.cc/wBPgH4vr/OS.webp",VTVcab3 - ON SPORT
-http://103.82.21.118:9981/stream/mux/315d6905c5472f35adf851fa7d316a8b?ticket=ECF8FF3C1B460D69EEBD3321078EB450F9519596
-
-
-
-#EXTINF:-1 tvg-id="" group-title="ON VFF- LĐBĐ VIỆT NAM"  tvg-logo="https://static.wikia.nocookie.net/logos/images/6/63/ON_VFF.png/revision/latest/scale-to-width-down/1000?cb=20220601125848&path-prefix=vi", ON VFF
-#EXTINF:-1 tvg-id="vtvcab16hd" group-title="ON FOOTBALL- KÊNH THỂ THAO"  tvg-logo="https://i.postimg.cc/brYMf63S/OF.webp", ON FOOTBALL
-http://103.82.21.118:9981/stream/mux/13d2a5a92a762294dff96717054dd869?ticket=1D40AC2F2706CA262A3E6D33B697527ACB13418A
-
-#EXTINF:-1 tvg-id="vtvcab16hd" group-title="ON FOOTBALL- KÊNH THỂ THAO"  tvg-logo="https://i.postimg.cc/brYMf63S/OF.webp", ON FOOTBALL HD
-
-
-#EXTINF:0 tvg-id="vtvcab18hd" group-title="🇻| VTVcab" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/1f/ON_Sports_News_logo_2022.png/revision/latest/scale-to-width-down/1000?cb=20220403050655&path-prefix=vi",VTVcab18 - ON SPORT NEWS
-http://103.82.21.118:9981/stream/mux/911589c9ee40cacf3f0c2321b2460076?ticket=10B9C140C3FADBB77953EB733DB9CA10592AADC2
-
-#EXTINF:0 tvg-id="ons" group-title="VTV CAB" tvg-logo="https://i.postimg.cc/wBPgH4vr/OS.webp",ON SPORT+
-http://103.82.21.118:9981/stream/mux/893a3f304661241663e0e0455983742b?ticket=69FF7DAA6836F1582FDB76EC6B945CB372049A68
-
-#EXTINF:-1 tvg-id="sctv15hd" group-title="SCTV15 - KÊNH THỂ THAO" tvg-logo="https://i.postimg.cc/C1SnRNj9/sctv15.png", SCTV15 - THỂ THAO
-https://kw9lnjfrr3liv.vcdn.cloud/SCTV15/index.m3u8
-#EXTINF:-1 tvg-id="sctv17hd" group-title="SCTV17 - KÊNH THỂ THAO" tvg-logo="https://i.postimg.cc/rmj0xrjs/sctv17.png", SCTV17 - THỂ THAO
-https://s12.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e7.endpoint.cdn.sctvonline.vn/nginx.s12.edge.cdn.sctvonline.vn/live/smil:SCTV17.smil/chunklist_b1692000.m3u8
-
-#EXTINF:-1  tvg-id="btv5hd" group-title="SCTV" tvg-logo="https://i.postimg.cc/XqThnr68/BTV5.png" , BTV5 - THỂ THAO
-https://code.vthanhtivi.pw/getlink/onlive/onsportsact/90092.m3u8
+#
 
 
 #EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/9/92/Kplus_logo.png", K+

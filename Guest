@@ -7,9 +7,9 @@
 
 
 #EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/9/92/Kplus_logo.png", K+ SPORT 1
-http://stream2.khanggtivi.xyz:1234/stream/kplus/kplus1?u=khangtv&p=b011bf56fdc43f46c076538b3c1118133439a93951d6881a6545e56c8a66084c
+http://d343f8ab.vthanhtivi.pw/K_SPORT1/index.m3u8
 #EXTINF:-1 tvg-id="ksport2hd" group-title="K+" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/9/92/Kplus_logo.png", K+ SPORT 2
-http://stream2.khanggtivi.xyz:1234/stream/kplus/kplus2?u=khangtv&p=b011bf56fdc43f46c076538b3c1118133439a93951d6881a6545e56c8a66084c
+http://d343f8ab.vthanhtivi.pw/K_SPORT2/index.m3u8
 #EXTINF:-1 tvg-id="kaction" group-title="K+" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/9/92/Kplus_logo.png", K+ ACTION
 http://b4tv.live/play/4QwRtVvD1xJIP-l7j-o7Usol2aJMUP074Y56-_ggO0U/ts
 #EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/9/92/Kplus_logo.png", K+ CINE

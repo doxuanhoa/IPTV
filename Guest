@@ -1,6 +1,31 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/beartv_epg.xml"
 
 
+
+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/beartv_epg.xml"
+#EXTINF:-1 tvg-id="vtv1hd" group-title="VTV1" tvg-logo="https://i.postimg.cc/mk3tGrJq/VTV1.png"  , VTV1
+https://e2.endpoint.cdn.sctvonline.vn/hls/vtv1/index.m3u8
+#EXTINF:-1 tvg-id="vtv2hd" group-title="VTV2" tvg-logo="https://i.postimg.cc/8kYyFzFW/VTV2.png"  , VTV2
+https://e3.endpoint.cdn.sctvonline.vn/hls/vtv2/index.m3u8
+#EXTINF:-1 tvg-id="vtv3hd" group-title="VTV3" tvg-logo="https://i.postimg.cc/3JDt2Qpq/VTV3.png" , VTV3
+https://e2.endpoint.cdn.sctvonline.vn/hls/vtv3/index.m3u8
+#EXTINF:-1 tvg-id="vtv4hd" group-title="VTV4" tvg-logo="https://i.postimg.cc/y6w00g7m/VTV4.png",VTV4
+https://e3.endpoint.cdn.sctvonline.vn/hls/vtv4/index.m3u8
+#EXTINF:-1 tvg-id="vtv5hd" group-title="VTV5" tvg-logo="https://i.postimg.cc/MKVV56Gh/VTV5.png" , VTV5
+https://e3.endpoint.cdn.sctvonline.vn/hls/vtv5/index.m3u8
+#EXTINF:-1 tvg-id="vtv6hd" group-title="VTV CẦN THƠ" tvg-logo="https://i.postimg.cc/vT1r3xnV/vtvct.webp" , VTV CẦN THƠ
+https://raw.githubusercontent.com/DinhLap96/ListTivi/main/ListTiVi/Logo/VTVCanTho.png
+
+#EXTINF:-1 tvg-id="vtv7hd" group-title="VTV7" tvg-logo="https://i.postimg.cc/wBTN9Dkp/VTV7.png" ,VTV7
+https://e2.endpoint.cdn.sctvonline.vn/hls/vtv7/index.m3u8
+#EXTINF:-1 tvg-id="vtv8hd" group-title="VTV8" tvg-logo="https://i.postimg.cc/6phRsMnc/VTV8.png" , VTV8
+https://e3.endpoint.cdn.sctvonline.vn/hls/vtv8/index.m3u8
+#EXTINF:-1 tvg-id="vtv9hd" group-title="VTV9" tvg-logo="https://i.postimg.cc/5t7CyjPF/VTV9.png" ,VTV9
+https://e2.endpoint.cdn.sctvonline.vn/hls/vtv9/index.m3u8
+
+
+
+
 #EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/9/92/Kplus_logo.png", K+
 #https://livecdn2.chaolua1.tv/live/_definst_/stream_1_4e329@VG06/chunklist.m3u8
 

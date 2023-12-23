@@ -15,22 +15,30 @@
 http://d343f8ab.vthanhtivi.pw/K_SPORT1/index.m3u8
 #EXTINF:-1 tvg-id="ksport2hd" group-title="K+" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/9/92/Kplus_logo.png", K+ SPORT 2
 http://d343f8ab.vthanhtivi.pw/K_SPORT2/index.m3u8
-#EXTINF:-1 tvg-id="kaction" group-title="K+" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/9/92/Kplus_logo.png", K+ ACTION
-http://b4tv.live/play/4QwRtVvD1xJIP-l7j-o7Usol2aJMUP074Y56-_ggO0U/ts
 #EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/9/92/Kplus_logo.png", K+ CINE
 http://b4tv.live/play/4QwRtVvD1xJIP-l7j-o7UsjgB5aa27hGeyLrtm8iFPg/ts
+#EXTINF:-1 tvg-id="kaction" group-title="K+" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/9/92/Kplus_logo.png", K+ ACTION
+http://b4tv.live/play/4QwRtVvD1xJIP-l7j-o7Usol2aJMUP074Y56-_ggO0U/ts
+
 #EXTINF:-1 tvg-id="kkidshd" group-title="K+" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/9/92/Kplus_logo.png", K+ KIDS
 
 
-#
+#EXTINF:0 tvg-id="vtvcab3hd" group-title="VTV CAB 3 - ONSPORT" tvg-logo="https://i.postimg.cc/wBPgH4vr/OS.webp",VTVcab3 - ON SPORT
+http://vietplay.online:9981/stream/mux/98da61c285a6936f47503d3b9bdb685c?ticket=7DE271C26A3CB2A66A460889DF84719D5578A47F
+
+#EXTINF:-1 tvg-id="vtvcab6hd" group-title="VTVcab" tvg-logo="https://i.postimg.cc/LXp4fWvv/vtvcab6.png",VTVcab6 - ON SPORT+
+http://vietplay.online:9981/stream/mux/09308c575e062de934aede76f3159fea?ticket=9E683F2B5324A5D1DB26EF8F472A0BF6ED7F8785
+#EXTINF:-1 tvg-id="" group-title="ON VFF- LĐBĐ VIỆT NAM"  tvg-logo="https://static.wikia.nocookie.net/logos/images/6/63/ON_VFF.png/revision/latest/scale-to-width-down/1000?cb=20220601125848&path-prefix=vi", ON VFF
+#EXTINF:-1 tvg-id="vtvcab16hd" group-title="ON FOOTBALL- KÊNH THỂ THAO"  tvg-logo="https://i.postimg.cc/brYMf63S/OF.webp", ON FOOTBALL
+http://vietplay.online:9981/stream/mux/a225dddf0a44d44bdef4f6505a8dcd10?ticket=E9F99138CC17EA5E3EF7F687D1F918250E85AD8B
 
 
-#EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/9/92/Kplus_logo.png", K+
-#https://oljqnz4mcrliv.vcdn.cloud/live2021viettel2/live2021viettel2@1080p.m3u8
-#EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/9/92/Kplus_logo.png", K+
-#https://k15x9lzp1nliv.vcdn.cloud/live2021viettel3/live2021viettel3@1080p.m3u8
-#EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/9/92/Kplus_logo.png", K+
-#https://svichfzi9zliv.vcdn.cloud/live2021viettel4/live2021viettel4@1080p.m3u8
+#EXTINF:-1 tvg-id="1ksport1hd" group-title="K+" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/9/92/Kplus_logo.png",  NGOẠI HẠNG ANH
+https://livecdn2.chaolua1.tv/live/_definst_/stream_1_4831b@xxyy3/chunklist.m3u8
+#EXTINF:-1 tvg-id="1ksport1hd" group-title="K+" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/9/92/Kplus_logo.png", NGOẠI HẠNG ANH
+https://livecdn2.chaolua1.tv/live/_definst_/stream_1_4831b@xxyy3/chunklist.m3u8
+#EXTINF:-1 tvg-id="1ksport1hd" group-title="K+" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/9/92/Kplus_logo.png", NGOẠI HẠNG ANH
+https://liveflv-caheo.cdnlive.pro/live/stream_1_a86e6@m201nd.flv
 #EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/9/92/Kplus_logo.png", K+
 #https://bbkf6fomlrliv.vcdn.cloud/live2021viettel/live2021viettel@1080p.m3u8
 #EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/9/92/Kplus_logo.png", K+

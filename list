@@ -427,7 +427,7 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
 
 #EXTINF:-1 tvg-id="CAM1" group-title="CAMERA 01" tvg-logo="https://tuongvui.vn/wp-content/uploads/2021/08/camera-ezviz-c6cn.01.png",CAMERA
-rtsp://admin:MNMKXQ@192.168.100.27:554/H.264
+
 
 #EXTINF:-1 tvg-id="cna_channel_news_asia" tvg-logo="https://i.postimg.cc/MZBbRX4v/channelnewsasia.png" group-title="Quốc tế",CHANNEL  NEWS ASIA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
@@ -508,15 +508,3 @@ http://live-ali4.tv360.vn/manifest/Su_Kien_3/playlist_1080p.m3u8
 #EXTINF:0 group-title="TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/03/21/13/1679381719416/902f0862cc9b_480_270.png",TV360+ 4
 http://live-zlr1.tv360.vn/manifest/Su_Kien_4/playlist_1080p.m3u8
 
-#EXTINF:-1 group-title="ASIAD 19" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/9/9a/2022_Asian_Games_logo.svg/1200px-2022_Asian_Games_logo.svg.png",ASIAD Live 1
-http://stream.cvmtv.site:8002/EV01?token=asiad
-#EXTINF:-1 group-title="ASIAD 19" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/9/9a/2022_Asian_Games_logo.svg/1200px-2022_Asian_Games_logo.svg.png",ASIAD Live 2
-http://stream.cvmtv.site:8002/EV02?token=asiad
-#EXTINF:-1 group-title="ASIAD 19" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/9/9a/2022_Asian_Games_logo.svg/1200px-2022_Asian_Games_logo.svg.png",ASIAD Live 3
-http://stream.cvmtv.site:8002/EV03?token=asiad
-#EXTINF:-1 group-title="ASIAD 19" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/9/9a/2022_Asian_Games_logo.svg/1200px-2022_Asian_Games_logo.svg.png",ASIAD Live 4
-http://stream.cvmtv.site:8002/EV04?token=asiad
-#EXTINF:-1 group-title="ASIAD 19" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/9/9a/2022_Asian_Games_logo.svg/1200px-2022_Asian_Games_logo.svg.png",ASIAD Live 5
-http://stream.cvmtv.site:8002/EV05?token=asiad
-#EXTINF:-1 group-title="ASIAD 19" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/9/9a/2022_Asian_Games_logo.svg/1200px-2022_Asian_Games_logo.svg.png",ASIAD Live 6
-http://stream.cvmtv.site:8002/EV06?token=asiad

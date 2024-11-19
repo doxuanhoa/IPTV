@@ -496,6 +496,7 @@ http://stream2.mobiradio.vn/vovradio/vovgthn.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="klifehd" group-title="K+" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/9/92/Kplus_logo.png", K+ LIFE
 #EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/9/92/Kplus_logo.png", K+ CINE
 #EXTINF:-1 tvg-id="kkidshd" group-title="K+" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/9/92/Kplus_logo.png", K+ KIDS
+http://113.162.2.210:8989/rtp/232.84.3.42:11800
 
 
 #EXTINF:0 group-title="TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/02/10/15/1676017184627/cd3d4c1e88ff_480_270.png",TV360+ 1

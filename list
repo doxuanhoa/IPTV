@@ -150,7 +150,7 @@ https://livecdn.fptplay.net/sdb/backan_hls.smil/chunklist_b2500000.m3u8
 https://streaming.thainguyentv.vn/hls/livestream.m3u8
 #EXTINF:-1 tvg-id="thainguyen" tvg-logo="https://i.postimg.cc/MG9dCPBv/TN2.png" group-title="TRUYỀN HÌNH THÁI NGUYÊN 2", THÁI NGUYÊN 2
 #EXTINF:-1 tvg-id="tuyenquangtvttv" group-title="TRUYỀN HÌNH TUYÊN QUANG" tvg-logo="https://i.postimg.cc/26b0zfmF/TTV.png", TUYÊN QUANG
-https://live.tuyenquangtv.vn/hls/ttv.m3u8
+https://streaming.tuyenquangtv.vn/channel/tuyenquang/channel/tuyenquang_720p/chunks.m3u8
 #EXTINF:-1 group-title="TRUYỀN HÌNH PHÚ THỌ" tvg-logo="https://i.postimg.cc/QtF80jbL/PhuTho.png", PHÚ THỌ
 https://cdn.3ssoft.vn/live/phuthotv/phuthotv/index.m3u8?t=afTrKcZ-syH-8FuJHj-pnw&e=1688215388
 #EXTINF:-1 tvg-id="bacgiangtvbgtv" group-title="TRUYỀN HÌNH BẮC GIANG" tvg-logo="https://i.postimg.cc/QMCYFQ6M/BacGiang.png" ,BẮC GIANG

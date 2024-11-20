@@ -16,7 +16,8 @@ https://liveh34.vtvcab.vn/hls/TTXVN_VNEWS/index.m3u8
 #EXTINF:-1 tvg-id="antvhd" group-title="ANTV - TRUYỀN HÌNH CÔNG AN NHÂN DÂN" tvg-logo="https://i.postimg.cc/YSgRhYmN/ANTV.png" ,AN NINH TV
 https://liveh34.vtvcab.vn/hls/ONANTV_CL/04.m3u8
 #EXTINF:-1 tvg-id="qpvnhd"  tvg-logo="https://i.postimg.cc/43mM8s5d/QPVN-N.png" group-title="QPVN - QUỐC PHÒNG VIỆT NAM " ,QUỐC PHÒNG VIỆT NAM
-https://liveh34.vtvcab.vn/hls/ONQUOCPHONG_CL/index.m3u8
+https://oipf0znpmnliv.vcdn.cloud/hls/quocphongvn/index.m3u8
+#https://liveh34.vtvcab.vn/hls/ONQUOCPHONG_CL/index.m3u8
 #EXTINF:-1 group-title="THHN - TRUYỀN HÌNH HÀ NAM" tvg-logo="https://i.postimg.cc/RZL8HMJw/Hanam.png" ,HÀ NAM
 https://cdn.hanamtv.vn/live/285361fcafcd0ec47bba2fa3f5870f8dc72/chunklist.m3u8
 #EXTINF:-1 tvg-id="vtc1hd" group-title="VTC1 - KÊNH THỜI SỰ CHÍNH TRỊ TỔNG HỢP" tvg-logo="https://i.postimg.cc/s2RKtcgh/VTC1.png" ,VTC1
